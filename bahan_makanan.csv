@@ -1,0 +1,542 @@
+no.,nama_bahan,class
+1,Beras,serealia
+2,Jagung,serealia
+3,Jali,serealia
+4,Jawawut,serealia
+5,Jampang huma,serealia
+6,Daging sapi,daging
+7,Daging angsa,daging
+8,Daging Ayam,daging
+9,Darah ayam,daging
+10,Hati ayam,daging
+11,Daging babi,daging
+12,Ginjal babi,daging
+13,Hati babi,daging
+14,Daging itik,daging
+15,Daging belibis,daging
+16,Sarang burung,daging
+17,Daging domba,daging
+18,Ginjal domba,daging
+19,Daging kambing,daging
+20,Daging kelinci,daging
+21,Daging kerbau,daging
+22,Daging kuda,daging
+23,Babat sapi,daging
+24,Delaman ayam,daging
+25,Darah sapi,daging
+26,Ginjal sapi,daging
+27,Keleponan sapi,daging
+28,Hati sapi,daging
+29,Otak sapi,daging
+30,Usus sapi,daging
+31,Ulat sagu,daging
+32,Daging buaya,daging
+33,Daging Menjangan,daging
+34,Daging penyu,daging
+35,Telur ayam kampung,telur
+36,Telur ayam ras,telur
+37,Putih telur ayam,telur
+38,Kuning telur ayam,telur
+39,Telur bebek alabio,telur
+40,Kuning telur bebek,telur
+41,Putih telur bebek,telur
+42,Telur bebek tambak,telur
+43,Telur burung maleo,telur
+44,Telur penyu,telur
+45,Telur burung puyuh,telur
+46,Arrowroot,ubi
+47,Batatas gembili,ubi
+48,Batatas kelapa,ubi
+49,Talas,ubi
+50,Bengkuang,ubi
+51,Gadung kering,ubi
+52,Gadung,ubi
+53,Ganyong,ubi
+54,Gembili,ubi
+55,Ubi hutan,ubi
+56,Kaburan,ubi
+57,Kentang,ubi
+58,Kentang hitam,ubi
+59,Keribang,ubi
+60,singkong,ubi
+61,Ubi rumput,ubi
+62,Sagu aren kering,ubi
+63,Sagu aren,ubi
+64,Sagu kasbi,ubi
+65,Sagu lempeng,ubi
+66,Sagu singkong kering,ubi
+67,Sente,ubi
+68,Suweg,ubi
+69,Talas bogor,ubi
+70,Talas pontianak,ubi
+71,Talas viqueque,ubi
+72,Ubi jalar kuning,ubi
+73,Ubi jalar manis,ubi
+74,Ubi jalar merah,ubi
+75,Ubi jalar putih,ubi
+76,Ubi jalar tinta,ubi
+77,Umbi Uwi,ubi
+78,Krim,susu
+79,Susu ibu - ASI,susu
+80,Susu kambing,susu
+81,Susu kerbau,susu
+82,Susu kuda,susu
+83,Susu sapi,susu
+84,Akar tonjong,sayur
+85,Ale toge,sayur
+86,Andaliman,sayur
+87,Andewi,sayur
+88,Bakung,sayur
+89,Baligo,sayur
+90,Bawang bombay,sayur
+91,Bayam,sayur
+92,Bayam merah,sayur
+93,Bit,sayur
+94,Buah kelor,sayur
+95,Buah merah,sayur
+96,Buncis,sayur
+97,Bunga pepaya,sayur
+98,Bunga turi,sayur
+99,Caisin,sayur
+100,Daun bangun-bangun,sayur
+101,Daun bawang merah,sayur
+102,Daun bebuas,sayur
+103,Daun belem,sayur
+104,Daun bluntas,sayur
+105,Daun gandaria,sayur
+106,Daun gedi besar,sayur
+107,Daun gedi kecil,sayur
+108,Daun gelang,sayur
+109,Daun gunda bali,sayur
+110,Daun gunda serang,sayur
+111,Daun jambu mete muda,sayur
+112,Daun jampang,sayur
+113,Daun jawaw seluang,sayur
+114,Daun jonghe,sayur
+115,Daun kacang ma,sayur
+116,Daun kacang panjang,sayur
+117,Daun singkong,sayur
+118,karet,sayur
+119,Daun katuk,sayur
+120,Daun kecipir,sayur
+121,Daun kedondong,sayur
+122,Daun kelor,sayur
+123,Daun kemang,sayur
+124,Daun kenikir,sayur
+125,Daun kesum,sayur
+126,Daun kol sawi,sayur
+127,Daun koro,sayur
+128,Daun kubis,sayur
+129,Daun kumak,sayur
+130,Daun labu siam,sayur
+131,Daun labu,sayur
+132,waluh/kuning,sayur
+133,Daun lamtoro,sayur
+134,Daun leilem,sayur
+135,Daun leunca,sayur
+136,Daun lobak,sayur
+137,Daun lompong talas,sayur
+138,Daun mangkokan,sayur
+139,Daun matel ambon,sayur
+140,Daun melinjo,sayur
+141,Daun mengkudu,sayur
+142,Daun ndusuk,sayur
+143,Daun oyong,sayur
+144,Daun pakis,sayur
+145,Daun pakis longgiho,sayur
+146,Daun pakis,sayur
+147,wambateu,sayur
+148,Daun paku,sayur
+149,Daun pangi,sayur
+150,Daun pare,sayur
+151,Daun pepaya,sayur
+152,Daun pohpohan,sayur
+153,Daun selasih,sayur
+154,Daun semanggi,sayur
+155,Daun simpur,sayur
+156,Daun singkil,sayur
+157,Daun singkong,sayur
+158,Daun singkong ambon,sayur
+159,Daun singkong ampenan,sayur
+160,Daun singkong kopang,sayur
+161,Daun sintrong,sayur
+162,Daun talas,sayur
+163,Daun tespong,sayur
+164,Daun ubi kuning,sayur
+165,Daun ubi merah,sayur
+166,Daun ubi putih,sayur
+167,Daun ubi tinta,sayur
+168,Eceng,sayur
+169,Gambas (oyong),sayur
+170,Genjer,sayur
+171,Jagung muda / semi,sayur
+172,Jamur encik,sayur
+173,Jamur kuping,sayur
+174,Jamur kuping,sayur
+175,Jamur merang,sayur
+176,Jamur tiram,sayur
+177,Jamur sagu,sayur
+178,Jantung pisang,sayur
+179,Jengkol,sayur
+180,Jotang,sayur
+181,Kabau,sayur
+182,Kacang mekah,sayur
+183,polong,sayur
+184,Kacang panjang,sayur
+185,Kacang ranti polong,sayur
+186,Kalakai,sayur
+187,Kangkung,sayur
+188,Kangkung tondano,sayur
+189,Kapri muda,sayur
+190,Karawila,sayur
+191,Kecipir muda,sayur
+192,Kecombrang,sayur
+193,Kelawi,sayur
+194,Kembang turi,sayur
+195,Kerokot,sayur
+196,Ketimun,sayur
+197,Ketimun krai,sayur
+198,Ketimun madura,sayur
+199,Komak,sayur
+200,Kool kembang,sayur
+201,Kool putih,sayur
+202,Kool merah,sayur
+203,Koro kerupuk,sayur
+204,Koro wedus,sayur
+205,Kucai,sayur
+206,Kucai muda (Lokio),sayur
+207,Kulit melinjo,sayur
+208,Kundur,sayur
+209,Labu air,sayur
+210,Labu kuning,sayur
+211,Labu siam,sayur
+212,Labu waluh,sayur
+213,Lantar,sayur
+214,Lobak,sayur
+215,Lumai/Leunca,sayur
+216,Melinjo,sayur
+217,Sawi,sayur
+218,Nangka muda,sayur
+219,Paria putih,sayur
+220,Pepare ular,sayur
+221,Pepaya muda,sayur
+222,Petai,sayur
+223,Peterseli,sayur
+224,Pucuk lumai/daun,sayur
+225,leunca,sayur
+226,Putri malu,sayur
+227,Rebung,sayur
+228,Rimbang,sayur
+229,Rumput laut,sayur
+230,Sawi,sayur
+231,Sawi putih / pecai,sayur
+232,Sawi taiwan,sayur
+233,Sawi tanah,sayur
+234,Selada,sayur
+235,Selada air,sayur
+236,Seledri,sayur
+237,Taoge,sayur
+238,Taoge kacang kedelai,sayur
+239,Taoge kacang tunggak,sayur
+240,Tebu terubuk (lilin),sayur
+241,Tekokak kering,sayur
+242,Terong,sayur
+243,Terong asam,sayur
+244,Terung belanda,sayur
+245,Terung bengkulu,sayur
+246,Terong hintalo,sayur
+247,Terung panjang,sayur
+248,Tomat air,sayur
+249,Tomat merah,sayur
+250,Tomat muda,sayur
+251,Uceng/ bunga melinjo,sayur
+252,Umbut kelapa,sayur
+253,Umbut rotan ,sayur
+254,Wortel,sayur
+255,Daging kelapa setengah tua,minyak
+256,Daging kelapa tua,minyak
+257,Lemak babi (lard),minyak
+258,Lemak babi (bacon),minyak
+259,Lemak ikan,minyak
+260,Lemak kerbau (lemak sapi),minyak
+261,Minyak hati hiu,minyak
+262,Minyak ikan,minyak
+263,Minyak kacang tanah,minyak
+264,Minyak kedelai,minyak
+265,Minyak kelapa,minyak
+266,Minyak kelapa sawit,minyak
+267,Minyak wijen,minyak
+268,Minyak zaitun,minyak
+269,Alpukat,buah
+270,Anggur hutan,buah
+271,Apel malang,buah
+272,Apel,buah
+273,Arbai,buah
+274,Belimbing,buah
+275,Biwah,buah
+276,Buah atung,buah
+277,Buah kelenting,buah
+278,Buah kom,buah
+279,Buah mentega,buah
+280,Buah Naga Merah,buah
+281,Buah Naga Putih,buah
+282,Buah negri,buah
+283,Buah nona,buah
+284,Buah rotan,buah
+285,Buah rukam,buah
+286,Buah ruruhi,buah
+287,Buah tuppa,buah
+288,Carica papaya,buah
+289,Cempedak,buah
+290,Duku,buah
+291,Durian,buah
+292,Duwet,buah
+293,Embacang,buah
+294,Encung asam,buah
+295,Erbis,buah
+296,Gandaria masak,buah
+297,Gatep,buah
+298,Jambu air,buah
+299,Jambu biji,buah
+300,Jambu biji putih tidak berbiji,buah
+301,Jambu bol,buah
+302,Jambu monyet,buah
+303,Jeruk bali,buah
+304,Jeruk banjar,buah
+305,Jeruk garut-keprok,buah
+306,Jeruk Kalamansi,buah
+307,Jeruk manis,buah
+308,Jeruk nipis,buah
+309,Jeruk ragi,buah
+310,Kawista,buah
+311,Kedondong masak,buah
+312,Kedondong,buah
+313,Kelapa hutan,buah
+314,Kelapa muda,buah
+315,Kemang,buah
+316,Kesemek,buah
+317,Kokosan,buah
+318,Kranji,buah
+319,Langsat,buah
+320,Lemon,buah
+321,Lontar,buah
+322,Mangga,buah
+323,Mangga benggala,buah
+324,Mangga gedung,buah
+325,Mangga golek,buah
+326,Mangga harumanis,buah
+327,Mangga indramayu,buah
+328,Mangga kopek,buah
+329,Mangga kwini,buah
+330,Mangga manalagi,buah
+331,Mangga muda,buah
+332,Manggis,buah
+333,Markisa,buah
+334,Matoa,buah
+335,Melon,buah
+336,Menteng,buah
+337,Nanas palembang,buah
+338,Nanas,buah
+339,Nangka masak pohon,buah
+340,Pala,buah
+341,Pepaya,buah
+342,Pisang ambon,buah
+343,Pisang angleng (pisang ampyang),buah
+344,Pisang ayam,buah
+345,Pisang gapi,buah
+346,Pisang goroho,buah
+347,Pisang hijau,buah
+348,Pisang kayu,buah
+349,Pisang kepok,buah
+350,Pisang ketip,buah
+351,Pisang kidang,buah
+352,Pisang lampung,buah
+353,Pisang mas bali ampenan,buah
+354,Pisang mas bali kopang,buah
+355,Pisang mas,buah
+356,Pisang raja sereh,buah
+357,Pisang raja sereh,buah
+358,Pisang rotan,buah
+359,Pisang talas,buah
+360,Pisang tujuh bulan,buah
+361,Pisang ua,buah
+362,Pisang uli,buah
+363,Purut,buah
+364,Rambutan binjai,buah
+365,Rambutan,buah
+366,Salak bali,buah
+367,Salak medan,buah
+368,Salak pondoh,buah
+369,Salak,buah
+370,Sawo duren,buah
+371,Sawo kecil,buah
+372,Sawo Manila,buah
+373,Semangka,buah
+374,Sirsak,buah
+375,Sowa,buah
+376,Srikaya,buah
+377,Sukun muda,buah
+378,Sukun tua,buah
+379,Vigus,buah
+380,Wani,buah
+381,Belut,ikan
+382,Belut laut,ikan
+383,Cumi-cumi,ikan
+384,Ikan bader,ikan
+385,Ikan balong,ikan
+386,Ikan bambangan,ikan
+387,Ikan bandeng,ikan
+388,Ikan banjar,ikan
+389,Ikan baronang,ikan
+390,Ikan batung,ikan
+391,Ikan baung,ikan
+392,Ikan bawal,ikan
+393,Ikan Belida,ikan
+394,Ikan beunteur,ikan
+395,Ikan biawan,ikan
+396,Ikan bili,ikan
+397,Ikan bubara,ikan
+398,Ikan bulan-bulan,ikan
+399,Ikan cakalang,ikan
+400,Hati ikan cakalang,ikan
+401,Jantung ikan cakalang ,ikan
+402,Ikan daun,ikan
+403,Ikan ekor kuning,ikan
+404,Ikan gabus,ikan
+405,Ikan heu,ikan
+406,Ikan hitam,ikan
+407,Ikan hiu,ikan
+408,Ikan kacangan,ikan
+409,Ikan kakap,ikan
+410,Ikan kakatua,ikan
+411,Ikan kalaban,ikan
+412,Ikan kamera (kakap merah),ikan
+413,Ikan kapar,ikan
+414,Ikan kawalinya,ikan
+415,Ikan keru-keru,ikan
+416,Ikan kima,ikan
+417,Ikan lais,ikan
+418,Ikan layang,ikan
+419,Ikan layur,ikan
+420,Ikan lehoma,ikan
+421,Ikan lemuru,ikan
+422,Ikan lidah,ikan
+423,Ikan malalugis,ikan
+424,Ikan mamar merah,ikan
+425,Ikan mas,ikan
+426,Ikan mayong,ikan
+427,Ikan mujahir,ikan
+428,Ikan nasu metti,ikan
+429,Ikan oci / kembung,ikan
+430,Ikan paling,ikan
+431,Ikan papuyu,ikan
+432,Ikan patin,ikan
+433,Ikan pomo,ikan
+434,Ikan puntin,ikan
+435,Ikan saluang,ikan
+436,Ikan sarden,ikan
+437,Ikan selar,ikan
+438,Ikan sepat,ikan
+439,Ikan sidat,ikan
+440,Ikan sunu,ikan
+441,Ikan tahuman,ikan
+442,Ikan tarmon,ikan
+443,Ikan telan,ikan
+444,Ikan tembang,ikan
+445,Ikan tempahas,ikan
+446,Ikan terbang,ikan
+447,Ikan teri,ikan
+448,Ikan titang,ikan
+449,Ikan tongkol,ikan
+450,Ikan turi,ikan
+451,Keong,ikan
+452,Kepiting,ikan
+453,Kerang,ikan
+454,Kodok,ikan
+455,Kura-kura,ikan
+456,Kuro,ikan
+457,Lokan,ikan
+458,Rajungan,ikan
+459,Rebon,ikan
+460,segar,ikan
+461,Rusip,ikan
+462,Udang galah,ikan
+463,"Udang, besar",ikan
+464,Udang,ikan
+465,Kacang arab kering,kacang
+466,Kacang babi kering,kacang
+467,Kacang belimbing kering,kacang
+468,Kacang beracun,kacang
+469,Kacang bogor,kacang
+470,Kacang bogor,kacang
+471,Kacang endel kering,kacang
+472,Kacang ercis,kacang
+473,kacang galing,kacang
+474,Kacang gude,kacang
+475,Kacang gude,kacang
+476,Kacang hijau var bakti,kacang
+477,Kacang hijau var siwalik,kacang
+478,Kacang hijau kering,kacang
+479,Kacang hitam kering,kacang
+480,Kacang kapri,kacang
+481,Kacang kedelai kering,kacang
+482,Kacang kedelai,kacang
+483,Kacang kincai kering,kacang
+484,Kacang komak,kacang
+485,Kacang kuning kering,kacang
+486,Kacang lebui /iris,kacang
+487,Kacang mentega kering,kacang
+488,Kacang merah /banda,kacang
+489,"Kacang merah tua,",kacang
+490,kering,kacang
+491,Kacang merah,kacang
+492,Kacang mete/biji,kacang
+493,jambu monyet,kacang
+494,Biji kacang panjang,kacang
+495,Kacang tanah sangan,kacang
+496,Kacang tanah,kacang
+497,Kacang tolo / tunggak,kacang
+498,Kacang tunis,kacang
+499,Kacang uci,kacang
+500,Kacang urei,kacang
+501,Kenari banda,kacang
+502,Kenari,kacang
+503,Komak polong,kacang
+504,Koro andong,kacang
+505,biji boro benguk,kacang
+506,Biji koro kerupuk,kacang
+507,Biji koro loke,kacang
+508,Koro roay kering,kacang
+509,Koro wedus kering,kacang
+510,Lamtoro biji muda,kacang
+511,Lamtoro biji tua,kacang
+512,Saga merah terkupas,kacang
+513,Wijen,kacang
+514,Asam arang coklat,bumbu
+515,Asam arang merah,bumbu
+516,Asan kandis,bumbu
+517,Asam masak pohon,bumbu
+518,Asam payak,bumbu
+519,Bawang merah,bumbu
+520,Bawang putih,bumbu
+521,Boros kunci,bumbu
+522,Boros laja (lengkuas),bumbu
+523,Cabai gembor merah,bumbu
+524,Cabai hijau,bumbu
+525,Cabai merah kering,bumbu
+526,Cabai merah segar,bumbu
+527,Cabai rawit segar,bumbu
+528,Cengkeh kering,bumbu
+529,Daun salam bubuk,bumbu
+530,Jahe,bumbu
+531,Kemiri,bumbu
+532,Ketumbar kering,bumbu
+533,Kluwek,bumbu
+534,Kunyit,bumbu
+535,Merica kering,bumbu
+536,Biji pala kering,bumbu
+537,Air,minuman
+538,Air kelapa muda,minuman
+539,Daun Teh hijau,minuman
+540,Daun teh hitam,minuman
+541,Daun teh melati,minuman
