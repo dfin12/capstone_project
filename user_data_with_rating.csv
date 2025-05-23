@@ -1,0 +1,301 @@
+user_id,budget,usia,rasa,meal_time,label,menu_makanan,rating
+1,7678,8,manis,breakfast,1,Apem kue,3
+2,9008,9,manis,breakfast,1,Ikan bandeng presto,5
+3,14737,8,asin,breakfast,0,Nasi Uduk Ayam Bakar,5
+4,6433,7,pedas,breakfast,1,Ikan bandeng presto,4
+5,10977,12,pedas,breakfast,0,Ikan Lais bakar,4
+6,8960,5,manis,breakfast,1,Nasi Uduk Ayam Bakar,1
+7,10166,6,asin,breakfast,1,Apem kue,5
+8,5530,10,manis,breakfast,1,Ceriping getuk singkong,3
+9,18007,8,manis,breakfast,1,Makaroni Sayur Brokoli,5
+10,7296,8,pedas,breakfast,1,Ikan Lais bakar,1
+11,5758,10,pedas,breakfast,1,Apem kue,2
+12,12095,11,gurih,breakfast,1,Ceriping getuk singkong,5
+13,12771,10,gurih,breakfast,1,Enting-enting wijen,2
+14,11331,10,asin,breakfast,1,Nasi Uduk Ayam Bakar,1
+15,8139,10,asin,breakfast,0,Ceriping getuk singkong,1
+16,14373,8,pedas,breakfast,0,Nasi Kentang Daging Domba,0
+17,18898,8,pedas,breakfast,1,Apem kue,5
+18,17380,6,gurih,breakfast,0,Makaroni Sayur Brokoli,3
+19,11679,5,manis,breakfast,1,Ikan Lais bakar,3
+20,13204,7,asin,breakfast,0,Nasi Kentang Daging Domba,2
+21,8003,5,gurih,breakfast,0,Apem kue,4
+22,6679,12,asin,breakfast,0,Bubur Singkong Telur Bebek,3
+23,7680,9,asin,breakfast,1,Makaroni Sayur Brokoli,4
+24,12429,10,pedas,breakfast,0,Ikan Lais bakar,2
+25,14412,11,asin,breakfast,1,Makaroni Sayur Brokoli,2
+26,10796,8,pedas,breakfast,0,Nasi Kentang Daging Domba,0
+27,5541,10,manis,breakfast,1,Bubur Singkong Telur Bebek,2
+28,16883,8,manis,breakfast,1,Ikan Lais bakar,0
+29,6394,10,asin,breakfast,1,Enting-enting wijen,1
+30,18355,12,gurih,breakfast,0,Nasi Uduk Ayam Bakar,1
+31,19417,10,gurih,breakfast,1,Ikan Lais bakar,3
+32,11301,8,gurih,breakfast,0,Mangga benggala,4
+33,18479,6,manis,breakfast,0,Makaroni Sayur Brokoli,5
+34,13783,8,manis,breakfast,0,Apem kue,3
+35,15002,7,manis,breakfast,0,Makaroni Sayur Brokoli,1
+36,12391,6,gurih,breakfast,0,Nasi Uduk Ayam Bakar,2
+37,7052,8,asin,breakfast,1,Apem kue,0
+38,14480,8,asin,breakfast,0,Nasi Kentang Daging Domba,2
+39,8559,6,manis,breakfast,0,Ikan bandeng presto,3
+40,14660,5,manis,breakfast,1,Enting-enting wijen,2
+41,8744,11,pedas,breakfast,1,Bubur Singkong Telur Bebek,4
+42,7286,7,gurih,breakfast,1,Ikan bandeng presto,1
+43,8893,5,manis,breakfast,1,Makaroni Sayur Brokoli,3
+44,15476,9,manis,breakfast,0,Makaroni Sayur Brokoli,4
+45,18120,11,pedas,breakfast,1,Ikan bandeng presto,5
+46,7785,5,asin,breakfast,0,Enting-enting wijen,2
+47,12883,8,gurih,breakfast,1,Ikan bandeng presto,0
+48,9143,11,manis,breakfast,0,Apem kue,3
+49,15172,8,gurih,breakfast,1,Ikan Lais bakar,0
+50,17508,6,gurih,breakfast,1,Mangga benggala,2
+51,14085,5,pedas,breakfast,0,Makaroni Sayur Brokoli,3
+52,16128,11,pedas,breakfast,1,Enting-enting wijen,3
+53,16379,11,asin,breakfast,1,Nasi Kentang Daging Domba,3
+54,16817,10,manis,breakfast,0,Ikan bandeng presto,5
+55,16039,6,pedas,breakfast,0,Ikan Lais bakar,4
+56,5245,12,gurih,breakfast,1,Ceriping getuk singkong,2
+57,7517,5,pedas,breakfast,0,Nasi Uduk Ayam Bakar,0
+58,19522,7,pedas,breakfast,0,Nasi Uduk Ayam Bakar,0
+59,8725,8,asin,breakfast,1,Ikan bandeng presto,2
+60,15397,9,manis,breakfast,0,Ceriping getuk singkong,5
+61,19602,5,pedas,breakfast,1,Enting-enting wijen,3
+62,8510,12,gurih,breakfast,0,Apem kue,5
+63,6292,8,gurih,breakfast,0,Mangga benggala,2
+64,12321,9,asin,breakfast,0,Makaroni Sayur Brokoli,4
+65,13289,5,gurih,breakfast,0,Enting-enting wijen,4
+66,12274,10,manis,breakfast,0,Enting-enting wijen,3
+67,14898,12,manis,breakfast,1,Ikan Lais bakar,4
+68,17631,8,gurih,breakfast,0,Bubur Singkong Telur Bebek,3
+69,16063,9,manis,breakfast,0,Makaroni Sayur Brokoli,2
+70,5258,8,pedas,breakfast,0,Enting-enting wijen,5
+71,10116,8,manis,breakfast,0,Ikan Lais bakar,4
+72,12800,12,pedas,breakfast,0,Mangga benggala,2
+73,12724,6,asin,breakfast,0,Mangga benggala,0
+74,13535,10,manis,breakfast,1,Ikan bandeng presto,2
+75,7967,8,pedas,breakfast,1,Apem kue,0
+76,18465,6,gurih,breakfast,0,Bubur Singkong Telur Bebek,0
+77,6853,7,pedas,breakfast,1,Nasi Uduk Ayam Bakar,0
+78,5446,7,gurih,breakfast,0,Apem kue,1
+79,8076,11,asin,breakfast,0,Bubur Singkong Telur Bebek,0
+80,19302,5,pedas,breakfast,0,Enting-enting wijen,2
+81,17588,5,manis,breakfast,1,Enting-enting wijen,2
+82,7143,9,asin,breakfast,0,Apem kue,5
+83,15129,11,asin,breakfast,0,Bubur Singkong Telur Bebek,2
+84,12807,11,manis,breakfast,1,Ceriping getuk singkong,2
+85,18558,11,asin,breakfast,0,Enting-enting wijen,2
+86,16127,8,gurih,breakfast,1,Ceriping getuk singkong,4
+87,14099,12,manis,breakfast,1,Ikan Lais bakar,1
+88,12918,7,asin,breakfast,1,Ikan bandeng presto,2
+89,14733,8,gurih,breakfast,0,Apem kue,0
+90,13468,12,asin,breakfast,1,Bubur Singkong Telur Bebek,3
+91,18397,5,gurih,breakfast,1,Enting-enting wijen,2
+92,13783,7,manis,breakfast,1,Ikan bandeng presto,5
+93,18825,6,manis,breakfast,1,Nasi Uduk Ayam Bakar,0
+94,13394,6,pedas,breakfast,0,Bubur Singkong Telur Bebek,5
+95,7551,7,manis,breakfast,1,Ceriping getuk singkong,3
+96,13880,9,pedas,breakfast,1,Enting-enting wijen,5
+97,16934,5,gurih,breakfast,1,Ceriping getuk singkong,5
+98,8180,9,asin,breakfast,0,Mangga benggala,3
+99,18219,7,asin,breakfast,0,Ikan bandeng presto,3
+100,7418,7,pedas,breakfast,0,Mangga benggala,1
+101,18180,5,asin,lunch,1,Ikan Lais bakar,0
+102,15253,11,asin,lunch,0,Nasi Uduk Ayam Bakar,5
+103,7659,11,asin,lunch,0,Nasi Kentang Daging Domba,2
+104,8728,7,pedas,lunch,0,Ikan bandeng presto,3
+105,19528,8,manis,lunch,1,Nasi Uduk Ayam Bakar,1
+106,15673,12,asin,lunch,1,Nasi Uduk Ayam Bakar,5
+107,10230,10,manis,lunch,0,Ceriping getuk singkong,1
+108,16091,11,asin,lunch,1,Mangga benggala,4
+109,11299,7,gurih,lunch,1,Nasi Uduk Ayam Bakar,4
+110,9843,10,gurih,lunch,1,Nasi Kentang Daging Domba,3
+111,15270,10,pedas,lunch,0,Makaroni Sayur Brokoli,2
+112,15984,5,gurih,lunch,1,Ikan Lais bakar,5
+113,8637,9,gurih,lunch,1,Enting-enting wijen,5
+114,17189,6,pedas,lunch,0,Apem kue,0
+115,8150,10,manis,lunch,0,Makaroni Sayur Brokoli,5
+116,13816,10,manis,lunch,1,Ceriping getuk singkong,2
+117,15358,9,gurih,lunch,1,Enting-enting wijen,3
+118,17614,11,gurih,lunch,0,Makaroni Sayur Brokoli,1
+119,6073,9,gurih,lunch,0,Nasi Uduk Ayam Bakar,5
+120,15302,8,asin,lunch,0,Nasi Uduk Ayam Bakar,3
+121,18811,12,manis,lunch,0,Nasi Kentang Daging Domba,2
+122,5079,6,pedas,lunch,1,Ceriping getuk singkong,1
+123,19765,10,pedas,lunch,1,Nasi Kentang Daging Domba,1
+124,17816,5,manis,lunch,1,Nasi Kentang Daging Domba,3
+125,8100,11,gurih,lunch,1,Ikan bandeng presto,2
+126,8420,9,manis,lunch,0,Nasi Kentang Daging Domba,1
+127,11096,10,gurih,lunch,1,Ikan bandeng presto,1
+128,15830,6,manis,lunch,1,Apem kue,3
+129,14459,11,manis,lunch,0,Enting-enting wijen,2
+130,15597,5,pedas,lunch,0,Ceriping getuk singkong,3
+131,8107,11,gurih,lunch,0,Nasi Uduk Ayam Bakar,1
+132,5050,10,pedas,lunch,1,Apem kue,1
+133,14892,11,asin,lunch,1,Nasi Kentang Daging Domba,0
+134,15099,6,manis,lunch,1,Ceriping getuk singkong,3
+135,18176,7,asin,lunch,1,Enting-enting wijen,4
+136,6993,11,manis,lunch,1,Mangga benggala,0
+137,13666,11,asin,lunch,1,Nasi Uduk Ayam Bakar,2
+138,7339,11,pedas,lunch,1,Apem kue,0
+139,17491,6,pedas,lunch,0,Makaroni Sayur Brokoli,2
+140,5622,12,pedas,lunch,1,Apem kue,2
+141,17614,11,gurih,lunch,1,Mangga benggala,1
+142,13804,9,manis,lunch,1,Mangga benggala,2
+143,10152,9,pedas,lunch,1,Ikan Lais bakar,0
+144,11412,6,asin,lunch,1,Ikan Lais bakar,3
+145,5809,8,asin,lunch,0,Apem kue,2
+146,17830,5,pedas,lunch,1,Nasi Uduk Ayam Bakar,2
+147,17251,10,gurih,lunch,0,Enting-enting wijen,5
+148,10597,9,asin,lunch,0,Nasi Uduk Ayam Bakar,4
+149,6121,9,gurih,lunch,0,Enting-enting wijen,3
+150,11576,12,manis,lunch,0,Enting-enting wijen,0
+151,12053,8,asin,lunch,1,Ikan Lais bakar,0
+152,8900,6,asin,lunch,1,Apem kue,4
+153,6486,11,gurih,lunch,0,Makaroni Sayur Brokoli,0
+154,8487,5,gurih,lunch,0,Mangga benggala,2
+155,17186,12,manis,lunch,1,Ikan bandeng presto,0
+156,8941,11,asin,lunch,1,Nasi Uduk Ayam Bakar,5
+157,16973,7,manis,lunch,1,Nasi Uduk Ayam Bakar,5
+158,18643,12,asin,lunch,0,Mangga benggala,5
+159,15362,7,asin,lunch,1,Mangga benggala,5
+160,15876,8,manis,lunch,1,Apem kue,2
+161,12869,12,asin,lunch,1,Mangga benggala,2
+162,11748,8,manis,lunch,0,Makaroni Sayur Brokoli,3
+163,16859,9,pedas,lunch,0,Nasi Kentang Daging Domba,5
+164,11450,11,pedas,lunch,0,Ceriping getuk singkong,5
+165,5380,5,manis,lunch,1,Nasi Uduk Ayam Bakar,4
+166,15954,8,pedas,lunch,0,Bubur Singkong Telur Bebek,5
+167,10547,6,pedas,lunch,1,Nasi Uduk Ayam Bakar,2
+168,5128,5,manis,lunch,1,Ikan bandeng presto,5
+169,10078,9,asin,lunch,0,Ikan Lais bakar,0
+170,19814,12,gurih,lunch,1,Ceriping getuk singkong,3
+171,9222,6,asin,lunch,1,Ceriping getuk singkong,5
+172,7097,12,gurih,lunch,1,Nasi Kentang Daging Domba,5
+173,6504,9,gurih,lunch,0,Nasi Kentang Daging Domba,5
+174,15559,9,asin,lunch,0,Mangga benggala,1
+175,6630,12,gurih,lunch,0,Ikan bandeng presto,5
+176,19901,5,manis,lunch,1,Ikan Lais bakar,0
+177,15967,12,manis,lunch,0,Ikan bandeng presto,4
+178,14920,11,pedas,lunch,0,Bubur Singkong Telur Bebek,3
+179,14557,11,manis,lunch,1,Enting-enting wijen,2
+180,13313,8,asin,lunch,0,Ikan Lais bakar,2
+181,15506,12,manis,lunch,0,Ceriping getuk singkong,3
+182,14112,6,asin,lunch,1,Nasi Uduk Ayam Bakar,3
+183,9667,11,manis,lunch,0,Enting-enting wijen,3
+184,15229,11,gurih,lunch,1,Nasi Kentang Daging Domba,2
+185,5495,12,pedas,lunch,0,Bubur Singkong Telur Bebek,5
+186,17890,5,pedas,lunch,0,Nasi Uduk Ayam Bakar,5
+187,12356,6,gurih,lunch,1,Nasi Kentang Daging Domba,4
+188,9521,9,manis,lunch,0,Apem kue,3
+189,5114,10,asin,lunch,1,Makaroni Sayur Brokoli,0
+190,8611,8,asin,lunch,1,Apem kue,4
+191,14068,12,pedas,lunch,1,Ceriping getuk singkong,2
+192,7657,7,pedas,lunch,1,Ikan bandeng presto,3
+193,16282,10,pedas,lunch,1,Mangga benggala,3
+194,5977,10,gurih,lunch,1,Mangga benggala,2
+195,13617,11,asin,lunch,0,Enting-enting wijen,3
+196,17578,12,manis,lunch,1,Ikan Lais bakar,3
+197,12632,11,manis,lunch,0,Ceriping getuk singkong,4
+198,13743,6,asin,lunch,0,Ikan bandeng presto,5
+199,16433,6,asin,lunch,0,Enting-enting wijen,5
+200,14279,10,asin,lunch,0,Ceriping getuk singkong,1
+201,5900,7,asin,dinner,1,Enting-enting wijen,1
+202,7541,8,manis,dinner,1,Nasi Kentang Daging Domba,2
+203,7625,7,asin,dinner,1,Nasi Uduk Ayam Bakar,0
+204,16448,9,manis,dinner,0,Bubur Singkong Telur Bebek,4
+205,9344,6,manis,dinner,1,Bubur Singkong Telur Bebek,3
+206,9345,12,asin,dinner,1,Makaroni Sayur Brokoli,1
+207,16243,5,gurih,dinner,1,Nasi Uduk Ayam Bakar,0
+208,12304,10,gurih,dinner,0,Nasi Kentang Daging Domba,5
+209,15785,7,manis,dinner,0,Ikan bandeng presto,3
+210,15220,8,asin,dinner,1,Apem kue,3
+211,6270,10,pedas,dinner,0,Mangga benggala,4
+212,13062,6,manis,dinner,0,Ikan bandeng presto,2
+213,14178,9,gurih,dinner,1,Mangga benggala,3
+214,15533,8,pedas,dinner,0,Bubur Singkong Telur Bebek,2
+215,16941,11,gurih,dinner,0,Nasi Kentang Daging Domba,1
+216,13432,12,pedas,dinner,1,Enting-enting wijen,5
+217,9008,7,manis,dinner,0,Ikan bandeng presto,0
+218,17809,12,gurih,dinner,1,Enting-enting wijen,1
+219,14971,9,asin,dinner,0,Nasi Uduk Ayam Bakar,3
+220,11341,5,asin,dinner,1,Bubur Singkong Telur Bebek,4
+221,18950,11,pedas,dinner,0,Makaroni Sayur Brokoli,5
+222,18449,11,asin,dinner,1,Makaroni Sayur Brokoli,3
+223,10021,10,gurih,dinner,0,Makaroni Sayur Brokoli,5
+224,17617,9,manis,dinner,0,Nasi Uduk Ayam Bakar,2
+225,18867,12,gurih,dinner,0,Ceriping getuk singkong,2
+226,14280,10,manis,dinner,0,Ceriping getuk singkong,4
+227,12296,6,gurih,dinner,1,Enting-enting wijen,2
+228,19217,11,gurih,dinner,0,Ikan Lais bakar,4
+229,16051,7,pedas,dinner,0,Nasi Kentang Daging Domba,2
+230,6362,6,manis,dinner,0,Nasi Kentang Daging Domba,2
+231,5332,9,pedas,dinner,1,Nasi Kentang Daging Domba,1
+232,17475,7,pedas,dinner,1,Enting-enting wijen,0
+233,12589,11,pedas,dinner,1,Bubur Singkong Telur Bebek,4
+234,7431,8,gurih,dinner,1,Nasi Kentang Daging Domba,1
+235,18109,6,manis,dinner,0,Bubur Singkong Telur Bebek,4
+236,14240,5,manis,dinner,0,Bubur Singkong Telur Bebek,4
+237,12281,7,pedas,dinner,1,Enting-enting wijen,3
+238,16923,6,asin,dinner,0,Nasi Uduk Ayam Bakar,3
+239,9369,9,gurih,dinner,1,Nasi Uduk Ayam Bakar,3
+240,8626,8,manis,dinner,0,Nasi Uduk Ayam Bakar,4
+241,17045,6,gurih,dinner,0,Makaroni Sayur Brokoli,1
+242,7775,10,manis,dinner,0,Nasi Kentang Daging Domba,4
+243,19163,6,manis,dinner,1,Ceriping getuk singkong,4
+244,18181,7,manis,dinner,1,Nasi Kentang Daging Domba,2
+245,17472,6,manis,dinner,1,Enting-enting wijen,0
+246,16749,8,pedas,dinner,0,Nasi Uduk Ayam Bakar,2
+247,10521,5,asin,dinner,1,Mangga benggala,5
+248,18921,7,gurih,dinner,1,Nasi Uduk Ayam Bakar,2
+249,14100,6,manis,dinner,1,Ikan bandeng presto,5
+250,17286,9,gurih,dinner,1,Ceriping getuk singkong,3
+251,18662,12,manis,dinner,1,Nasi Kentang Daging Domba,4
+252,6632,12,manis,dinner,0,Ikan Lais bakar,1
+253,19745,9,manis,dinner,0,Ikan Lais bakar,0
+254,18111,9,gurih,dinner,0,Makaroni Sayur Brokoli,0
+255,16842,12,gurih,dinner,1,Mangga benggala,2
+256,19516,12,manis,dinner,1,Makaroni Sayur Brokoli,3
+257,12774,12,pedas,dinner,1,Nasi Kentang Daging Domba,5
+258,17869,9,manis,dinner,0,Bubur Singkong Telur Bebek,0
+259,7183,12,pedas,dinner,0,Bubur Singkong Telur Bebek,3
+260,14475,6,asin,dinner,1,Nasi Uduk Ayam Bakar,0
+261,17274,12,pedas,dinner,1,Enting-enting wijen,3
+262,16919,9,manis,dinner,1,Ceriping getuk singkong,3
+263,13752,8,pedas,dinner,1,Apem kue,2
+264,16176,6,pedas,dinner,0,Mangga benggala,4
+265,17308,6,asin,dinner,0,Ceriping getuk singkong,3
+266,16148,9,gurih,dinner,1,Mangga benggala,5
+267,11263,6,asin,dinner,0,Ceriping getuk singkong,5
+268,7212,8,gurih,dinner,1,Nasi Uduk Ayam Bakar,1
+269,13697,11,manis,dinner,0,Apem kue,3
+270,11688,7,pedas,dinner,0,Enting-enting wijen,4
+271,15194,8,gurih,dinner,0,Enting-enting wijen,3
+272,13690,7,manis,dinner,0,Ikan bandeng presto,3
+273,16486,10,gurih,dinner,0,Nasi Kentang Daging Domba,2
+274,16771,11,asin,dinner,1,Nasi Uduk Ayam Bakar,4
+275,8962,8,manis,dinner,1,Nasi Kentang Daging Domba,3
+276,7423,10,pedas,dinner,1,Mangga benggala,3
+277,7841,11,gurih,dinner,0,Ikan bandeng presto,4
+278,19240,10,pedas,dinner,1,Bubur Singkong Telur Bebek,1
+279,8480,5,gurih,dinner,0,Nasi Kentang Daging Domba,2
+280,13136,9,pedas,dinner,1,Ceriping getuk singkong,1
+281,11622,10,pedas,dinner,1,Ikan Lais bakar,2
+282,5819,11,asin,dinner,1,Makaroni Sayur Brokoli,4
+283,5004,8,asin,dinner,1,Makaroni Sayur Brokoli,0
+284,17781,8,pedas,dinner,1,Mangga benggala,1
+285,18924,11,asin,dinner,1,Makaroni Sayur Brokoli,2
+286,12018,10,pedas,dinner,1,Bubur Singkong Telur Bebek,3
+287,14987,5,manis,dinner,1,Ceriping getuk singkong,5
+288,6464,10,asin,dinner,1,Apem kue,2
+289,18116,11,pedas,dinner,1,Ikan bandeng presto,5
+290,13669,8,pedas,dinner,0,Bubur Singkong Telur Bebek,1
+291,14803,9,asin,dinner,0,Nasi Kentang Daging Domba,4
+292,10448,10,gurih,dinner,0,Makaroni Sayur Brokoli,3
+293,7648,6,manis,dinner,1,Bubur Singkong Telur Bebek,2
+294,10227,7,manis,dinner,1,Makaroni Sayur Brokoli,0
+295,13613,10,asin,dinner,0,Apem kue,1
+296,16523,10,pedas,dinner,0,Bubur Singkong Telur Bebek,2
+297,18869,10,asin,dinner,1,Apem kue,5
+298,5283,9,gurih,dinner,0,Mangga benggala,5
+299,19509,6,manis,dinner,0,Bubur Singkong Telur Bebek,1
+300,19479,10,gurih,dinner,1,Bubur Singkong Telur Bebek,4
