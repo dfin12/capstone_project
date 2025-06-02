@@ -1,0 +1,1012 @@
+no.,menu_makanan,bahan_makanan,air (ml),energi (kal),protein,lemak_total,karbohidrat,serat,kalsium,fosfor,zat_besi,natrium,kalium,tembaga,seng,vit_c,price (100 gr),rasa,meal_time,kategori_gizi
+1,Nasi,Beras,56.7,180,3000,300,39800.0,200,25,27.0,0.4,1,38.0,0.1,0.6,0.0,4000,tawar,"dinner, lunch",makronutrien tinggi
+2,Nasi tim,Beras,71.0,120,2400,400,26000.0,500,3,7.0,0.4,0,23.9,0.1,0.4,0.0,4000,tawar,"dinner, lunch",gizi sedang/rendah
+3,Bihun goreng instan,"Tepung beras, tapioka",9.0,381,6100,3900,80300.0,1000,266,151.0,2.9,928,50.0,0.15,0.8,0.0,5000,gurih,"breakfast, dinner, lunch",mineral tinggi
+4,Jagung muda rebus,Jagung muda,53.2,142,5000,700,30300.0,800,5,105.0,0.8,5,24.3,0.2,0.9,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+5,Makaroni,Tepung terigu,11.7,353,8700,400,78700.0,4900,20,80.0,0.3,5,0.0,0.28,1.4,0.0,4500,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+6,Mi basah,Tepung terigu,80.0,88,600,3300,14000.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,4000,tawar,"dinner, lunch",gizi sedang/rendah
+7,Mi kering,Tepung terigu,10.6,339,10000,1700,6300.0,400,31,143.0,3.9,760,83.0,0.29,1.9,0.0,5000,tawar,"dinner, lunch",mineral tinggi
+8,Misoa,Tepung terigu,10.0,345,8500,2200,78000.0,500,52,120.0,8.7,3064,44.0,0.08,0.0,0.0,5000,tawar,"breakfast, dinner, lunch",mineral tinggi
+9,Roti putih,"Tepung terigu, ragi",40.0,248,8000,1200,50000.0,9100,10,95.0,1.5,530,91.0,0.15,0.9,0.0,6000,tawar,breakfast,mineral tinggi
+10,Tepung terigu,Gandum,11.8,333,9000,1000,77200.0,300,22,150.0,1.3,2,0.0,0.0,2.8,0.0,7000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+11,Amparan tatak,"Tepung beras, santan",58.4,191,1300,5500,34000.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+12,Apang kukus,Tepung beras,49.5,202,3000,300,46700.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+13,Apem kue,"Tepung beras, tape",63.1,148,2000,500,33900.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,4000,manis,breakfast,makronutrien tinggi
+14,Biskuit,"Tepung terigu, gula",2.2,458,6900,14400,75100.0,2100,62,87.0,2.7,241,20.3,0.16,0.6,0.0,8000,manis,"breakfast, dinner, lunch",mineral tinggi
+15,Bakpia,"Tepung terigu, kacang hijau",38.9,272,8700,6700,44100.0,900,194,117.0,4.5,50,40.0,0.15,0.7,0.0,7000,manis,"breakfast, dinner, lunch",mineral tinggi
+16,Bakwan,"Tepung terigu, sayuran",40.5,280,8200,10200,39000.0,3400,204,79.0,7.0,50,40.0,0.15,0.7,0.0,6000,gurih,"breakfast, dinner, lunch",mineral tinggi
+17,Bantal,"Tepung ketan, santan",52.3,190,3300,300,43500.0,3400,9,0.0,0.4,164,84.0,0.2,0.9,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+18,Baruasa,"Tepung beras, kelapa",5.3,417,6500,8200,79300.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+19,Batar daan,"Beras, kelapa parut",75.3,107,2200,2200,19600.0,1000,20,30.0,0.6,200,90.0,0.1,0.5,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+20,Bika ambon,"Tepung sagu, telur",51.5,199,2100,1500,44400.0,300,45,28.0,1.8,20,20.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+21,Bingka,"Tepung terigu, telur",44.4,273,5300,10600,39100.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+22,Bobengka,"Tepung beras, santan",46.3,225,5300,2600,45200.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+23,Bolu peca,"Tepung terigu, telur",55.6,197,3300,4600,35600.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+24,Brem,"Beras ketan, tape",37.4,249,3400,400,58000.0,0,198,86.0,2.0,20,20.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+25,Bubur tinotuan,"Beras, sayuran daun",80.9,156,2300,200,15600.0,8200,41,20.0,0.4,486,164.0,0.3,0.4,15.0,4000,gurih,breakfast,vitamin C tinggi
+26,Cake tape,"Tepung terigu, tape",32.2,323,4900,11500,50100.0,1400,131,83.0,2.6,20,20.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+27,Cangkuning,"Tepung beras, telur",57.5,204,2800,7500,31400.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+28,Dodol bali,"Tepung ketan, gula",26.5,298,3700,2100,65900.0,400,70,76.0,2.5,15,20.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+29,Dodol galamai,"Tepung ketan, gula",16.5,348,400,3800,76100.0,500,41,144.0,2.6,38,76.0,0.3,2.1,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+30,Dodol kedondong,"Tepung ketan, buah kedondong",26.4,331,1900,7600,63800.0,1000,90,55.0,2.3,15,20.0,0.1,0.5,5.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+31,Dodol manado,"Tepung ketan, gula",26.1,373,4300,16500,51900.0,400,41,142.0,2.4,35,72.0,0.3,2.1,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+32,Emping beras,"Beras, emping",13.6,403,10600,2200,85300.0,200,11,240.0,0.3,1,113.0,0.3,2.4,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+33,Gemblong,"Tepung ketan, kelapa",36.2,274,1700,5400,55500.0,2200,69,55.0,3.3,15,20.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+34,Gendar goreng,"Beras, kelapa",30.4,407,6400,28200,32000.0,100,216,62.0,1.6,15,20.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+35,Intip goreng,Beras,6.5,474,7600,21600,62300.0,1200,36,64.0,2.5,0,38.0,0.05,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+36,Jagung gerontol,Jagung,61.7,156,2700,1300,33300.0,1000,51,105.0,1.2,10,20.0,0.1,0.5,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+37,Jagung titi,Jagung,9.2,374,9400,2200,79100.0,800,14,142.0,2.9,10,20.0,0.1,0.5,9.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+38,Japilus,Gandum,3.8,500,1200,25100,67300.0,400,186,29.0,4.9,10,20.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+39,Kakicak,"Tepung beras, kelapa",43.9,296,3400,15100,36700.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+40,Kambose,"Beras, kelapa",61.5,164,3000,2400,32600.0,4300,16,36.0,0.7,0,32.0,0.1,1.6,0.0,4000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+41,Kapusa,"Beras, kelapa",63.5,158,4400,3200,27800.0,5300,79,115.0,1.2,104,149.0,0.5,1.1,0.0,4000,gurih,"breakfast, dinner, lunch",mineral tinggi
+42,Keddo bodong,"Tepung beras, kelapa",33.9,290,4600,5700,55200.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+43,"Kelepon, kue","Tepung ketan, kelapa",49.6,215,3700,3700,41800.0,1000,232,45.0,3.3,10,20.0,0.1,0.5,0.0,6000,manis,breakfast,makronutrien tinggi
+44,Kereput,Tepung terigu,3.5,580,4800,39600,51100.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+45,Ketoprak,"Beras, tahu, tempe",69.1,153,7900,7700,13000.0,2900,153,134.0,3.4,10,20.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+46,Ketupat kandangan,Beras,78.5,109,2200,5200,13400.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,4000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+47,Koyabu,"Tepung beras, kelapa",44.2,241,3400,4300,47200.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+48,Kue ali,"Tepung ketan, gula",12.8,440,3800,18500,64500.0,300,27,47.0,2.5,10,20.0,0.1,0.5,0.0,7000,manis,breakfast,makronutrien tinggi
+49,Kue bangen,"Tepung ketan, gula",5.6,442,3300,14700,74200.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,7000,manis,breakfast,makronutrien tinggi
+50,Kue gelang,"Tepung ketan, gula",7.1,448,5800,16100,70000.0,1000,20,50.0,0.5,5,30.0,0.1,0.5,0.0,7000,manis,breakfast,makronutrien tinggi
+51,Kue jahe,"Tepung terigu, jahe",3.7,425,1600,8800,84600.0,1200,155,61.0,4.0,25,80.0,0.15,0.7,0.0,7000,manis,breakfast,makronutrien tinggi
+52,Kue kelapa,"Tepung terigu, kelapa",3.3,591,5600,42100,47500.0,1000,32,180.0,1.6,33,443.0,0.5,1.1,0.0,8000,manis,breakfast,mineral tinggi
+53,Kue koa,Tepung ketan,14.5,340,4800,400,79300.0,800,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,breakfast,makronutrien tinggi
+54,Kue ku temu,"Tepung beras, ubi",46.2,214,3500,200,49600.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,breakfast,makronutrien tinggi
+55,Kue lumpur,"Tepung terigu, santan",40.1,291,3600,11100,44100.0,1000,96,60.0,2.3,20,50.0,0.1,0.5,0.0,7500,manis,breakfast,makronutrien tinggi
+56,Kue pelita,"Tepung beras, santan",71.0,141,5300,5500,17600.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,breakfast,gizi sedang/rendah
+57,Kue putu cangkir,"Tepung beras, kelapa",32.6,304,5300,7000,54900.0,900,18,193.0,4.0,20,50.0,0.1,0.5,0.0,7000,manis,breakfast,makronutrien tinggi
+58,Kue sus,"Tepung terigu, telur",56.6,221,7500,10200,24800.0,1000,105,85.0,2.5,20,40.0,0.1,0.5,0.0,7500,manis,breakfast,gizi sedang/rendah
+59,Kue thipan,"Tepung beras, kelapa",43.0,247,2900,4200,49500.0,1000,16,107.0,1.8,95,56.0,1.3,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+60,Laksa/Putu mayang,Tepung beras,73.2,121,1700,3400,21100.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6000,gurih,breakfast,gizi sedang/rendah
+61,Lapis legit,"Tepung terigu, telur",21.3,389,6600,15700,55500.0,500,16,136.0,1.9,20,40.0,0.1,0.5,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+62,Lupis ketan,Tepung ketan,61.0,164,1800,2100,34500.0,700,119,31.0,1.5,20,40.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+63,Manan samin,"Tepung terigu, samin",27.1,379,3400,18100,50600.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+64,Martabak india,"Tepung terigu, telur, daging",65.8,153,4500,4200,24300.0,1000,14,108.0,2.4,240,112.0,0.4,0.5,0.0,9000,gurih,"dinner, lunch",mineral tinggi
+65,Martabak mesir,"Tepung terigu, telur, daging",40.2,278,5100,8600,45000.0,1000,49,168.0,3.4,193,123.0,0.2,0.9,0.0,9000,gurih,"dinner, lunch",mineral tinggi
+66,Masekat,Tepung ketan,15.6,369,2100,7000,74100.0,4000,17,52.0,0.8,141,12.0,0.4,0.3,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+67,Mie aceh rebus,Tepung terigu,74.6,113,3000,3200,18100.0,500,22,44.0,1.4,191,36.0,0.2,0.3,0.0,6000,gurih,"dinner, lunch",gizi sedang/rendah
+68,Mie ayam,"Tepung terigu, ayam",78.6,102,6200,3900,10500.0,500,262,51.0,1.8,279,40.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+69,Mie bakso,"Tepung terigu, bakso sapi",74.5,114,5300,3000,16400.0,100,286,53.0,1.9,760,40.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+70,Mie celon,Tepung terigu,75.9,102,3000,2100,17800.0,500,12,84.0,1.4,451,112.0,0.1,0.5,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+71,Mie pangsit basah,"Tepung terigu, ayam",79.2,105,5900,4900,9400.0,500,208,48.0,2.0,530,40.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+72,Nasi gemuk,"Beras, santan",61.4,192,3800,8800,24400.0,700,15,74.0,1.0,355,63.0,0.2,1.4,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+73,Nasi gurih,"Beras, santan",60.5,190,4700,7500,26000.0,700,12,62.0,0.8,296,52.0,0.2,1.2,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+74,Nasi minyak,"Beras, minyak",53.3,207,3500,5000,37100.0,800,26,100.0,1.5,74,174.0,0.2,2.2,0.0,6500,gurih,"dinner, lunch",mineral tinggi
+75,Nasi rames,"Beras, lauk campur",65.8,155,10300,4200,19100.0,1000,239,62.0,1.8,265,40.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+76,Nopia spesial,"Tepung terigu, gula",11.5,387,5300,7600,74300.0,300,903,133.0,4.2,20,40.0,0.1,0.5,0.0,9000,manis,"breakfast, dinner, lunch",mineral tinggi
+77,Onde-onde,"Tepung ketan, kacang hijau",27.7,336,4000,9800,57900.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+78,Padamaran,"Tepung beras, santan",67.6,171,3900,8900,18800.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+79,Pastel,"Tepung terigu, telur, daging",38.3,307,4500,13300,42400.0,1000,296,53.0,2.5,20,40.0,0.1,0.5,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+80,Pulut,Beras ketan,49.1,216,2600,3100,44400.0,1000,6,70.0,3.8,100,22.0,0.4,1.3,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+81,Pundut nasi,"Beras, kelapa",77.8,104,1900,4100,15100.0,400,26,100.0,1.5,74,174.0,0.0,0.0,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+82,Putri hijau,"Tepung ketan, kelapa",54.8,189,5400,2100,37200.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+83,Putri selat,"Tepung beras, santan",66.6,163,2200,6500,23800.0,1000,72,3.0,4.0,6,68.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+84,Putu sopa,"Tepung beras, kelapa",50.7,215,3300,4100,41100.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+85,Renggi goreng,"Tepung ketan, kelapa",8.8,471,4700,21800,64099.99999999999,6400,4,80.0,1.1,126,29.0,0.9,1.3,0.0,8000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+86,Roti boong,"Tepung terigu, ragi",34.0,341,5500,16200,43300.0,1000,15,65.0,1.1,161,41.0,0.1,0.9,0.0,7000,tawar,breakfast,makronutrien tinggi
+87,Roti warna sawo,"Tepung terigu, ragi",40.0,249,7900,1500,49700.0,1000,20,140.0,2.5,500,91.0,0.1,0.5,0.0,7000,tawar,breakfast,mineral tinggi
+88,Sarimuka,"Tepung beras, santan",61.5,166,2300,2800,32900.0,1000,36,13.0,2.0,3,34.0,0.0,0.0,0.0,6000,manis,breakfast,makronutrien tinggi
+89,Spaghetti,Tepung terigu,66.1,139,7400,2100,22600.0,500,109,53.0,4.7,20,40.0,0.1,0.5,0.0,7000,tawar,"dinner, lunch",gizi sedang/rendah
+90,Srikaya ketan,"Tepung ketan, santan",41.0,265,2700,6400,49100.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+91,Sunduk lawang,"Tepung ketan, kelapa",63.4,181,1900,1300,32400.0,1000,20,50.0,0.5,10,30.0,0.1,0.5,0.0,7000,manis,breakfast,gizi sedang/rendah
+92,Suwir-suwir,"Tepung ketan, gula",13.4,347,500,900,84200.0,800,42,40.0,4.3,10,20.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+93,Tipa-tipa,Tepung ketan,11.3,355,6200,1200,79800.0,1300,17,328.0,1.6,10,20.0,0.1,0.5,0.0,7000,manis,breakfast,mineral tinggi
+94,Wajit camilan,"Tepung ketan, kelapa",27.1,303,6300,2700,63300.0,6900,61,302.0,5.5,10,20.0,0.1,0.5,0.0,7000,manis,breakfast,mineral tinggi
+95,Widaran,Tepung terigu,7.0,424,1300,10700,80700.0,200,49,88.0,2.5,10,20.0,0.1,0.5,0.0,7000,gurih,breakfast,makronutrien tinggi
+96,Wingko babat,"Tepung ketan, kelapa",29.7,355,3200,15100,51400.0,2400,47,63.0,1.1,10,20.0,0.1,0.5,0.0,7000,manis,breakfast,makronutrien tinggi
+97,Yangko,"Tepung ketan, gula",37.4,254,3000,1100,58100.0,800,184,24.0,2.6,10,20.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+98,Nasi Kuning Abon Sapi,"Nasi kuning, Abon sapi",60.0,220,10000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+99,Ampela ayam goreng,ampela ayam,4.8,270,32300,11200,9900.0,0,129,314.0,4.9,980,0.0,0.12,3.3,0.0,12000,gurih,"dinner, lunch",mineral tinggi
+100,Usus ayam goreng,usus ayam,4.6,473,45200,26300,13900.0,0,1407,458.0,8.4,800,0.0,0.15,3.5,0.0,12000,gurih,"dinner, lunch",mineral tinggi
+101,Bebek goreng,daging bebek,48.8,300,24000,20700,4500.0,0,170,170.0,4.1,34,6.0,0.4,3.0,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+102,Dendeng itik,daging itik,12.7,496,30300,33500,18400.0,0,135,370.0,12.5,1081,478.0,0.7,0.3,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+103,Kerupuk urat,urat sapi,3.6,588,53700,40900,1200.0,0,36,15.0,1.3,1024,37.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+104,Dendeng menjangan,daging rusa,14.3,322,55800,2000,22700.0,0,55,310.0,2.1,765,1282.0,1.7,3.2,0.0,20000,gurih,"breakfast, dinner, lunch",mineral tinggi
+105,"Dendeng, mentah",daging sapi,60.0,200,20000,10000,2000.0,0,30,200.0,3.0,100,100.0,0.3,1.0,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+106,Abon sapi,daging sapi,24.8,358,14600,16100,38600.0,2500,165,136.0,14.6,300,0.0,0.15,2.1,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+107,Daging sapi asap,daging sapi,60.0,182,32000,6000,0.0,0,15,300.0,5.0,1620,485.4,0.03,5.1,0.0,18000,gurih,"dinner, lunch",mineral tinggi
+108,Dendeng sapi,daging sapi,25.0,301,55000,9000,0.0,0,30,370.0,5.1,200,0.0,0.2,2.0,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+109,Kornet sapi,daging sapi,53.0,289,16000,25000,0.0,0,10,170.0,4.0,794,94.4,0.07,4.0,0.0,17000,gurih,"dinner, lunch",mineral tinggi
+110,Sosis daging sapi,daging sapi,37.6,448,14500,42300,2300.0,0,28,61.0,1.1,765,284.5,0.06,1.7,0.0,17000,gurih,"dinner, lunch",mineral tinggi
+111,Sosis hati sapi,hati sapi,56.6,274,16000,22000,3000.0,2300,20,150.0,4.0,654,158.8,0.22,2.2,0.0,17000,gurih,"dinner, lunch",mineral tinggi
+112,Dendeng paru-paru sapi,paru sapi,9.7,360,57300,6000,19200.0,0,126,903.0,21.1,1483,864.0,1.2,6.1,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+113,Paru sapi goreng,paru sapi,45.5,268,23900,12700,14500.0,0,102,315.0,8.8,923,299.0,0.1,1.5,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+114,Ulat sagu panggang,ulat sagu,41.3,380,11900,30300,14900.0,4800,30,120.0,1.5,260,550.0,3.1,14.2,0.0,14000,gurih,"breakfast, dinner, lunch",mineral tinggi
+115,Ayam goreng church texas,ayam,42.2,338,35200,20600,400.0,0,79,221.0,5.6,800,369.5,0.16,1.1,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+116,Ayam goreng kalasan,ayam,46.2,275,37400,12200,1300.0,0,116,237.0,5.8,176,321.9,0.16,1.5,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+117,Ayam goreng kentucky,ayam,46.5,298,34200,16800,100.0,0,90,284.0,5.5,741,342.0,0.07,1.0,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+118,Ayam goreng mbok berek,ayam,43.4,295,39200,13600,1000.0,0,114,278.0,5.4,200,300.0,0.1,1.0,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+119,Ayam goreng pasundan,ayam,50.1,246,37900,9000,700.0,0,90,260.0,7.5,180,250.0,0.1,1.0,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+120,Ayam goreng pioneer,ayam,44.5,295,37400,14700,600.0,0,108,236.0,6.8,200,250.0,0.1,1.0,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+121,Ayam goreng sukabumi,ayam,49.8,244,36700,9200,1000.0,0,81,154.0,6.1,180,250.0,0.1,1.0,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+122,Ayam taliwang,ayam,57.5,264,18200,20100,2700.0,0,94,164.0,2.0,507,408.0,0.4,12.3,0.0,14000,gurih,"dinner, lunch",mineral tinggi
+123,Babi hutan masak rica,babi hutan,56.2,491,24600,16300,200.0,0,18,144.0,1.2,1415,327.0,0.2,2.6,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+124,Beef burger,daging sapi,45.5,258,10600,9500,32500.0,400,210,157.0,2.6,572,189.1,0.15,1.0,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+125,Beef teriyaki,daging sapi,65.1,151,8600,3100,22300.0,300,142,62.0,2.3,377,100.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+126,Beef yakiniku,daging sapi,67.7,132,9800,1100,20700.0,300,302,67.0,2.0,409,100.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+127,Brongkos,"daging sapi, kacang tolo",76.4,141,15300,3300,12600.0,1000,87,97.0,5.1,200,150.0,0.15,1.0,0.0,11000,gurih,"breakfast, dinner, lunch",mineral tinggi
+128,Chicken teriyaki,daging ayam,68.2,168,13000,9600,7500.0,800,137,106.0,3.1,959,100.0,0.1,0.8,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+129,Chikiniku,daging sapi,65.4,143,9800,1400,22800.0,400,301,63.0,2.0,531,90.0,0.1,0.8,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+130,Coto mangkasara kuda,daging kuda,83.5,96,6800,5900,3800.0,500,11,106.0,2.3,96,31.0,0.1,1.0,0.0,20000,gurih,"dinner, lunch",gizi sedang/rendah
+131,Coto mangkasara sapi,daging sapi,85.9,84,6000,6000,1400.0,500,8,104.0,4.0,90,25.0,0.3,0.6,0.0,12000,gurih,"dinner, lunch",gizi sedang/rendah
+132,Djibokum,"daging sapi, tepung",43.4,248,10000,2300,40900.0,100,116,110.0,2.8,401,80.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+133,Empal goreng,daging sapi,43.9,248,36200,6900,10100.0,500,131,235.0,6.4,848,100.0,0.1,1.0,0.0,14000,gurih,"breakfast, dinner, lunch",mineral tinggi
+134,Gulai kambing,daging kambing,78.4,126,4200,9400,6200.0,500,45,73.0,1.3,302,138.0,0.2,1.1,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+135,Jangang bintatoeng,daging ayam,73.6,107,5300,2200,16500.0,500,64,61.0,2.5,482,406.0,0.2,0.8,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+136,Kalio ayam,daging ayam,64.7,203,16000,13500,4400.0,500,278,177.0,4.2,534,100.0,0.1,1.0,0.0,14000,gurih,"dinner, lunch",mineral tinggi
+137,Kalio jeroan sapi,jeroan sapi,68.9,163,16500,9000,4100.0,500,102,268.0,7.1,570,100.0,0.1,1.0,0.0,14000,gurih,"breakfast, dinner, lunch",mineral tinggi
+138,Kalio kikil sapi,kikil sapi,75.3,122,13800,5700,3900.0,500,154,59.0,3.4,519,90.0,0.1,0.8,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+139,Kalio otak sapi,otak sapi,70.3,157,8100,8800,11400.0,500,212,69.0,3.3,604,90.0,0.1,0.8,0.0,14000,gurih,"breakfast, dinner, lunch",mineral tinggi
+140,Lawar babi,"daging babi, sayur",68.8,174,17000,10000,3000.0,0,61,141.0,3.0,100,30.0,0.1,0.5,0.0,15000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+141,Lawar penyu,"daging penyu, sayur",66.3,141,23000,1500,7600.0,0,69,141.0,6.0,100,30.0,0.1,0.5,0.0,20000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+142,Lawara jangang,"daging ayam, sayur",72.4,159,5000,10900,10100.0,500,57,107.0,1.5,400,2368.0,0.1,1.0,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+143,Naan maran sapi,daging sapi,14.8,478,38300,33900,5100.0,0,30,390.0,11.8,220,320.0,0.6,3.9,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+144,Nasu likku,daging ayam,59.0,196,14500,8300,15900.0,500,69,157.0,1.0,386,470.0,0.3,2.0,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+145,Oramu ninahu ndawa olaho,"daging sapi, sayur",74.9,117,13700,5000,4300.0,500,964,804.0,2.0,100,727.0,0.3,1.5,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+146,Paniki masak santan,"daging paniki, santan",25.4,460,28500,35200,7200.0,500,188,357.0,5.5,2002,532.0,0.4,2.5,0.0,20000,gurih,"breakfast, dinner, lunch",mineral tinggi
+147,Pelolah manuk,"daging ayam, santan",60.0,219,19700,13600,4400.0,500,33,160.0,1.6,577,100.0,0.1,0.8,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+148,Rawon masakan,"daging sapi, keluak",86.0,60,5400,2500,4000.0,500,272,153.0,3.3,200,90.0,0.1,0.7,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+149,Rendang sapi,"daging sapi, santan",57.9,193,22600,7900,7800.0,500,474,211.0,14.9,300,100.0,0.15,1.2,0.0,18000,gurih,"dinner, lunch",mineral tinggi
+150,Anjing RW,daging anjing,60.8,198,24600,10700,900.0,500,1071,876.0,4.0,1604,226.0,0.1,2.8,0.0,20000,gurih,"breakfast, dinner, lunch",mineral tinggi
+151,Sate penyu,daging penyu,57.4,179,22500,3500,13300.0,0,187,238.0,14.4,300,100.0,0.1,1.0,0.0,25000,gurih,"dinner, lunch",mineral tinggi
+152,Sate pusut,"daging sapi, kelapa",52.1,274,12900,18600,13600.0,500,63,190.0,2.7,609,80.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+153,Penyu serapah,daging penyu,71.3,174,13100,12200,2200.0,0,72,186.0,9.5,300,507.0,0.8,2.4,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+154,Sie reuboh,"daging sapi, cuka",32.4,474,11200,42500,11700.0,500,26,62.0,1.3,677,176.0,2.4,3.2,0.0,14000,gurih,"breakfast, dinner, lunch",mineral tinggi
+155,Sop buntut,"buntut sapi, sayur",86.1,71,7500,3600,2200.0,500,286,38.0,3.2,490,90.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+156,Sop daging sapi,"daging sapi, sayur",87.5,49,5800,500,5300.0,500,158,48.0,2.2,391,80.0,0.1,0.8,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+157,Sop kaki sapi,"kaki sapi, sayur",84.5,68,9000,1900,3700.0,500,302,15.0,2.2,435,80.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+158,Sop kambing,"daging kambing, sayur",91.6,34,5500,800,1100.0,500,145,37.0,1.6,348,80.0,0.1,0.8,0.0,15000,gurih,"dinner, lunch",mineral tinggi
+159,Sop konro,"iga sapi, sayur",85.0,71,7400,2600,4500.0,500,17,60.0,4.6,184,25.0,0.3,1.3,0.0,15000,gurih,"dinner, lunch",gizi sedang/rendah
+160,Sop saudara,"daging sapi, jeroan, sayur",82.4,89,7200,5000,3900.0,500,10,174.0,9.0,274,50.0,0.2,1.1,0.0,13000,gurih,"dinner, lunch",mineral tinggi
+161,Soto bandung,"daging sapi, lobak",89.9,42,3900,1700,2800.0,400,74,75.0,1.8,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+162,Soto banjar,"daging ayam, sayur",83.7,110,2900,9500,3200.0,500,28,28.0,0.3,36,6.0,0.0,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+163,Soto betawi,"daging sapi, santan",75.9,135,2500,8800,11500.0,500,222,72.0,1.9,100,40.0,0.1,0.5,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+164,Soto jeroan,"jeroan sapi, sayur",81.4,92,11800,4300,1400.0,500,218,48.0,1.9,363,80.0,0.1,0.8,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+165,Soto kudus,"daging ayam, sayur",91.6,38,2600,2300,1800.0,200,237,67.0,1.7,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+166,Soto madura,"daging sapi, sayur",89.8,60,3500,4500,1300.0,0,361,126.0,3.8,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+167,Soto padang,"daging sapi, paru",75.0,127,5900,6600,11000.0,700,298,94.0,1.5,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+168,Soto pekalongan,"daging sapi, tauco",83.8,94,3000,6800,5100.0,300,322,79.0,2.0,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+169,Soto pemalang,"daging sapi, sayur",86.0,75,3600,5200,3500.0,0,170,80.0,2.1,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+170,Soto sukaraja,"daging sapi, sayur",75.9,80,3200,3500,9000.0,300,347,77.0,2.3,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+171,Soto sulung,"daging sapi, jeroan",88.1,86,2300,8500,0.0,0,200,120.0,2.9,100,40.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+172,Sukiyaki,"daging sapi, sayur",81.0,75,5600,400,12200.0,200,109,59.0,0.5,426,80.0,0.1,0.5,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+173,Tedong pallu basa,"daging kerbau, jeroan",81.7,83,10400,3400,2800.0,500,10,139.0,2.6,397,34.0,0.6,1.3,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+174,Tikus rica,daging tikus,54.9,257,18800,18500,3800.0,500,232,293.0,6.5,1724,308.0,0.5,2.3,0.0,20000,gurih,"breakfast, dinner, lunch",mineral tinggi
+175,Tinoransa,"daging sapi, kelapa",31.6,516,17700,49500,0.0,500,698,648.0,3.5,1307,320.0,0.1,1.8,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+176,Telur dadar ayam,telur ayam,61.9,251,16300,19400,1400.0,0,62,250.0,2.5,100,100.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+177,Telur asin,"telur itik, garam",66.5,179,13600,13300,4400.0,0,120,157.0,1.8,483,140.1,0.1,1.0,0.0,8000,asin,"breakfast, dinner, lunch",mineral tinggi
+178,Telur dadar bebek,telur bebek,55.1,301,20000,23700,0.0,0,71,600.0,9.2,100,100.0,0.1,1.0,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+179,Ikan telur asin,"ikan, telur asin",37.8,358,20700,26400,9400.0,0,48,311.0,15.1,2684,59.0,0.4,3.0,0.0,12000,asin,"breakfast, dinner, lunch",mineral tinggi
+180,Bayau mi balu,"telur, mi, tepung",36.1,313,6000,12200,44800.0,1000,40,90.0,1.0,100,40.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+181,Cucuru bayau,"telur, tepung, gula",35.0,349,6800,18700,38300.0,1000,40,90.0,1.0,100,40.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+182,Kalio telur,"telur ayam, santan",79.0,193,10600,12400,9700.0,500,148,246.0,3.8,540,100.0,0.1,1.0,0.0,9000,gurih,"breakfast, dinner, lunch",mineral tinggi
+183,Batatas kelapa bakar,"ubi jalar, kelapa",73.2,110,1400,1100,23400.0,4500,1,46.0,0.2,12,230.0,0.2,0.3,0.0,5000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+184,Batatas kelapa kukus,"ubi jalar, kelapa",75.7,92,1200,300,21000.0,4100,0,42.0,0.2,10,209.0,0.2,0.3,0.0,5000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+185,Batatas tali rebus,"ubi jalar, tali",53.2,182,2400,400,42200.0,9200,1,80.0,0.3,20,402.0,0.3,0.6,0.0,5000,manis,"breakfast, dinner, lunch",mineral tinggi
+186,Belitung talas kukus,talas,63.1,145,1200,400,34200.0,1000,21,48.0,0.9,7,552.6,0.2,0.9,1.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+187,Bentul talas kukus,talas,81.1,71,2300,300,15400.0,500,29,26.0,0.6,10,201.0,0.2,0.6,2.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+188,Gadung kukus,gadung,77.4,88,600,300,20900.0,900,26,47.0,0.4,6,584.0,0.2,0.2,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+189,Ganyong rebus,ganyong,74.1,100,800,200,23800.0,900,15,65.0,0.9,10,40.0,0.1,0.5,6.0,5000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+190,singkong kukus,singkong,61.5,153,1200,300,36400.0,1300,56,22.0,0.4,2,345.3,0.3,0.1,20.0,5000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+191,Suweg talas kukus,"suweg, talas",75.5,93,1500,100,21900.0,900,50,58.0,0.8,6,350.3,0.1,0.1,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+192,Talas bogor kukus,talas bogor,69.2,120,1500,300,28200.0,700,31,63.0,0.7,11,498.0,0.2,0.6,2.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+193,Ubi jalar kuning kukus,ubi jalar kuning,74.2,100,700,300,23800.0,1000,44,46.0,0.4,3,0.8,0.1,0.2,16.0,5000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+194,Ubi jalar tinta/kemayung kukus,ubi jalar ungu,58.5,165,900,200,39800.0,1100,20,23.0,0.8,1,0.9,0.1,0.2,0.0,5000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+195,Bagea kelapa asin,"tepung sagu, kelapa, asin",3.5,450,3200,13900,78100.0,500,38,38.0,0.3,74,0.0,0.2,0.2,0.0,7000,asin,"breakfast, dinner, lunch",makronutrien tinggi
+196,Bagea kelapa manis,"tepung sagu, kelapa, gula",3.0,452,1300,13800,80600.0,500,38,39.0,0.3,75,0.0,0.2,0.2,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+197,Bagea kenari asin,"tepung sagu, kenari, asin",2.8,529,3200,29100,63600.0,500,38,40.0,0.4,74,0.0,0.2,0.2,0.0,9000,asin,"breakfast, dinner, lunch",makronutrien tinggi
+198,Bagea kenari manis,"tepung sagu, kenari, gula",3.1,523,3200,28200,64200.0,500,38,39.0,0.3,74,0.0,0.2,0.2,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+199,Bagea kw 1,"tepung sagu, kelapa",7.2,416,6500,9400,76300.0,400,49,77.0,4.9,50,40.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+200,Bagea kw 2,"tepung sagu, kelapa",7.9,382,300,3500,87200.0,900,172,120.0,7.6,50,40.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",mineral tinggi
+201,Beras Cerdas,beras olahan,11.3,350,2700,1100,82300.0,6200,28,351.0,2.9,358,568.0,0.2,0.9,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+202,Beras ganyong,"ganyong, beras",9.3,364,3400,700,86300.0,4700,4,47.0,5.0,4,72.2,0.2,0.6,0.0,6000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+203,Beras Siger,beras olahan,13.5,344,1100,200,28300.0,5600,32,22.0,5.6,106,77.9,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",gizi sedang/rendah
+204,Biji nangka/Biji salak,biji nangka/salak,40.5,262,2300,5400,51100.0,8000,60,80.0,0.8,10,2.0,0.6,2.0,10.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+205,Bubur sagu,"sagu, gula",62.5,167,200,4000,33000.0,500,3,3.0,0.1,7,0.0,0.1,0.1,0.0,6000,manis,breakfast,gizi sedang/rendah
+206,Cassavastick,"singkong, minyak",5.6,460,800,18700,17200.0,1600,144,58.0,7.5,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+207,Ceriping getuk singkong,"singkong, minyak",7.2,462,1200,20700,67700.0,600,1248,172.0,8.8,100,100.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+208,Gatot,gaplek (singkong),12.8,347,1300,700,83800.0,5800,78,44.0,17.1,28,242.0,0.2,0.7,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+209,Geblek,tepung tapioka,52.1,195,400,1700,44400.0,3600,35,13.0,0.6,353,125.0,0.3,0.3,0.0,6000,gurih,"breakfast, dinner, lunch",mineral tinggi
+210,Getuk goreng,"singkong, gula, minyak",16.5,360,1300,6400,74300.0,800,59,81.0,3.2,50,40.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+211,Getuk singkong,"singkong, gula",49.8,204,500,1400,47400.0,800,97,52.0,1.5,50,40.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+212,Gurandil,"tepung ketan, gula",47.5,218,500,2500,48500.0,3100,50,25.0,2.8,50,40.0,0.1,0.5,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+213,Kabuto,"singkong, gula, kelapa",58.9,250,2600,2500,35400.0,1800,35,49.0,1.1,2,218.0,0.1,0.5,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+214,Kapurung,"sagu, sayur, ikan",79.6,41,2000,300,7800.0,2000,34,12.0,0.3,185,566.0,0.1,0.3,15.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+215,Kecimpring singkong goreng,"singkong, minyak",3.7,464,1200,18600,73000.0,1300,82,52.0,3.4,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+216,Keremes,"tepung beras, kelapa",6.7,475,1600,25200,64400.00000000001,2100,153,88.0,1.0,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+217,Keripik gadung,"gadung, minyak",4.0,446,2800,14500,76000.0,1700,147,52.0,1.9,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+218,Keripik kentang,"kentang, minyak",7.8,448,2700,18800,67100.0,3800,25,130.0,1.2,712,406.0,1.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+219,Keripik singkong,"singkong, minyak",4.2,478,900,20700,72000.0,2000,189,101.0,1.9,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+220,Keripik singkong berbumbu,"singkong, minyak, bumbu",2.2,481,2200,19700,73600.0,1600,156,103.0,1.6,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+221,Keripik ubi,"ubi jalar, minyak",6.0,486,200,23900,67600.0,14300,68,92.0,0.9,52,2.0,0.7,2.3,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+222,Kerupuk cumi goreng,"tepung, cumi, minyak",3.4,444,6900,14600,71300.0,5000,47,375.0,1.8,837,191.0,0.1,0.3,0.0,9000,gurih,"dinner, lunch",mineral tinggi
+223,Kerupuk kemplang goreng,"ikan, tepung, minyak",5.8,504,5600,28100,57100.0,300,50,94.0,2.9,50,40.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+224,Kerupuk kemplang panggang,"ikan, tepung",9.4,356,9700,1100,76900.0,1000,62,129.0,2.9,50,40.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+225,Kerupuk mie kuning goreng,"mi kuning, minyak",7.2,476,100,21100,71300.0,4200,57,36.0,4.6,50,109.0,0.1,0.2,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+226,Kerupuk udang goreng,"tepung, udang, minyak",4.4,477,4700,20500,68500.0,5000,24,188.0,0.9,449,109.0,0.1,0.2,0.0,9000,gurih,"breakfast, dinner, lunch",mineral tinggi
+227,Kue bangket,"tepung sagu, gula",16.1,338,1500,1200,80300.0,500,34,35.0,0.3,67,0.0,0.2,0.2,0.0,7000,manis,breakfast,makronutrien tinggi
+228,Kue putu singkong,"singkong, gula",44.2,217,1200,500,53200.0,2400,48,68.0,1.5,3,305.0,0.1,0.5,0.0,6000,manis,breakfast,mineral tinggi
+229,Lanting getuk,"singkong, minyak",4.2,422,900,10800,80400.0,1400,206,104.0,3.6,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+230,Mi golosor,"tepung terigu, kunyit",82.9,71,200,800,15900.0,100,117,5.0,0.2,10,10.0,0.1,0.2,0.0,6000,tawar,"dinner, lunch",gizi sedang/rendah
+231,Mie Bendo,"tepung sagu, tepung terigu",11.5,353,300,0,88000.0,2400,28,14.0,2.8,9,49.2,0.5,0.1,0.0,6000,tawar,"dinner, lunch",makronutrien tinggi
+232,Mie Sagu,"tepung sagu, air",52.8,190,200,400,46500.0,1400,8,7.0,0.3,10,2.6,0.1,0.0,0.0,6000,tawar,"dinner, lunch",makronutrien tinggi
+233,Ongol-ongol sagu,"sagu, gula",75.3,111,300,2700,21200.0,300,79,15.0,1.7,10,40.0,0.1,0.3,0.0,6000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+234,Oyek,singkong kering (oyek),12.6,351,900,900,84900.0,4300,60,36.0,2.1,5,229.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+235,Papeda,"sagu, air",84.8,61,200,100,14900.0,500,3,1.0,0.2,4,20.0,0.1,0.1,0.0,6000,tawar,"breakfast, dinner, lunch",gizi sedang/rendah
+236,Rasbi (Beras Ubi),"ubi jalar, tepung",11.1,394,2200,8800,76600.0,6800,68,76.0,1.6,165,388.0,0.4,0.4,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+237,Rasi (Beras Singkong),"singkong, tepung",12.6,350,900,400,85700.0,14400,42,21.0,1.5,8,14.0,0.3,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+238,Sagu forno,"sagu, kelapa",31.5,291,500,4000,63400.0,500,10,20.0,0.8,40,50.0,0.1,0.2,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+239,Sagu Lemak (Kue sagon),"sagu, kelapa, gula",4.3,452,2800,14800,76800.0,1100,15,39.0,1.1,182,52.7,0.04,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+240,Sagu manis,"sagu, gula",32.6,287,500,3900,62400.0,500,8,17.0,0.7,34,42.0,0.1,0.2,0.0,6500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+241,Sagu Rendang,"sagu, kelapa",8.2,364,100,200,90500.0,1900,13,9.0,3.9,42,15.1,0.1,0.1,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+242,Sagu sinole,"sagu, kelapa",22.0,354,800,8300,68900.0,500,10,30.0,0.8,30,11.0,0.2,0.3,0.0,6500,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+243,Serimping talas kebumen,"talas, tepung",4.8,478,2500,21200,69200.0,1700,112,118.0,2.3,50,40.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+244,Tapai singkong,"singkong, ragi",57.4,169,1400,300,40200.0,2000,21,34.0,0.8,10,30.0,0.1,0.5,9.0,6000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+245,Tepung Arrowroot,"garut, tepung",13.6,355,700,200,85200.0,400,8,22.0,1.5,2,10.7,0.0,0.1,0.0,6000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+246,Tepung Ganyong,"ganyong, tepung",13.6,353,800,1700,83600.0,700,4,31.0,3.3,3,63.5,0.1,0.3,1.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+247,Tepung Gaplek,"gaplek, tepung",13.0,345,2400,400,83100.0,6700,18,95.0,1.5,6,55.0,0.4,1.2,0.0,6000,tawar,"breakfast, dinner, lunch",makronutrien tinggi
+248,Tiwul,"gaplek, tepung",11.2,353,2400,1100,83400.0,6500,55,95.0,4.7,5,670.0,0.2,0.8,3.0,6000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+249,Tiwul Instan,"gaplek, tepung",9.1,395,3200,8500,76500.0,4200,81,81.0,5.8,377,469.0,2.1,1.2,4.0,7000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+250,Ubi Cilembu,ubi cilembu,52.7,186,1900,200,44300.0,3400,37,51.0,0.6,1,61.9,0.1,0.2,0.0,6000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+251,Uli batatas,"ubi jalar, kelapa",66.5,150,1100,4000,27400.0,1000,23,20.0,0.1,6,112.0,0.1,0.2,0.0,6000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+252,Es krim,"susu, gula, lemak",62.1,210,4000,12500,20600.0,0,123,99.0,0.1,78,193.4,0.0,0.7,1.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+253,Hangop,"susu, telur",84.0,65,10000,1000,3500.0,0,180,190.0,0.2,126,374.4,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+254,Keju,"susu, bakteri",38.5,326,22800,20300,13100.0,0,777,338.0,1.5,1410,82.7,0.03,3.1,1.0,15000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+255,Kwark (Quark),"susu, bakteri",59.0,242,19000,17000,3000.0,0,300,350.0,0.5,37,72.7,0.01,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+256,Susu asam untuk bayi susu,"susu, bakteri, gula",2.5,418,19000,9000,65500.0,0,800,600.0,7.0,188,486.5,0.0,0.0,30.0,12000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+257,Susu bubuk,susu sapi,3.5,513,24600,30000,36200.0,0,904,694.0,0.6,380,1330.0,0.02,4.1,6.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+258,Susu kental manis,"susu sapi, gula",25.0,343,8200,10000,55000.0,0,275,209.0,0.2,150,320.0,0.02,1.0,1.0,10000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+259,Susu kental tak manis,susu sapi,73.7,138,7000,7900,9900.0,0,243,195.0,0.2,140,303.0,0.01,1.0,1.0,10000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+260,"Susu skim, segar",susu sapi,90.5,36,3500,100,5100.0,0,123,97.0,0.1,38,100.0,0.01,0.5,1.0,9000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+261,Yoghurt,"susu sapi, bakteri",88.0,52,3300,2500,4000.0,0,120,90.0,0.1,40,299.0,0.01,0.6,0.0,12000,asam,"breakfast, dinner, lunch",mineral tinggi
+262,Bayam kukus,bayam,90.7,30,1300,700,5800.0,1200,239,35.0,5.7,15,431.0,0.1,0.3,32.0,4000,tawar,"dinner, lunch",vitamin C tinggi
+263,Bayam rebus,bayam,93.5,23,1200,600,3700.0,1100,150,35.0,0.5,16,308.4,0.2,0.3,19.0,4000,tawar,"dinner, lunch",vitamin C tinggi
+264,Buncis rebus,buncis,90.6,30,2200,200,6400.0,1500,107,47.0,0.5,7,138.9,0.1,0.3,8.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+265,Daun kacang panjang kukus,daun kacang panjang,87.2,40,3700,300,8000.0,1800,111,66.0,3.7,6,419.5,0.2,0.3,11.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+266,Daun katuk rebus,daun katuk,83.3,53,5300,900,9100.0,1200,185,102.0,3.1,16,291.3,0.3,1.3,66.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+267,Daun kelor rebus,daun kelor,80.3,61,6100,900,10000.0,900,255,36.0,2.1,45,181.2,0.1,0.6,13.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+268,Daun mengkudu kukus,daun mengkudu,81.6,63,3800,1500,11500.0,2400,300,43.0,6.0,10,200.0,0.1,0.5,11.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+269,Daun singkong rebus,daun singkong,90.5,31,3700,600,4800.0,1600,160,50.0,2.6,13,14.0,0.1,2.0,34.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+270,Daun talas rebus,daun talas,91.6,27,1300,200,5900.0,1600,119,41.0,1.4,3,519.4,0.5,0.5,7.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+271,Daun ubi merah kukus,daun ubi merah,82.5,56,3100,300,13000.0,1500,78,52.0,4.3,28,472.8,0.1,0.4,14.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+272,Kacang panjang kukus,kacang panjang,88.2,39,3000,600,7600.0,1700,100,91.0,1.2,28,199.0,0.11,0.5,20.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+273,Kacang panjang rebus,kacang panjang,90.9,30,2300,400,5800.0,1400,71,68.0,0.8,24,114.5,0.1,0.4,15.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+274,Kangkung kukus,kangkung,90.4,30,3200,700,4700.0,1800,70,49.0,4.4,45,184.9,0.1,0.3,11.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+275,Kangkung rebus,kangkung,93.0,22,2500,600,3100.0,1200,50,51.0,3.5,31,98.0,0.1,0.3,13.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+276,Paria putih kukus,paria putih,95.0,16,800,200,3400.0,1200,16,33.0,0.5,4,236.0,0.0,0.7,35.0,4000,pahit,"breakfast, dinner, lunch",vitamin C tinggi
+277,Selada rebus,selada,93.5,19,2700,200,2900.0,700,83,74.0,1.4,24,160.7,0.05,0.2,27.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+278,Taoge goreng,"taoge, minyak",79.2,88,3200,2100,14000.0,700,168,50.0,5.7,50,40.0,0.1,0.5,0.0,5000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+279,Taoge seduh,taoge,91.9,28,3000,800,4000.0,1000,52,73.0,0.5,18,58.3,0.19,0.4,2.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+280,Terung panjang kukus,terung panjang,92.7,23,1800,100,4900.0,400,40,13.0,0.5,9,57.0,0.1,0.2,1.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+281,Wortel rebus,wortel,92.1,28,700,500,6300.0,800,46,28.0,0.6,41,117.3,0.1,0.2,12.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+282,Wortel kukus,wortel,89.5,37,1000,600,8300.0,1100,44,30.0,0.6,43,122.5,0.11,0.3,14.0,4000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+283,Asinan Bogor sayuran,"sayuran campur, asinan",78.0,98,3900,2600,14800.0,500,314,17.0,1.2,483,100.0,0.1,0.5,5.0,5000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+284,Anyang sayur,"sayuran campur, kelapa",76.9,126,3400,7900,10300.0,5400,180,1.0,2.9,290,181.0,0.3,1.2,10.0,5000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+285,Ares sayur,"batang pisang muda, kelapa",77.7,113,900,7200,11200.0,4700,63,5.0,1.5,1413,1030.0,0.7,3.8,10.0,5000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+286,Arwan sirsir,"kelapa, ikan, sayur",59.0,277,2400,25000,10700.0,4600,120,40.0,2.4,240,320.0,0.2,0.9,11.0,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+287,Beberuk,"terong, tomat, sayur",89.1,65,1100,5200,3500.0,3100,179,72.0,8.3,53,427.0,0.4,0.2,8.0,5000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+288,Botok lamtoro,"lamtoro, kelapa, tahu",63.9,186,11700,9700,13000.0,2100,771,322.0,26.0,50,40.0,0.1,0.5,2.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+289,Buntil daun talas,"daun talas, kelapa, ikan",74.5,141,4400,10200,8000.0,1800,149,121.0,14.5,50,40.0,0.1,0.5,1.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+290,Cammetutu,"sayuran campur, kelapa",79.6,102,3200,6000,8700.0,4300,41,93.0,0.5,443,518.0,0.3,0.7,19.0,5000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+291,Cap cai,"sayuran campur, minyak",82.7,97,5800,6300,4200.0,600,287,89.0,1.8,405,100.0,0.1,0.5,1.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+292,Gado-gado,"sayuran, bumbu kacang",68.5,137,6100,3200,21000.0,1100,301,135.0,7.5,100,80.0,0.1,0.7,1.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+293,Gudeg,"nangka muda, santan, gula",69.2,160,3300,9200,16000.0,2300,62,55.0,12.8,100,60.0,0.1,0.5,0.0,7000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+294,Gulai pakis,"daun pakis, santan, bumbu",76.1,143,4000,11400,6000.0,1400,548,124.0,1.7,100,80.0,0.1,0.6,1.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+295,Gulai pliek,"sayuran, kelapa, pliek",71.9,176,7300,14900,3200.0,1500,39,54.0,1.4,257,285.0,0.3,0.6,1.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+296,Kadada katembe,"daun katuk, kelapa",80.0,110,4500,6900,7100.0,3900,26,77.0,0.0,178,131.0,0.2,0.7,23.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+297,Kaparande,"daun kelor, kelapa",91.7,38,2400,2000,2600.0,1500,126,68.0,0.0,170,43.0,0.1,0.3,22.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+298,Karedok,"sayuran mentah, bumbu kacang",79.0,92,2200,3300,14100.0,1400,174,85.0,2.4,100,80.0,0.1,0.5,3.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+299,Keripik bayam,"bayam, tepung, minyak",2.3,586,4900,40600,50200.0,500,236,117.0,3.6,100,80.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+300,Kotiu hinela tawang nggole,"sayuran, kelapa, bumbu",88.4,46,2200,1500,6000.0,3800,64,44.0,0.0,316,103.0,1.6,0.8,7.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+301,Lema/ Rebung asam,"rebung, asam, bumbu",96.3,15,1000,400,1900.0,1000,17,230.0,2.9,3,156.0,0.1,0.7,5.0,5000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+302,Lilin bungkus gedi,"daun gedi, kelapa, bumbu",84.8,79,2300,5200,5800.0,2500,170,70.0,0.9,170,50.0,0.2,0.8,18.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+303,Olah-olah,"sayur campur, kelapa, bumbu",83.9,9,2100,6000,7100.0,4400,26,3.0,1.2,289,266.0,0.3,0.6,2.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+304,Paku hinela wulelenggapaya,"daun paku, kelapa, bumbu",83.4,77,3500,4600,5400.0,3600,63,85.0,0.0,469,37.0,0.3,0.7,4.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+305,Pelecing kangkung,"kangkung, sambal, kelapa",83.8,75,2500,2800,10000.0,5400,36,3.0,2.1,408,381.0,0.1,0.4,12.0,6000,pedas,"breakfast, dinner, lunch",vitamin C tinggi
+306,Purundawa,"daun singkong, kelapa",91.8,25,1500,500,3600.0,1700,147,39.0,0.0,239,201.0,0.1,0.6,2.0,5000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+307,Rujak cingur,"sayur, buah, cingur, bumbu kacang",70.1,153,11300,8400,8000.0,1400,256,143.0,4.4,100,80.0,0.1,0.5,2.0,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+308,Sayur asem,"sayur campur, asam, bumbu",93.2,29,700,600,5000.0,600,40,61.0,3.1,10,40.0,0.1,0.5,0.0,5000,asam,"breakfast, dinner, lunch",gizi sedang/rendah
+309,Sayur bunga pepaya,"bunga pepaya, bumbu",83.4,49,1700,300,9800.0,2700,220,220.0,1.3,90,350.0,0.1,0.1,0.0,6000,pahit,"breakfast, dinner, lunch",mineral tinggi
+310,Sayur garu,"daun garu, kelapa, bumbu",70.8,178,2600,13900,10600.0,8400,30,130.0,0.9,20,120.0,0.1,0.3,9.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+311,Sayur kohu-kohu,"sayur campur, kelapa, ikan",72.8,133,7300,6600,11200.0,1200,40,120.0,0.2,20,50.0,0.1,0.3,9.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+312,Sayur lilin-terubuk,"terubuk, kelapa, bumbu",90.4,36,2700,700,4800.0,1400,10,90.0,0.1,30,44.0,0.2,1.0,18.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+313,Sayur ndusuk,"daun ndusuk, kelapa, bumbu",87.5,49,3100,2500,3600.0,1500,11,6.0,0.5,1011,88.0,0.1,0.2,15.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+314,Sayur sop,"sayur campur, bumbu",92.7,27,1300,2000,1000.0,300,168,57.0,1.8,10,40.0,0.1,0.5,0.0,5000,gurih,"dinner, lunch",gizi sedang/rendah
+315,Sayur umbut kelapa,"umbut kelapa, bumbu",85.5,67,5200,2900,5100.0,1400,48,81.0,3.2,313,108.0,0.2,1.1,5.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+316,Sayur umbut rotan,"umbut rotan, bumbu",87.6,57,5400,2600,3100.0,1600,184,135.0,1.2,256,81.0,0.2,0.9,6.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+317,Shabu-shabu,"sayur campur, daging, kuah",87.1,88,3200,8000,800.0,900,217,48.0,2.9,514,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+318,Semur jengkol,"jengkol, kecap, bumbu",52.7,212,6000,10000,29100.0,2000,77,99.0,1.0,100,80.0,0.1,0.5,4.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+319,Tinira ninahu nggaluku,"sayur campur, kelapa, bumbu",91.8,33,1200,1300,4100.0,3100,35,35.0,0.0,161,119.0,0.2,0.7,10.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+320,Tumis bayam bersantan,"bayam, santan, bumbu",91.2,48,1400,4200,2600.0,500,129,27.0,0.8,10,40.0,0.1,0.5,22.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+321,Waluh balamak,"labu kuning, kelapa",89.4,45,800,900,8100.0,7900,25,25.0,0.5,61,15.0,0.1,0.2,2.0,6000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+322,Woku ubi,"ubi jalar, kelapa, bumbu",73.0,143,3100,7800,15000.0,7000,195,91.0,2.8,353,256.0,0.3,1.0,15.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+323,Margarin,"minyak nabati, air",15.5,720,600,81000,400.0,0,20,16.0,0.0,760,25.9,0.0,0.0,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+324,Mentega,susu sapi,16.0,742,500,81600,1400.0,0,15,16.0,1.1,653,103.0,0.0,0.4,0.0,13000,gurih,"breakfast, dinner, lunch",mineral tinggi
+325,Santan (dengan air),"kelapa, air",80.0,122,2000,10000,7600.0,1400,25,30.0,0.1,9,162.4,0.2,0.4,2.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+326,Santan murni,kelapa,54.9,324,4200,34300,5600.0,0,14,45.0,1.9,18,514.1,0.4,0.9,2.0,9000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+327,Alpukat,alpukat,84.3,85,900,6500,7700.0,2000,10,20.0,0.9,2,278.0,0.2,0.4,13.0,9000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+328,Anggur hutan,anggur hutan,92.3,30,500,200,6800.0,1200,39,12.0,1.1,5,80.0,0.1,0.2,3.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+329,Apel malang,apel,85.9,57,500,400,12800.0,800,9,18.0,0.6,4,175.4,0.1,0.3,5.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+330,Apel,apel,84.1,58,300,400,14900.0,2600,6,10.0,0.3,2,130.0,0.1,0.3,5.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+331,Arbai,arbai (stroberi liar),89.9,37,800,500,8300.0,1000,28,27.0,0.8,2,43.0,0.1,0.4,60.0,9000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+332,Belimbing,belimbing,90.0,36,400,400,8800.0,3200,4,12.0,1.1,4,130.0,0.1,0.1,35.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+333,Biwah,biwah (loquat),87.1,51,300,100,12100.0,700,220,14.0,0.8,1,258.6,0.1,0.1,4.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+334,Buah atung,buah atung,92.0,23,800,200,5200.0,1000,30,50.0,4.6,5,80.0,0.1,0.5,38.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+335,Buah kelenting,buah kelenting,73.9,110,1400,2100,21400.0,1000,8,102.0,1.1,2,0.0,0.1,0.3,6.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+336,Buah kom,buah kom,33.7,264,4000,1100,59600.0,9000,306,92.0,0.8,5,80.0,0.1,0.5,9.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+337,Buah mentega,buah mentega,89.0,39,700,200,9700.0,2000,43,17.0,0.8,1,90.0,0.1,0.1,33.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+338,Buah Naga Merah,buah naga merah,85.7,71,1700,3100,9100.0,3200,13,14.0,0.4,10,128.0,0.1,0.4,1.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+339,Buah Naga Putih,buah naga putih,86.6,56,800,1000,10900.0,3200,13,27.0,0.5,7,231.0,0.1,0.4,1.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+340,Buah negri,buah negri,85.7,55,1200,100,12200.0,5200,30,40.0,0.2,10,0.0,0.1,0.3,9.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+341,Buah nona,buah nona,71.5,101,1700,600,25200.0,2800,27,20.0,0.8,5,312.5,0.1,0.1,22.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+342,Buah rotan,buah rotan,79.4,78,600,300,18200.0,1000,1,7.0,3.4,7,495.0,0.1,0.2,5.0,8000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+343,Buah rukam,buah rukam,71.3,113,800,300,26800.0,7700,108,52.0,1.2,2,219.0,0.1,0.3,20.0,8000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+344,Buah ruruhi,buah ruruhi,93.0,29,2100,700,3600.0,2600,6,7.0,0.0,36,45.0,0.1,0.1,10.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+345,Buah tuppa,buah tuppa,82.5,67,400,200,15900.0,1000,12,139.0,0.5,2,0.0,0.1,0.2,5.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+346,Carica papaya,carica papaya,93.4,24,1900,200,3700.0,1000,51,33.0,1.8,5,80.0,0.1,0.2,85.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+347,Cempedak,cempedak,67.0,116,3000,400,28600.0,3400,20,30.0,1.5,25,243.7,0.1,0.2,15.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+348,Duku,duku,82.0,63,1000,200,16100.0,4300,18,9.0,0.9,2,149.0,0.1,0.2,9.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+349,Durian,durian,65.0,134,2500,3000,28000.0,3500,7,44.0,1.3,1,601.0,0.1,0.3,53.0,12000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+350,Duwet,duwet (jamblang),80.2,80,500,600,18200.0,900,33,138.0,1.3,16,92.7,0.1,0.3,13.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+351,Embacang,embacang,72.5,98,1400,200,25400.0,1900,21,15.0,0.5,3,250.9,0.1,0.1,56.0,8000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+352,Encung asam,encung asam,73.0,122,3500,4500,17500.0,9300,63,69.0,3.2,10,80.0,0.1,0.5,0.0,8000,asam,"breakfast, dinner, lunch",gizi sedang/rendah
+353,Erbis,erbis (umbi liar),80.0,70,600,0,18900.0,7700,11,50.0,1.1,21,257.1,0.1,0.1,16.0,7000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+354,Gandaria masak,gandaria,80.8,68,700,100,18000.0,2200,9,20.0,1.0,3,129.0,0.1,0.2,11.0,8000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+355,Gatep,gatep (umbi liar),52.7,191,4500,1500,39700.0,13400,186,69.0,3.2,17,403.3,0.1,0.3,10.0,7000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+356,Jambu air,jambu air,87.0,46,600,200,11800.0,2100,8,9.0,1.1,11,321.2,0.1,0.1,5.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+357,Jambu biji,jambu biji,86.0,49,900,300,12200.0,2400,14,28.0,1.1,10,52.8,0.1,0.3,87.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+358,Jambu biji putih tidak berbiji,jambu biji putih,82.8,61,900,300,15400.0,4500,31,41.0,0.2,20,103.0,0.1,0.5,11.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+359,Jambu bol,jambu bol,87.1,49,2300,200,9600.0,3500,8,8.0,0.3,1,14.0,0.1,0.1,22.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+360,Jambu monyet,jambu monyet,82.6,64,700,600,15800.0,1200,4,13.0,0.5,12,107.8,0.1,0.2,19.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+361,Jeruk bali,jeruk bali,86.3,48,600,200,12400.0,800,23,27.0,0.5,21,366.1,0.1,0.1,43.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+362,Jeruk banjar,jeruk banjar,84.5,61,800,200,14100.0,5400,9,13.0,0.2,3,79.0,0.1,0.1,31.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+363,Jeruk garut-keprok,"jeruk garut, keprok",87.3,44,800,300,10900.0,1600,33,23.0,0.4,5,518.1,0.1,0.2,31.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+364,Jeruk Kalamansi,jeruk kalamansi,90.2,39,300,300,8900.0,2300,42,85.0,0.5,3,82.0,0.1,0.1,30.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+365,Jeruk manis,jeruk manis,87.2,45,900,200,11200.0,1400,33,23.0,0.4,4,472.1,0.1,0.2,49.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+366,Jeruk nipis,jeruk nipis,88.9,44,500,200,10000.0,400,18,22.0,0.2,3,108.9,0.1,0.1,20.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+367,Jeruk ragi,jeruk ragi,87.6,49,700,200,11100.0,500,36,67.0,0.7,4,457.3,0.1,0.2,30.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+368,Kawista,kawista,71.8,120,3500,2500,20800.0,4600,190,230.0,1.6,9,1015.6,0.1,0.4,3.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+369,Kedondong masak,kedondong,88.0,46,1000,100,10300.0,2600,15,22.0,2.8,2,216.2,0.1,0.1,30.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+370,Kedondong,kedondong,87.8,47,500,200,10400.0,2700,7,58.0,0.8,2,80.0,0.1,0.2,32.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+371,Kelapa hutan,kelapa hutan,6.0,623,2000,52000,36500.0,15300,120,280.0,3.8,100,460.0,1.7,1.9,0.0,9000,gurih,"breakfast, dinner, lunch",mineral tinggi
+372,Kelapa muda,kelapa muda,83.3,68,1000,900,14000.0,0,7,30.0,1.0,18,564.6,0.1,0.3,4.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+373,Kemang,kemang,86.5,48,1000,200,11900.0,1700,10,24.0,0.1,2,88.6,0.1,0.1,58.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+374,Kesemek,kesemek,78.2,78,800,400,20000.0,600,6,26.0,0.3,0,34.5,0.1,0.1,11.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+375,Kokosan,kokosan,85.0,86,1600,200,13000.0,1400,22,38.0,1.3,2,118.3,0.1,0.2,3.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+376,Kranji,kranji (buah),20.1,315,2100,1400,73500.0,3600,160,120.0,3.7,10,100.0,0.1,0.3,10.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+377,Langsat,langsat,84.1,56,900,200,14300.0,1400,17,24.0,1.1,1,232.0,0.1,0.2,9.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+378,Lemon,lemon,92.2,34,500,800,6200.0,100,23,20.0,0.3,31,140.0,0.1,0.2,50.0,8000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+379,Lontar,buah lontar,93.0,27,400,200,6000.0,1600,91,243.0,0.5,5,90.0,0.1,0.2,5.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+380,Mangga,mangga,86.6,52,700,0,12300.0,1600,20,16.0,1.0,3,140.0,0.1,0.1,12.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+381,Mangga benggala,mangga benggala,84.4,63,2400,400,12400.0,5800,9,13.0,0.2,3,79.0,0.1,0.1,43.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+382,Mangga gedung,mangga gedung,87.4,44,700,200,11200.0,1600,13,10.0,0.2,2,83.6,0.1,0.1,30.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+383,Mangga golek,mangga golek,82.2,63,500,200,16700.0,2300,14,10.0,0.7,3,118.1,0.1,0.1,65.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+384,Mangga harumanis,mangga harumanis,86.6,46,400,200,11900.0,1700,15,9.0,0.2,2,88.9,0.1,0.1,6.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+385,Mangga indramayu,mangga indramayu,80.2,72,800,200,18700.0,2500,13,10.0,1.9,3,131.4,0.1,0.1,16.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+386,Mangga kopek,mangga kopek,84.5,56,400,200,14600.0,2000,16,10.0,1.7,2,102.9,0.1,0.1,27.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+387,Mangga kwini,mangga kwini,78.6,86,700,500,19800.0,6500,11,11.0,0.2,1,16.0,0.1,0.1,18.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+388,Mangga manalagi,mangga manalagi,66.5,133,1000,100,32100.0,11800,20,23.0,1.0,70,161.0,0.1,0.1,61.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+389,Mangga muda,mangga muda,83.7,59,500,400,15100.0,1000,12,11.0,0.4,2,108.2,0.1,0.1,2.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+390,Manggis,manggis,83.0,63,600,600,15600.0,1500,8,12.0,0.8,10,61.9,0.1,0.1,5.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+391,Markisa,markisa,64.7,144,3500,1200,29800.0,11400,27,203.0,1.4,37,453.8,0.1,0.1,10.0,9000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+392,Matoa,matoa,76.5,90,1200,100,21100.0,500,20,40.0,0.6,10,190.0,0.1,0.6,54.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+393,Melon,melon,90.8,37,600,400,7800.0,1000,12,14.0,0.4,27,167.0,0.1,0.1,0.0,8000,segar,"breakfast, dinner, lunch",gizi sedang/rendah
+394,Menteng,menteng,79.0,65,1700,300,16100.0,1000,13,20.0,0.8,2,80.0,0.1,0.2,5.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+395,Nanas palembang,nanas,85.5,58,700,200,13300.0,1600,29,15.0,0.6,7,117.0,0.1,0.1,11.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+396,Nanas,nanas,88.9,40,600,300,9900.0,600,22,14.0,0.9,18,111.0,0.1,0.1,22.0,7000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+397,Nangka masak pohon,nangka,70.0,106,1200,300,27600.0,3700,20,19.0,0.9,2,407.0,0.1,0.3,7.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+398,Pala,pala,88.1,42,300,200,10900.0,500,32,24.0,1.5,5,80.0,0.1,0.2,22.0,9000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+399,Pepaya,pepaya,86.7,46,500,12000,12200.0,1600,23,12.0,1.7,4,221.0,0.1,0.3,78.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+400,Pisang ambon,pisang ambon,72.9,108,1000,800,24300.0,1900,20,30.0,0.2,10,80.0,0.1,0.2,9.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+401,Pisang angleng (pisang ampyang),pisang angleng,80.3,68,1300,200,17200.0,800,10,26.0,0.6,23,215.7,0.1,0.1,6.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+402,Pisang ayam,pisang ayam,71.2,120,1100,200,26800.0,4100,20,61.0,0.4,6,392.0,0.1,0.3,26.0,7000,manis,"dinner, lunch",vitamin C tinggi
+403,Pisang gapi,pisang gapi,66.3,131,1600,100,31100.0,11700,58,40.0,0.3,6,392.0,0.1,0.3,13.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+404,Pisang goroho,pisang goroho,69.4,119,1500,200,27900.0,4600,2,30.0,0.2,36,359.0,0.1,0.3,10.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+405,Pisang hijau,pisang hijau,68.9,121,1000,100,28900.0,400,9,37.0,0.9,31,529.4,0.1,0.6,13.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+406,Pisang kayu,pisang kayu,74.4,100,1400,500,23600.0,2600,15,0.0,0.1,1,493.0,0.1,0.3,11.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+407,Pisang kepok,pisang kepok,71.9,109,800,500,26300.0,5700,10,30.0,0.5,10,300.0,0.1,0.2,9.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+408,Pisang ketip,pisang ketip,63.4,145,1100,300,34500.0,6600,5,54.0,0.1,4,726.0,0.1,0.5,95.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+409,Pisang kidang,pisang kidang,75.4,96,1000,200,22500.0,600,87,173.0,0.6,6,418.8,0.1,0.5,2.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+410,Pisang lampung,pisang lampung,72.1,99,1300,200,25600.0,4300,10,19.0,0.9,28,475.0,0.1,0.5,4.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+411,Pisang mas bali ampenan,pisang mas bali,76.8,92,1400,200,21000.0,3700,7,29.0,1.2,32,272.0,0.1,0.4,11.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+412,Pisang mas bali kopang,pisang mas bali,64.2,127,1400,200,31800.0,3700,10,0.0,0.1,43,616.0,0.1,0.4,17.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+413,Pisang mas,pisang mas,64.2,127,1400,200,33600.0,1400,7,25.0,0.8,42,392.0,0.1,0.5,2.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+414,Pisang raja sereh,pisang raja sereh,69.3,108,1300,300,28200.0,700,16,38.0,0.1,31,522.6,0.3,0.6,2.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+415,Pisang raja sereh,pisang raja sereh,65.8,120,1200,200,31800.0,5300,10,22.0,0.8,35,582.2,0.3,0.7,10.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+416,Pisang rotan,pisang rotan,76.1,98,1300,1200,20500.0,1000,17,51.0,1.1,24,406.9,0.2,0.5,2.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+417,Pisang talas,pisang talas,71.0,113,1200,200,26700.0,4400,22,22.0,0.6,29,48.0,0.3,0.1,9.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+418,Pisang tujuh bulan,pisang tujuh bulan,75.9,94,600,200,22500.0,3700,50,20.0,0.2,10,4.0,0.1,0.4,6.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+419,Pisang ua,pisang ua,67.8,128,800,500,30200.0,8100,12,28.0,0.7,33,382.0,0.2,0.3,4.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+420,Pisang uli,pisang uli,61.8,134,1100,500,35500.0,1400,31,53.0,0.9,39,650.3,0.3,0.7,3.0,7000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+421,Purut,purut (jeruk purut),81.1,76,4100,1100,15200.0,1700,30,76.0,0.6,10,285.2,0.1,0.2,0.0,8000,asam,"breakfast, dinner, lunch",mineral tinggi
+422,Rambutan binjai,rambutan binjai,81.0,76,500,200,18000.0,3800,15,22.0,1.2,22,120.0,0.2,0.2,13.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+423,Rambutan,rambutan,80.5,69,900,100,18100.0,800,16,16.0,0.5,16,104.2,0.2,0.1,58.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+424,Salak bali,salak bali,85.1,57,500,100,13600.0,1300,94,25.0,2.1,10,100.0,0.1,0.2,0.0,9000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+425,Salak medan,salak medan,78.1,55,400,200,12800.0,3200,6,46.0,0.5,39,113.0,0.2,0.3,58.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+426,Salak pondoh,salak pondoh,77.9,87,800,400,20100.0,0,38,31.0,3.9,10,100.0,0.1,0.2,8.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+427,Salak,salak,78.0,77,400,200,20900.0,1000,28,18.0,4.2,10,100.0,0.1,0.2,2.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+428,Sawo duren,sawo duren,87.3,64,1000,3100,8000.0,800,18,45.0,0.8,13,111.4,0.1,0.1,1.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+429,Sawo kecil,sawo kecil,73.8,111,900,2300,21600.0,1000,20,185.0,0.7,28,117.8,0.1,0.1,19.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+430,Sawo Manila,sawo manila,75.5,92,500,1100,22400.0,9500,25,12.0,1.0,26,110.2,0.1,0.1,21.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+431,Semangka,semangka,92.1,28,500,200,6900.0,400,7,12.0,0.2,7,93.8,0.0,0.1,6.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+432,Sirsak,sirsak,81.7,65,1000,300,16300.0,3200,14,27.0,0.6,2,298.9,0.1,1.0,20.0,9000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+433,Sowa,sowa,87.7,48,1600,600,9100.0,4500,50,40.0,0.3,9,0.0,0.1,1.5,4.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+434,Srikaya,srikaya,83.4,63,1100,500,13900.0,2100,127,30.0,2.7,10,100.0,0.1,0.2,28.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+435,Sukun muda,sukun muda,69.4,119,1400,200,28100.0,1400,24,44.0,1.4,24,414.4,0.1,0.1,52.0,8000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+436,Sukun tua,sukun tua,67.8,126,1600,200,24500.0,1500,37,47.0,1.6,25,436.0,0.1,0.1,58.0,8000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+437,Vigus,vigus (umbi liar),88.0,44,2400,100,8300.0,1000,30,20.0,0.3,2,180.0,0.1,0.2,43.0,8000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+438,Wani,wani,81.2,74,800,300,17100.0,3100,66,29.0,1.2,10,100.0,0.1,0.2,80.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+439,Barongko,"barongko (pisang, telur, santan)",66.7,159,3100,5800,23500.0,1000,35,65.0,1.2,46,78.0,0.3,0.6,10.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+440,Dodol nanas,dodol nanas,16.1,338,1500,1200,80300.0,1000,10,20.0,0.5,10,50.0,0.1,0.2,8.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+441,Getuk pisang,getuk pisang,63.7,144,1100,400,34100.0,400,48,32.0,1.0,10,50.0,0.1,0.2,0.0,8000,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+442,Keripik lampung,"singkong, minyak",5.0,485,1700,22000,69700.0,600,43,65.0,0.8,10,50.0,0.1,0.2,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+443,Ledre pisang,"pisang, tepung, gula",3.6,405,4800,5100,84900.0,400,59,124.0,2.6,10,50.0,0.1,0.2,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+444,Lempog durian,"durian, gula",25.2,320,3500,5700,63700.0,4900,190,93.0,2.5,20,80.0,0.2,0.4,10.0,10000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+445,Loka anjoro,loka anjoro (umbi),63.3,163,1100,4300,30000.0,1000,20,30.0,0.5,10,50.0,0.1,0.2,0.0,8000,tawar,"breakfast, dinner, lunch",gizi sedang/rendah
+446,Rica-rica taipa,"taipa (daging rusa), rica",86.7,49,1600,300,10000.0,1000,11,48.0,3.0,426,42.0,0.5,0.5,15.0,15000,pedas,"breakfast, dinner, lunch",vitamin C tinggi
+447,Rujak aceh,"buah campur, bumbu rujak",78.7,82,400,300,19700.0,2400,10,20.0,0.5,10,50.0,0.1,0.2,42.0,9000,asam,"breakfast, dinner, lunch",vitamin C tinggi
+448,Sale kesemek,"kesemek, gula",25.0,296,1100,600,71400.0,1000,10,20.0,0.5,10,50.0,0.1,0.2,3.0,9000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+449,Sale pisang siam,"pisang siam, gula",28.9,281,2400,700,66100.0,1000,41,64.0,1.2,10,50.0,0.1,0.2,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+450,"Sale pisang, cilacap","pisang, gula",27.1,295,2300,2100,66900.0,1300,47,97.0,2.8,10,50.0,0.1,0.2,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+451,Sanggara belanda,"pisang, telur, santan",47.1,242,6400,7100,38200.0,1000,20,40.0,0.5,10,50.0,0.1,0.2,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+452,Tepung Pisang,pisang,13.8,338,2900,400,80600.0,5300,23,62.0,4.0,18,734.0,0.1,0.5,2.0,9000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+453,Tepung Sukun,sukun,10.1,353,2900,500,84400.0,3700,100,85.0,4.6,9,2008.0,0.1,0.6,3.0,9000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+454,Dendeng bekicot,"bekicot, bumbu",6.7,441,48700,20300,15800.0,0,692,523.0,16.6,50,100.0,0.5,1.5,69.0,18000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+455,Belut goreng,"belut, minyak",11.2,417,25900,19400,32000.0,0,840,872.0,4.9,71,217.7,0.3,1.8,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+456,Cumi-cumi goreng,cumi-cumi,54.2,265,40600,10100,0.0,0,62,270.0,2.7,86,81.9,0.1,0.6,0.0,18000,gurih,"dinner, lunch",mineral tinggi
+457,Ikan asin,ikan asin,40.0,193,42000,1500,0.0,0,200,300.0,0.0,2500,100.0,0.1,0.6,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+458,Ikan bandeng presto,"bandeng, bumbu",45.3,296,17100,20300,11300.0,500,1422,659.0,1.9,150,100.0,0.1,0.7,69.0,18000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+459,Ikan baung bakar,ikan baung,69.8,144,17800,5800,5200.0,500,18,169.0,0.0,168,236.0,0.1,0.7,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+460,Ikan Belida bakar,ikan belida,68.2,128,18000,3000,7200.0,0,58,134.0,0.0,293,198.0,0.1,0.4,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+461,Ikan cakalang asap,cakalang asap,56.9,204,34200,5600,1900.0,500,14,399.0,1.3,176,588.0,0.3,0.7,5.0,18000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+462,Ikan cakalang asin,cakalang asin,41.7,198,36500,2200,5500.0,0,236,346.0,3.7,4304,302.1,0.2,0.6,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+463,Ikan calo/ peda,ikan peda,71.3,81,11400,1900,3800.0,0,743,174.0,22.6,1500,100.0,0.1,0.6,0.0,18000,asin,"breakfast, dinner, lunch",mineral tinggi
+464,Ikan Gabus asap,gabus asap,26.4,261,38100,2300,21900.0,0,2510,1840.0,2.9,320,410.0,0.4,0.8,5.0,20000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+465,Ikan Gabus kering,gabus kering,24.0,268,58000,4000,0.0,0,15,100.0,0.1,500,100.0,0.1,0.6,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+466,Ikan gete goreng,ikan gete,44.7,267,23100,19400,200.0,0,2340,1240.0,0.8,590,440.0,0.1,1.9,5.0,18000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+467,Ikan hiu kering,hiu kering,23.1,298,46300,3600,20200.0,0,335,846.0,2.5,957,1457.0,0.5,2.0,5.0,20000,asin,"breakfast, dinner, lunch",vitamin C tinggi
+468,Ikan katombo asin,katombo asin,44.7,162,31700,2800,300.0,0,279,609.0,4.6,4393,342.2,2.8,0.6,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+469,Ikan kayu kering,ikan kayu kering,23.1,302,70700,1900,400.0,0,313,22.0,4.1,345,1045.0,0.2,1.8,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+470,Ikan Lais bakar,ikan lais,69.4,147,17500,6500,5400.0,0,54,194.0,0.1,142,209.0,0.1,0.5,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+471,Ikan lomak asin,lomak asin,21.6,258,40300,2300,18900.0,0,140,279.0,2.3,6227,485.1,2.3,0.6,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+472,Ikan Mas pepes,"ikan mas, bumbu",57.5,209,15200,11300,11800.0,500,686,530.0,6.1,74,276.7,0.1,1.9,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+473,Ikan mujahir goreng,ikan mujair,44.7,416,46900,23900,0.0,0,346,654.0,0.9,54,278.9,0.1,0.2,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+474,Ikan Mujahir pepes,"ikan mujair, bumbu",73.7,121,21700,2800,800.0,0,83,248.0,1.6,58,265.8,0.1,0.3,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+475,Dendeng ikan mujahir,"mujair, bumbu",15.2,582,68300,15200,37200.0,0,3258,1699.0,4.3,500,100.0,0.2,1.2,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+476,Ikan Papuyu bakar,ikan papuyu,66.6,152,17600,6100,6700.0,0,244,227.0,3.4,320,224.0,0.2,1.0,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+477,Ikan Patin bakar,ikan patin,70.3,144,17500,6300,4300.0,0,191,232.0,1.4,379,230.0,0.1,0.7,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+478,Ikan peda banjar,ikan peda banjar,46.0,156,28000,4000,2000.0,0,174,316.0,3.1,59,368.8,0.1,0.5,0.0,18000,asin,"breakfast, dinner, lunch",mineral tinggi
+479,Ikan saluang kering,saluang kering,33.6,284,34100,9900,14600.0,0,1426,1103.0,9.5,1767,263.0,1.3,18.7,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+480,Ikan sanggang,ikan sanggang,42.6,240,21700,7700,20700.0,0,159,362.0,9.8,2041,159.0,1.5,8.8,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+481,Ikan selar kuning cue,selar kuning,59.0,138,27000,3300,0.0,0,50,100.0,2.0,50,100.0,0.1,0.5,0.0,15000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+482,Ikan selar kering,selar kering,43.0,194,38000,3500,0.0,0,20,200.0,1.0,500,100.0,0.1,0.5,0.0,18000,asin,"breakfast, dinner, lunch",mineral tinggi
+483,Ikan sepat kering,sepat kering,30.0,289,38000,14000,0.0,0,40,100.0,0.7,500,100.0,0.1,0.5,0.0,18000,asin,"breakfast, dinner, lunch",mineral tinggi
+484,Ikan sunu asin,sunu asin,34.7,199,34100,3800,7100.0,0,94,92.0,2.2,377,57.0,0.1,3.2,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+485,Ikan Teri nasi kering,teri nasi kering,34.5,144,32500,600,0.0,0,1000,1000.0,3.0,312,100.0,0.1,0.5,0.0,20000,asin,"dinner, lunch",mineral tinggi
+486,Ikan Teri bubuk,teri bubuk,15.0,277,60000,2300,1800.0,0,1209,1225.0,3.0,500,100.0,0.1,0.5,0.0,22000,asin,"breakfast, dinner, lunch",mineral tinggi
+487,Ikan teri kering,teri kering,37.8,170,33400,3000,0.0,0,1200,1500.0,3.6,500,100.0,0.1,0.5,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+488,Ikan Teri kering tawar,teri kering tawar,16.7,331,68700,4200,0.0,0,2381,1500.0,23.4,500,100.0,0.1,0.5,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+489,Kerang asap,kerang asap,9.3,393,38900,13300,29400.0,0,420,410.0,8.5,160,50.0,0.6,3.7,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+490,Dendeng kerang,"kerang, bumbu",18.3,357,41100,10000,25600.0,0,217,904.0,5.2,500,100.0,0.2,1.2,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+491,Rebon Kering,rebon kering,21.6,299,59400,3600,3200.0,0,2306,625.0,21.4,500,100.0,0.1,0.5,0.0,22000,asin,"breakfast, dinner, lunch",mineral tinggi
+492,Rebung laut,rebung laut,18.2,320,7200,4200,63300.0,0,240,570.0,6.6,20,1040.0,1.5,6.2,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+493,Sardines dalam kaleng,"sarden, minyak",47.1,338,21100,27000,1000.0,0,354,434.0,3.5,400,100.0,0.1,0.5,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+494,Dendeng teripang,"teripang, bumbu",12.5,462,39100,32400,3500.0,0,499,616.0,96.4,315,402.5,0.2,1.2,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+495,Abon haruwan,"haruwan, bumbu",11.6,513,23700,37000,21300.0,0,25,25.0,0.5,61,15.0,0.1,0.2,0.0,22000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+496,Abon ikan,"ikan, bumbu",6.4,435,27200,20200,36100.0,0,300,250.0,3.0,400,100.0,0.2,1.0,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+497,Betok wadi,"ikan betok, bumbu",69.2,145,16300,7000,4100.0,500,405,523.0,1.8,69,203.0,1.0,1.3,5.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+498,Bou ninahu ndamate,"ikan, bumbu",79.5,79,6300,1000,1100.0,500,67,50.0,0.8,30,100.0,0.1,0.5,0.0,15000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+499,Bouiki ninahu,"ikan, bumbu",73.9,94,7800,2200,10800.0,500,58,179.4,1.0,40,100.0,0.1,1.5,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+500,Nggaluku,"ikan, bumbu",70.0,120,10000,4000,5000.0,500,100,100.0,1.0,50,100.0,0.1,0.5,0.0,15000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+501,Cakalang asar (asap),cakalang asap,64.3,155,20100,3800,10200.0,500,20,240.0,2.1,90,390.0,0.3,0.1,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+502,Dendeng belut goreng,"belut, bumbu",8.2,382,55700,14100,8000.0,0,1069,654.0,15.4,400,100.0,0.2,1.0,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+503,Dendeng mujahir goreng,"mujair, bumbu",6.5,598,74300,26900,9200.0,0,1957,1447.0,7.4,400,100.0,0.2,1.0,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+504,Fillet o-fish,"ikan fillet, tepung",51.0,270,12300,15900,19300.0,200,239,272.0,1.8,439,100.0,0.1,0.5,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+505,Gete kuah asam,"ikan gete, asam",80.1,75,8200,2000,6000.0,500,1620,880.0,0.8,260,150.0,0.1,1.5,0.0,15000,asam,"breakfast, dinner, lunch",mineral tinggi
+506,Gulai asam keueung,"ikan, asam, bumbu",86.0,52,10000,500,1800.0,500,62,102.0,0.3,332,141.0,0.1,1.0,0.0,16000,asam,"breakfast, dinner, lunch",mineral tinggi
+507,Gulai ikan,"ikan, santan",75.7,106,16500,3300,2500.0,500,306,196.0,4.8,743,100.0,0.1,0.5,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+508,Gulai ikan paya,"ikan paya, bumbu",72.1,148,10000,9800,5000.0,500,103,82.0,0.7,525,256.0,0.1,0.9,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+509,Gulai keumamah,"keumamah (ikan kering), bumbu",81.4,110,5900,8200,3200.0,500,32,96.0,1.0,335,121.0,0.2,0.9,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+510,Gulai tiram,"tiram, santan, bumbu",73.1,132,9000,7200,7800.0,500,53,134.0,3.7,285,133.0,1.1,0.7,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+511,Gurame asem manis,"gurame, asam, gula",63.1,192,12700,10100,12700.0,0,283,169.0,1.1,100,100.0,0.1,0.5,0.0,17000,manis,"breakfast, dinner, lunch",mineral tinggi
+512,Ikan asar merah,ikan asar merah,69.2,146,17700,5900,5600.0,500,100,240.0,4.0,170,310.0,0.3,1.4,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+513,Jambal goreng,"jambal, minyak",13.4,286,48500,9200,2300.0,0,207,457.0,3.3,1000,100.0,0.2,1.0,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+514,Jukku pallu kaloa,"jukku (ikan), bumbu",69.4,15,15200,4300,8800.0,500,40,170.0,1.1,605,153.0,0.6,1.1,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+515,Kaholeo,"kaholeo (kerang), bumbu",11.2,413,28700,19800,29800.0,500,909,1291.0,0.0,100,1171.0,0.1,3.1,0.0,22000,gurih,"breakfast, dinner, lunch",mineral tinggi
+516,Lawara penjah,"ikan penjah, sayur",64.5,207,7400,15400,9600.0,500,114,219.0,5.9,683,117.0,0.5,0.7,14.0,16000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+517,Model,"ikan, tepung, bumbu",83.9,79,2200,4000,8600.0,500,8,33.0,0.8,147,34.0,0.1,0.5,0.0,15000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+518,Mujahir acar kuning,"mujair, bumbu acar",43.1,330,17800,23400,12100.0,1100,154,357.0,5.3,100,100.0,0.1,0.5,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+519,Parede baleh,"baleh (ikan), bumbu",80.0,87,10500,2500,5500.0,500,35,215.0,0.9,416,59.0,0.1,0.2,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+520,Pempek adaan,"ikan, tepung, bumbu",62.6,162,4900,3000,27800.0,500,26,116.0,1.0,488,119.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+521,Pempek belida,"ikan belida, tepung, bumbu",61.4,156,4200,1400,31600.0,200,100,55.0,3.3,100,100.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+522,Pempek kapal selam,"ikan, telur, tepung",63.4,152,4500,2300,28200.0,500,19,115.0,1.6,628,91.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+523,Pempek kelesan,"ikan, tepung, bumbu",53.0,211,12300,6100,26600.0,400,840,176.0,1.8,100,100.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+524,Pempek kulit,"ikan kulit, tepung",45.7,243,5200,7300,39100.0,500,16,96.0,2.0,555,102.0,0.1,0.6,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+525,Pempek telur,"telur, ikan, tepung",62.4,156,4700,2700,28300.0,500,13,83.0,1.3,448,48.0,0.1,0.6,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+526,Pempek tenggiri,"ikan tenggiri, tepung",56.3,173,7200,1200,33400.0,200,164,80.0,3.1,100,100.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+527,Pencok lele,"lele, bumbu",47.5,372,7800,36300,3500.0,0,289,295.0,5.3,100,100.0,0.1,0.2,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+528,Pinda,"pinda (ikan), bumbu",71.0,107,15900,600,400.0,500,375,336.0,1.9,526,330.0,0.2,1.0,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+529,Pindang kenari,"ikan kenari, bumbu",80.1,124,9500,9600,0.0,500,120,220.0,1.3,370,270.0,0.3,1.2,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+530,Saboko gurita,"gurita, bumbu",76.2,87,15700,1500,2600.0,500,60,14.0,2.1,200,180.0,0.9,4.0,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+531,Saboko saltan,"ikan saltan, bumbu",76.0,113,17100,3600,3000.0,500,240,60.0,0.5,40,350.0,0.2,0.6,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+532,Saboko sardin,"sardin, bumbu",70.0,110,12900,4300,4900.0,500,220,520.0,6.0,200,280.0,0.2,3.9,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+533,Sate Bandeng,"bandeng, bumbu",47.1,283,12100,16800,20900.0,2000,118,186.0,1.2,543,199.0,0.2,0.9,0.0,18000,gurih,"dinner, lunch",mineral tinggi
+534,Sepi,"sepi (cumi), bumbu",66.1,88,7900,1600,10600.0,500,924,350.0,2.3,873,258.0,1.0,1.1,0.0,18000,gurih,"breakfast, dinner, lunch",mineral tinggi
+535,Tekwan,"ikan, tepung, bumbu",86.7,53,1900,900,9400.0,500,9,41.0,1.0,174,42.0,0.1,0.2,0.0,12000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+536,Teri belado,"teri, cabai, bumbu",25.8,365,23700,22300,17500.0,0,869,348.0,4.0,1000,100.0,0.2,1.0,0.0,20000,pedas,"breakfast, dinner, lunch",mineral tinggi
+537,Tumis bandeng,"bandeng, bumbu",70.5,189,11300,15700,600.0,500,56,129.0,0.4,314,280.0,0.1,0.7,0.0,16000,gurih,"breakfast, dinner, lunch",mineral tinggi
+538,Tumis keumamah,"keumamah, bumbu",45.7,300,14500,20000,15500.0,4500,100,100.0,1.0,100,100.0,0.1,0.5,7.0,18000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+539,Kacang arab kering,kacang arab,11.6,330,23800,1400,60200.0,17400,57,388.0,4.7,24,874.3,0.85,3.4,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+540,Kacang babi kering,kacang babi,11.6,341,30400,3200,51300.0,4500,178,521.0,6.8,13,1768.0,0.82,3.1,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+541,Kacang belimbing kering,kacang belimbing,10.4,400,34400,16900,34100.0,10700,468,182.0,6.8,37,955.0,2.82,2.0,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+542,Kacang beracun,kacang beracun,72.1,118,4400,1500,21600.0,1000,50,50.0,1.7,10,40.0,0.3,1.0,0.0,8000,tawar,"breakfast, dinner, lunch",gizi sedang/rendah
+543,Kacang bogor,kacang bogor,10.0,370,16000,6000,65000.0,26300,85,264.0,4.2,44,868.8,1.48,2.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+544,Kacang bogor,kacang bogor,60.8,165,7700,3100,27400.0,2500,96,126.0,5.3,6,537.0,0.41,1.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+545,Kacang endel kering,kacang endel,14.0,331,25000,1000,58000.0,23600,80,400.0,5.0,12,1322.4,0.68,2.7,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+546,Kacang ercis,kacang ercis,67.6,129,12400,700,18300.0,28600,40,130.0,2.3,4,310.0,0.3,2.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+547,kacang galing,kacang galing,12.0,336,23100,1700,59500.0,1000,80,400.0,5.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+548,Kacang gude,kacang gude,16.1,316,20700,1000,58000.0,4600,146,445.0,4.7,16,1306.2,0.99,2.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+549,Kacang gude,kacang gude,70.3,114,7000,600,20800.0,4400,3,122.0,1.5,4,480.5,0.12,0.9,43.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+550,Kacang hijau var bakti,kacang hijau,7.4,350,17100,1800,70700.0,5700,94,315.0,4.9,46,893.9,1.52,3.1,11.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+551,Kacang hijau var siwalik,kacang hijau,8.8,339,20800,2100,64599.99999999999,7400,122,136.0,4.9,45,880.4,1.5,3.1,10.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+552,Kacang hijau kering,kacang hijau,15.5,323,22900,1500,56800.0,7500,223,319.0,7.5,42,815.7,1.9,2.9,10.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+553,Kacang hitam kering,kacang hitam,12.5,346,16600,1700,66100.0,22800,70,300.0,4.7,3,100.0,0.9,3.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+554,Kacang kapri,kacang kapri,74.3,98,6700,400,17700.0,6200,22,122.0,1.9,6,296.6,0.21,1.5,26.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+555,Kacang kedelai kering,kacang kedelai,12.7,381,40400,16700,24900.0,3200,222,682.0,10.0,210,713.4,1.58,3.9,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+556,Kacang kedelai,kacang kedelai,20.0,286,30200,15600,30100.0,2900,196,506.0,6.9,28,870.9,1.24,3.6,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+557,Kacang kincai kering,kacang kincai,4.2,444,19900,16000,55000.0,1000,26,100.0,2.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+558,Kacang komak,kacang komak,20.9,327,16400,4300,55800.0,500,74,282.0,4.0,22,1137.0,0.9,2.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+559,Kacang kuning kering,kacang kuning,11.7,355,17000,2500,66000.0,15100,140,220.0,5.8,1,100.0,0.7,3.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+560,Kacang lebui /iris,kacang lebui/iris,11.8,346,16500,1500,66600.0,37300,144,368.0,3.4,17,1225.0,1.5,3.3,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+561,Kacang mentega kering,kacang mentega,13.7,344,16700,2100,64599.99999999999,13000,110,300.0,6.7,1,10.0,0.7,2.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+562,Kacang merah /banda,kacang merah,13.0,350,13900,3000,66900.0,26300,84,242.0,6.8,19,1127.0,0.0,42.0,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+563,Kacang merah tua,kacang merah tua,12.3,280,16700,1600,63200.0,4600,209,335.0,6.4,19,1348.5,0.69,2.8,6.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+564,Kacang merah,kacang merah,57.2,171,11000,2200,28000.0,2100,293,134.0,3.7,7,360.7,0.34,1.4,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+565,Kacang mete/biji,kacang mete,4.6,616,16300,48400,28700.0,900,26,521.0,3.8,26,692.0,4.7,4.1,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+566,jambu monyet,jambu monyet,80.0,65,1000,600,15800.0,1200,4,13.0,0.5,12,107.8,0.1,0.2,19.0,8000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+567,Biji kacang panjang,kacang panjang,12.2,357,17300,1500,68600.0,10600,163,437.0,6.9,16,1109.4,0.35,2.8,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+568,Kacang tanah sangan,kacang tanah,1.2,560,29500,43000,24100.0,2900,107,366.0,4.1,34,509.8,1.69,2.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+569,Kacang tanah,kacang tanah,9.6,525,27900,42700,17400.0,2400,316,456.0,5.7,31,466.5,1.55,1.9,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+570,Kacang tolo / tunggak,kacang tolo,13.5,331,24400,1900,56600.0,1600,481,399.0,13.9,15,7.8,1.03,5.9,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+571,Kacang tunis,kacang tunis,10.5,351,12200,1200,72900.0,29500,120,220.0,6.9,1,100.0,1.4,2.9,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+572,Kacang uci,kacang uci,9.9,358,23400,2400,60600.0,7400,269,264.0,0.5,13,1457.7,0.35,2.0,2.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+573,Kacang urei,kacang urei,12.8,354,12800,1800,69300.0,26100,220,220.0,5.1,1,100.0,0.7,3.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+574,Kenari banda,kenari banda,13.0,616,13900,56200,13700.0,2000,0,380.0,1.4,11,460.0,1.1,3.2,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+575,Kenari,kenari,3.0,657,15000,66000,13000.0,2000,92,691.0,7.7,3,505.8,0.97,3.0,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+576,Komak polong,komak polong,74.3,99,3300,100,21200.0,10300,50,99.0,13.1,15,567.0,0.2,0.6,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+577,Koro andong,koro andong,10.8,356,20500,4100,61600.0,7000,150,272.0,6.2,18,301.8,0.73,2.8,1.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+578,biji boro benguk,boro benguk,15.0,332,24000,3000,55000.0,5600,30,200.0,2.0,42,389.2,1.25,8.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+579,Biji koro kerupuk,koro kerupuk,67.2,125,8300,700,22100.0,2200,17,12.0,2.7,16,150.3,0.48,3.4,31.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+580,Biji koro loke,koro loke,88.6,33,2700,200,7900.0,3500,60,40.0,2.0,2,38.6,0.09,0.4,0.0,12000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+581,Koro roay kering,koro roay,13.0,344,12500,2100,69400.0,7500,70,103.0,4.4,18,294.3,0.72,2.7,1.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+582,Koro wedus kering,koro wedus,11.8,338,22200,1500,61000.0,5800,88,395.0,3.5,43,403.8,1.3,9.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+583,Lamtoro biji muda,lamtoro muda,77.4,85,5700,300,15400.0,10800,180,53.0,2.7,35,485.7,0.02,1.4,15.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+584,Lamtoro biji tua,lamtoro tua,61.4,148,10600,500,26200.0,17000,155,59.0,2.2,28,628.5,0.03,2.4,20.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+585,Saga merah terkupas,saga merah,8.1,449,30600,25500,31900.0,3500,1062,161.0,14.2,66,1496.5,0.07,5.7,7.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+586,Wijen,wijen,5.8,568,19300,51100,18100.0,3600,1125,614.0,9.5,18,303.7,4.16,7.9,0.0,20000,gurih,"breakfast, dinner, lunch",mineral tinggi
+587,Kacang belimbing rebus,kacang belimbing,55.6,204,16900,8800,17500.0,4800,230,180.0,3.3,43,1098.0,3.24,2.3,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+588,Kacang bogor goreng,kacang bogor,3.0,479,12700,23200,58900.0,1200,135,184.0,2.9,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+589,Kacang bogor rebus,kacang bogor,61.2,161,7700,2800,27100.0,2000,56,134.0,1.4,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+590,Kacang gude rebus,kacang gude,61.5,147,9000,500,27500.0,3400,50,175.0,2.0,14,1126.0,0.8,2.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+591,kacang hijau rebus,kacang hijau,71.3,109,8700,500,18300.0,1500,95,149.0,1.5,447,657.8,1.4,2.8,3.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+592,Kacang kedelai goreng,kacang kedelai,9.6,521,32200,37700,22900.0,7600,296,800.0,6.5,3492,11890.0,26.3,60.0,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+593,Kacang kedelai rebus,kacang kedelai,56.8,189,20200,8200,12700.0,1600,91,270.0,3.9,181,615.0,1.3,3.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+594,Kacang merah kering rebus,kacang merah,59.6,158,10300,900,28200.0,2600,160,149.0,3.7,6,311.0,0.27,1.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+595,Kacang merah segar rebus,kacang merah,63.1,144,10000,1000,24700.0,3500,144,150.0,2.8,6,311.0,0.27,1.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+596,Kacang mete/biji,kacang mete,1.0,629,20400,56300,19800.0,1100,502,493.0,8.0,13,641.7,4.7,5.4,0.0,25000,gurih,"breakfast, dinner, lunch",mineral tinggi
+597,jambu monyet goreng,"jambu monyet, minyak",10.0,520,2000,30000,60000.0,1000,10,30.0,1.0,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+598,Kacang tanah rebus dg kulit,"kacang tanah, kulit",40.2,360,13500,31200,12800.0,1000,42,177.0,1.4,32,483.0,1.6,2.0,5.0,12000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+599,Kacang tanah goreng,"kacang tanah, minyak",2.5,564,25500,44400,25500.0,2800,106,390.0,4.1,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+600,Kacang tanah rebus,kacang tanah,62.1,220,10600,18000,8000.0,1000,89,273.0,1.9,36,536.2,1.78,2.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+601,Kacang tolo rebus,kacang tolo,64.4,138,10700,1100,22600.0,900,165,172.0,4.0,13,6.7,0.8,6.1,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+602,Ampas kacang hijau,ampas kacang hijau,70.6,96,3700,600,19100.0,2700,133,150.0,1.3,10,100.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+603,Ampas tahu,ampas tahu,84.1,67,5000,2100,8100.0,4100,460,88.0,1.0,8,184.5,0.17,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+604,Ampas tahu kukus,ampas tahu,82.5,75,4100,2100,10700.0,5100,203,60.0,1.3,10,100.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+605,Ampas tahu kering,ampas tahu,9.0,414,26600,18300,41300.0,0,19,29.0,4.0,45,1055.7,0.99,2.8,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+606,Pepea oncom ampas tahu,"oncom, ampas tahu",80.9,76,5200,1800,10600.0,2200,215,66.0,12.5,10,100.0,0.1,0.5,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+607,Bungkil biji karet,biji karet,12.0,333,29300,3300,50000.0,2000,102,660.0,12.0,10,100.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+608,Bungkil kacang tanah,kacang tanah,14.0,336,37400,13000,30500.0,2000,730,470.0,30.7,10,100.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+609,Bungkil kelapa,kelapa,16.0,368,23000,15000,40000.0,2000,137,433.0,41.5,10,100.0,0.1,0.5,0.0,6000,tawar,"breakfast, dinner, lunch",mineral tinggi
+610,Dodol banjarmasin,"tepung, gula, santan",17.3,368,2600,8600,70000.0,500,51,180.0,3.3,48,96.0,0.4,2.6,0.0,10000,manis,"breakfast, dinner, lunch",mineral tinggi
+611,Emping (kerupuk melinjo),melinjo,13.0,345,12000,1500,71500.0,1000,100,400.0,5.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+612,Emping komak,komak,14.2,355,17800,4600,60700.0,1000,87,304.0,4.3,24,1233.0,1.0,2.3,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+613,Enting-enting gepuk hello kity,"kacang tanah, gula",2.4,538,13600,30300,52600.0,200,81,248.0,1.6,10,100.0,0.1,0.5,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+614,Enting-enting gepuk kacang tanah,"kacang tanah, gula",4.2,524,13300,29200,52000.0,200,76,248.0,1.4,10,100.0,0.1,0.5,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+615,Enting-enting wijen,"wijen, gula",3.7,565,18200,38400,36800.0,1900,251,502.0,10.9,10,100.0,0.1,0.5,0.0,20000,manis,"breakfast, dinner, lunch",mineral tinggi
+616,Geplak,"kelapa, gula",29.6,350,1400,14400,53600.0,1800,151,43.0,2.1,10,100.0,0.1,0.5,0.0,9000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+617,Geplak jahe,"kelapa, gula, jahe",12.4,462,3100,24400,57700.0,3300,212,161.0,6.6,10,100.0,0.1,0.5,0.0,10000,manis,"breakfast, dinner, lunch",mineral tinggi
+618,Kacang atom,"kacang tanah, tepung",3.1,533,27800,38100,28800.0,2500,87,423.0,3.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+619,Kacang goyang,"kacang tanah, gula",8.3,516,14700,31100,44400.0,1000,34,230.0,0.7,2,365.0,0.6,1.7,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+620,Kacang negara,"kacang tanah, gula",3.1,480,18400,19100,58500.0,11700,34,404.0,10.3,1010,385.0,2.5,7.1,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+621,Kacang sukro,"kacang tanah, tepung",4.7,484,8800,26100,57700.0,1800,49,194.0,2.5,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+622,Kacang tanah sari,"kacang tanah, gula",2.1,561,25500,43800,26000.0,2200,50,324.0,3.1,10,100.0,0.1,0.5,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+623,Keju kacang tanah (peanut butter),"kacang tanah, minyak",3.0,590,27000,49000,20900.0,1600,60,360.0,2.0,355,492.4,0.57,2.7,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+624,Kembang tahu,"kedelai, air",10.8,380,48900,13800,23300.0,0,378,781.0,2.1,55,455.3,0.68,4.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+625,Kembang tahu rebus,"kedelai, air",79.8,90,10700,4000,4700.0,500,85,100.0,1.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+626,Keripik oncom,"oncom, tepung",3.0,598,8300,43800,42600.0,3300,85,153.0,27.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+627,Keripik tempe,"tempe, tepung",3.3,581,12100,40600,41700.0,2200,237,116.0,6.9,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+628,Keripik tempe abadi besar,"tempe, tepung",4.5,556,15800,37100,39800.0,3500,112,215.0,5.4,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+629,Keripik tempe abadi murni,"tempe, tepung",3.2,542,40300,42400,11600.0,2200,175,529.0,5.2,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+630,Keripik tempe abadi sedang,"tempe, tepung",4.4,510,12300,27900,52400.0,3600,122,211.0,8.4,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+631,Keripik tempe abadi telur,"tempe, telur, tepung",4.5,529,20800,31700,40200.0,3000,124,222.0,5.4,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+632,Kerupik tempe abadi prima,"tempe, tepung",4.8,540,16700,33900,42000.0,2200,92,184.0,3.2,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+633,Kwaci,biji bunga matahari,9.9,515,30600,42100,13800.0,13600,54,312.0,6.2,124,448.6,0.65,9.7,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+634,Melinjo emping tebal goreng manis,"melinjo, gula",5.6,439,10000,16400,65700.0,1000,66,225.0,1.0,10,100.0,0.1,0.5,0.0,12000,manis,"breakfast, dinner, lunch",mineral tinggi
+635,Melinjo emping tebal goreng asin,"melinjo, garam",8.0,431,11100,16200,63000.0,1000,77,200.0,1.0,10,100.0,0.1,0.5,0.0,12000,asin,"breakfast, dinner, lunch",mineral tinggi
+636,Melinjo emping tipis goreng,melinjo,3.3,485,11500,24500,59100.0,1000,85,218.0,1.0,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+637,Moon tahu,"kedelai, air",79.9,128,8000,10000,1300.0,200,205,92.0,2.5,393,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+638,Oncom,"kacang tanah, ragi",57.0,187,13000,6000,22600.0,2000,96,115.0,27.0,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+639,Oncom ampas kacang hijau,"kacang hijau, ragi",13.4,376,14900,6000,65700.0,12300,199,110.0,10.9,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+640,Oncom kacang hijau + singkong,"kacang hijau, singkong",16.5,351,11000,5300,65900.0,9000,164,113.0,7.8,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+641,Oncom kacang tanah pepes,"kacang tanah, ragi",65.0,132,12700,3800,13700.0,3100,133,355.0,34.4,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+642,Rempeyek kacang tanah,"kacang tanah, tepung",3.9,513,17500,32500,44300.0,1700,65,202.0,2.6,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+643,Rempeyek kacang tolo,"kacang tolo, tepung",6.1,451,11200,20200,59700.0,1800,156,221.0,4.6,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+644,Rempeyek kacang uci,"kacang uci, tepung",4.0,497,17000,27600,50800.0,2400,166,89.0,6.7,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+645,Sayur lebui,"lebui, sayur",83.9,64,2100,600,12500.0,5700,21,2.0,1.0,124,146.0,0.2,0.7,0.0,8000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+646,Saridele bubuk,"kedelai, bumbu",3.0,344,30000,20000,43000.0,6200,450,500.0,4.0,56,2572.3,2.99,4.0,10.0,14000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+647,Susu kedelai,"kedelai, air",87.0,41,3500,2500,5000.0,200,50,45.0,0.7,128,287.9,0.12,1.0,2.0,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+648,Tahu goreng,"kedelai, minyak",77.3,115,9700,8500,2500.0,100,229,200.0,4.1,7,68.2,0.09,1.3,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+649,Tahu telur,"kedelai, telur",41.8,328,12600,19900,24600.0,400,492,238.0,4.9,755,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+650,Takwa,"kedelai, air",72.2,148,13800,8500,4000.0,0,140,214.0,8.5,3,79.0,0.3,1.3,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+651,Tauco,"kedelai, garam",54.0,184,11400,5500,22200.0,1900,72,463.0,6.0,1766,233.0,0.39,1.0,0.0,13000,asin,"breakfast, dinner, lunch",mineral tinggi
+652,Tauco cap beruang,"kedelai, garam",11.4,347,7400,5200,67600.0,3200,63,106.0,6.2,1000,100.0,0.1,0.5,0.0,13000,asin,"breakfast, dinner, lunch",mineral tinggi
+653,"Tauco cap DAS, cake","kedelai, garam",10.2,358,7500,4300,70400.0,3100,94,94.0,4.5,1000,100.0,0.1,0.5,0.0,13000,asin,"breakfast, dinner, lunch",mineral tinggi
+654,Tauco cap meong,"kedelai, garam",59.7,159,7400,4900,21300.0,1600,183,84.0,10.1,1547,204.1,0.34,0.9,0.0,13000,asin,"breakfast, dinner, lunch",mineral tinggi
+655,Tauji cap singa,"kedelai, garam",30.4,277,9100,4700,49600.0,1200,68,106.0,3.0,1000,100.0,0.1,0.5,0.0,13000,asin,"breakfast, dinner, lunch",mineral tinggi
+656,Tempe bongkrek,"kedelai, kelapa",72.5,119,4400,3500,18300.0,1000,27,100.0,2.6,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+657,Tempe gembus P3G,"kedelai, ampas tahu",81.9,73,5700,1300,10300.0,4200,204,80.0,1.5,10,100.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",mineral tinggi
+658,Tempe gembus yogya,"kedelai, ampas tahu",80.7,76,6800,700,10600.0,5300,76,142.0,16.5,10,100.0,0.1,0.5,0.0,9000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+659,Tempe kacang babi,"kacang babi, ragi",64.0,139,12500,800,21900.0,1800,68,182.0,2.6,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+660,Tempe kacang belimbing,"kacang belimbing, ragi",58.2,212,17500,10000,12900.0,2900,186,160.0,2.2,10,100.0,0.1,0.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+661,Tempe kedelai + jagung,"kedelai, jagung, ragi",70.6,143,12000,5500,11400.0,1900,155,156.0,6.8,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+662,Tempe kedelai murni goreng,"kedelai, minyak",36.8,350,24500,26600,10400.0,4200,202,296.0,4.9,22,626.7,0.8,2.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+663,Tempe kedelai murni goreng,"kedelai, minyak",36.8,350,24500,26600,10400.0,4200,202,296.0,4.9,22,626.7,0.8,2.5,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+664,Tempe kedelai murni,"kedelai, ragi",55.3,201,20800,8800,13500.0,1400,155,326.0,4.0,9,234.0,0.57,1.7,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+665,Tempe koro benguk,"koro benguk, ragi",64.0,141,10200,1300,23200.0,1000,42,15.0,2.6,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+666,Tempe lamtoro,"lamtoro, ragi",66.8,128,10700,500,21300.0,7100,203,108.0,0.6,10,100.0,0.1,0.5,2.0,10000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+667,Tempe lamtoro var gung dengan kulit,"lamtoro, ragi",65.1,146,11700,2300,19600.0,7600,128,41.0,6.8,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+668,Tempe lamtoro var gung tanpa kulit,"lamtoro, ragi",67.1,131,18000,800,13000.0,1300,95,154.0,12.4,10,100.0,0.1,0.5,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+669,Tempe pasar,"kedelai, ragi",68.3,150,14000,7700,9100.0,1400,517,202.0,1.5,7,165.9,0.4,1.2,0.0,10000,gurih,"breakfast, dinner, lunch",mineral tinggi
+670,Tempe pasar goreng,"kedelai, minyak",42.9,336,20000,28000,7800.0,3400,156,350.0,3.0,20,566.2,0.8,2.2,0.0,12000,gurih,"breakfast, dinner, lunch",mineral tinggi
+671,Tepung hunkwe (patikacang ijo),kacang hijau,10.0,364,4500,1000,83500.0,16100,50,100.0,1.0,15,1232.9,0.93,2.7,0.0,12000,tawar,"breakfast, dinner, lunch",mineral tinggi
+672,Tepung Jalejo,jalejo (umbi),10.0,388,19000,7500,61200.0,5800,101,663.0,2.0,3,712.0,0.6,1.9,9.0,12000,tawar,"breakfast, dinner, lunch",vitamin C tinggi
+673,Tepung kacang kedelai,kedelai,9.0,347,35900,20600,29900.0,5800,195,544.0,8.4,52,2522.6,4.3,2.6,0.0,12000,tawar,"breakfast, dinner, lunch",mineral tinggi
+674,Balichong,"ikan, bumbu",59.9,152,13200,800,22900.0,1500,380,210.0,2.9,120,310.0,0.8,1.1,0.0,15000,gurih,"breakfast, dinner, lunch",mineral tinggi
+675,Bekasam,"ikan, nasi, bumbu",65.5,116,11900,4900,6100.0,3500,704,757.0,7.5,711,176.0,0.8,1.9,0.0,15000,asam,"breakfast, dinner, lunch",mineral tinggi
+676,Bekasang,"ikan, bumbu",67.1,78,11400,2000,3600.0,400,54,97.0,2.6,4016,121.0,0.2,4.8,0.0,15000,asin,"breakfast, dinner, lunch",mineral tinggi
+677,Cuka,"air, asam asetat",94.5,21,100,100,5000.0,0,7,10.0,0.5,21,37.8,0.0,0.0,0.0,5000,asam,"breakfast, dinner, lunch",gizi sedang/rendah
+678,Kecap,"kedelai, gula, garam",63.0,71,5700,1300,9000.0,0,123,96.0,5.7,1114,100.0,0.04,0.1,0.0,12000,manis/asin,"breakfast, dinner, lunch",mineral tinggi
+679,Petis ikan,"ikan, bumbu",56.0,165,20000,200,20800.0,1000,37,36.0,2.8,100,100.0,0.1,0.5,0.0,15000,asin,"breakfast, dinner, lunch",makronutrien tinggi
+680,Petis udang kering,"udang, bumbu",8.3,345,23800,1400,59300.0,0,221,397.0,3.8,1199,462.8,0.75,1.9,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+681,Petis udang pasta,"udang, bumbu",39.0,220,15000,900,38000.0,2300,37,36.0,2.8,7981,307.9,0.5,1.3,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+682,Saos tomat,"tomat, gula, garam",69.5,110,2000,400,24500.0,900,12,18.0,0.8,890,129.6,0.18,0.3,11.0,10000,asam/manis,"breakfast, dinner, lunch",vitamin C tinggi
+683,Tempoya,"durian, bumbu",70.1,110,1700,1300,21900.0,2600,190,45.0,2.9,597,486.3,0.1,0.5,0.0,12000,asam,"breakfast, dinner, lunch",mineral tinggi
+684,Terasi,"udang/ikan, garam",33.8,155,22300,2900,9900.0,2700,3812,726.0,78.5,1664,821.4,0.99,2.4,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+685,Terasi dobo,"udang/ikan, garam",58.4,191,33100,3600,6600.0,1600,2250,1130.0,22.9,650,1260.0,2.9,5.0,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+686,Terasi merah,"udang/ikan, garam",40.0,174,30000,3500,5600.0,2200,100,150.0,3.1,7850,302.8,0.49,1.2,0.0,20000,asin,"breakfast, dinner, lunch",mineral tinggi
+687,Kelapa muda,kelapa muda,95.5,17,200,100,3800.0,0,15,8.0,0.2,1,149.0,0.04,0.1,1.0,7000,segar,"breakfast, dinner, lunch",vitamin C tinggi
+688,Sirup,"gula, air, perisa",44.0,213,0,0,55000.0,0,0,0.0,0.0,3,4.2,0.0,0.0,0.0,8000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+689,Sirup pirous,"gula, air, perisa",43.3,228,200,400,55900.0,0,470,93.0,29.5,3,4.2,0.0,0.0,8.0,8000,manis,"breakfast, dinner, lunch",vitamin C tinggi
+690,Teh hijau,daun teh hijau,7.7,300,28300,4800,53600.0,9600,245,415.0,18.9,60,5873.9,0.5,0.0,23.0,12000,pahit,"breakfast, dinner, lunch",vitamin C tinggi
+691,Teh hitam,daun teh hitam,8.0,293,24500,2800,58800.0,8700,327,313.0,24.3,50,5854.8,0.0,0.0,9.0,12000,pahit,"breakfast, dinner, lunch",vitamin C tinggi
+692,Teh melati,"daun teh, melati",8.1,299,24100,3500,59000.0,9700,320,185.0,31.6,70,5848.4,0.53,0.0,85.0,12000,pahit,"breakfast, dinner, lunch",vitamin C tinggi
+693,Nasi Jagung Daging Sapi,"Beras, Jagung muda rebus, Daging sapi",54.7,204,6700,700,33400.0,400,20,44.0,0.5,2,33.0,0.13,0.7,0.0,5000,gurih,"dinner, lunch",makronutrien tinggi
+694,Bubur Jali Ayam Kampung,"Jali, Daging ayam, Beras",61.0,160,4500,700,33000.0,400,18,36.0,0.4,2,32.0,0.12,0.6,0.0,4800,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+695,Sate Domba Jawawut,"Daging domba, Jawawut",53.0,210,7000,1500,28000.0,300,23,48.0,0.9,5,38.0,0.14,0.8,0.0,7500,gurih,"dinner, lunch",gizi sedang/rendah
+696,Sup Ginjal Sapi Kentang,"Ginjal sapi, Kentang",60.0,130,4000,500,20000.0,700,19,35.0,0.7,4,35.0,0.11,0.7,0.0,6000,gurih,"dinner, lunch",gizi sedang/rendah
+697,Bubur Talas Ayam,"Talas, Daging ayam",70.0,120,3500,600,26000.0,800,20,30.0,0.6,2,28.0,0.11,0.5,0.0,4000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+698,Nasi Ubi Jalar Kambing,"Beras, Ubi jalar kuning, Daging kambing",62.0,170,5000,800,30000.0,500,21,40.0,0.6,2,29.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+699,Sate Ayam Bengkuang,"Daging ayam, Bengkuang",55.0,120,5000,500,15000.0,400,12,22.0,0.5,2,18.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+700,Bubur Singkong Telur Bebek,"Singkong, Telur bebek",63.0,140,4500,500,28000.0,700,18,32.0,0.5,2,22.0,0.11,0.7,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+701,Gado-Gado Daun Kelor,"Daun kelor, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,8000,gurih,"dinner, lunch",vitamin C tinggi
+702,Nasi Sagu Aren Daging Sapi,"Sagu aren, Beras, Daging sapi",58.0,170,5500,600,29000.0,400,18,35.0,0.5,2,27.0,0.12,0.6,0.0,4800,gurih,"dinner, lunch",gizi sedang/rendah
+703,Sup Wortel Daging Ayam,"Wortel, Daging ayam",80.0,80,3000,400,12000.0,1200,16,22.0,0.5,2,16.0,0.1,0.5,8.0,4000,gurih,"dinner, lunch",vitamin C tinggi
+704,Semur Daging Kuda Kentang,"Daging kuda, Kentang",60.0,160,6000,700,22000.0,400,19,35.0,0.6,2,21.0,0.12,0.7,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+705,Nasi Batatas Gembili,"Beras, Batatas gembili",65.0,130,2500,300,26000.0,600,16,30.0,0.4,2,18.0,0.11,0.5,0.0,4000,gurih,"dinner, lunch",gizi sedang/rendah
+706,Sate Daging Kelinci,"Daging kelinci, Beras",55.0,140,6000,600,20000.0,400,17,32.0,0.5,2,19.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",gizi sedang/rendah
+707,Bubur Talas Pontianak,"Talas pontianak, Beras",70.0,120,2500,300,24000.0,700,15,28.0,0.4,2,15.0,0.11,0.5,0.0,3500,gurih,breakfast,gizi sedang/rendah
+708,Gado-Gado Daun Singkong,"Daun singkong, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+709,Bubur Sagu Kasbi Telur Puyuh,"Sagu kasbi, Telur burung puyuh",65.0,120,4000,400,22000.0,600,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,breakfast,gizi sedang/rendah
+710,Sup Daun Katuk Daging Ayam,"Daun katuk, Daging ayam",75.0,80,4000,300,10000.0,1300,20,22.0,0.6,2,12.0,0.12,0.6,7.0,5000,gurih,"dinner, lunch",vitamin C tinggi
+711,Nasi Jampang Huma,"Beras, Jampang huma",62.0,120,2000,300,24000.0,600,15,28.0,0.4,2,15.0,0.11,0.5,0.0,4000,gurih,"dinner, lunch",gizi sedang/rendah
+712,Bubur Arrowroot Telur Ayam,"Arrowroot, Telur ayam kampung",70.0,110,4000,300,20000.0,700,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+713,Nasi Jagung Daging Sapi,"Beras, Jagung muda rebus, Daging sapi",54.7,210,6700,700,33400.0,400,20,44.0,0.5,2,33.0,0.13,0.7,0.0,5000,gurih,"dinner, lunch",makronutrien tinggi
+714,Bubur Jali Ayam Kampung,"Jali, Daging ayam, Beras",61.0,160,4500,700,33000.0,400,18,36.0,0.4,2,32.0,0.12,0.6,0.0,4800,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+715,Sate Domba Jawawut,"Daging domba, Jawawut",53.0,210,7000,1500,28000.0,300,23,48.0,0.9,5,38.0,0.14,0.8,0.0,7500,gurih,"dinner, lunch",gizi sedang/rendah
+716,Sup Ginjal Sapi Kentang,"Ginjal sapi, Kentang",60.0,130,4000,500,20000.0,700,19,35.0,0.7,4,35.0,0.11,0.7,0.0,6000,gurih,"dinner, lunch",gizi sedang/rendah
+717,Bubur Talas Ayam,"Talas, Daging ayam",70.0,120,3500,600,26000.0,800,20,30.0,0.6,2,28.0,0.11,0.5,0.0,4000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+718,Nasi Ubi Jalar Kambing,"Beras, Ubi jalar kuning, Daging kambing",62.0,170,5000,800,30000.0,500,21,40.0,0.6,2,29.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+719,Sate Ayam Bengkuang,"Daging ayam, Bengkuang",55.0,120,5000,500,15000.0,400,12,22.0,0.5,2,18.0,0.1,0.5,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+720,Bubur Singkong Telur Bebek,"Singkong, Telur bebek",63.0,140,4500,500,28000.0,700,18,32.0,0.5,2,22.0,0.11,0.7,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+721,Gado-Gado Daun Kelor,"Daun kelor, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,8000,gurih,"dinner, lunch",vitamin C tinggi
+722,Nasi Sagu Aren Daging Sapi,"Sagu aren, Beras, Daging sapi",58.0,170,5500,600,29000.0,400,18,35.0,0.5,2,27.0,0.12,0.6,0.0,4800,gurih,"dinner, lunch",gizi sedang/rendah
+723,Sup Wortel Daging Ayam,"Wortel, Daging ayam",80.0,80,3000,400,12000.0,1200,16,22.0,0.5,2,16.0,0.1,0.5,8.0,4000,gurih,"dinner, lunch",vitamin C tinggi
+724,Semur Daging Kuda Kentang,"Daging kuda, Kentang",60.0,160,6000,700,22000.0,400,19,35.0,0.6,2,21.0,0.12,0.7,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+725,Nasi Batatas Gembili,"Beras, Batatas gembili",65.0,130,2500,300,26000.0,600,16,30.0,0.4,2,18.0,0.11,0.5,0.0,4000,gurih,"dinner, lunch",gizi sedang/rendah
+726,Sate Daging Kelinci,"Daging kelinci, Beras",55.0,140,6000,600,20000.0,400,17,32.0,0.5,2,19.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",gizi sedang/rendah
+727,Bubur Talas Pontianak,"Talas pontianak, Beras",70.0,120,2500,300,24000.0,700,15,28.0,0.4,2,15.0,0.11,0.5,0.0,3500,gurih,breakfast,gizi sedang/rendah
+728,Gado-Gado Daun Singkong,"Daun singkong, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+729,Bubur Sagu Kasbi Telur Puyuh,"Sagu kasbi, Telur burung puyuh",65.0,120,4000,400,22000.0,600,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,breakfast,gizi sedang/rendah
+730,Sup Daun Katuk Daging Ayam,"Daun katuk, Daging ayam",75.0,80,4000,300,10000.0,1300,20,22.0,0.6,2,12.0,0.12,0.6,7.0,5000,gurih,"dinner, lunch",vitamin C tinggi
+731,Nasi Jampang Huma,"Beras, Jampang huma",62.0,120,2000,300,24000.0,600,15,28.0,0.4,2,15.0,0.11,0.5,0.0,4000,gurih,"dinner, lunch",gizi sedang/rendah
+732,Bubur Arrowroot Telur Ayam,"Arrowroot, Telur ayam kampung",70.0,110,4000,300,20000.0,700,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+733,Nasi Kentang Daging Sapi,"Beras, Kentang, Daging sapi",60.0,180,5500,600,30000.0,500,18,36.0,0.4,2,30.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+734,Bubur Gadung Telur Bebek,"Gadung, Telur bebek",65.0,120,3500,500,22000.0,600,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+735,Sate Daging Ayam Jawawut,"Daging ayam, Jawawut",55.0,130,5000,600,18000.0,400,15,28.0,0.4,2,15.0,0.11,0.5,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+736,Bubur Gembili Telur Ayam,"Gembili, Telur ayam kampung",70.0,110,3000,300,18000.0,700,13,25.0,0.3,2,13.0,0.1,0.5,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+737,Nasi Sagu Daging Kambing,"Sagu aren, Beras, Daging kambing",58.0,170,5000,600,29000.0,400,18,35.0,0.5,2,27.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+738,Sup Daun Kelor Daging Sapi,"Daun kelor, Daging sapi",75.0,90,5000,400,10000.0,1200,20,22.0,0.6,2,12.0,0.12,0.6,7.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+739,Bubur Talas Bengkuang,"Talas, Bengkuang",70.0,100,2000,200,20000.0,700,13,24.0,0.3,2,13.0,0.1,0.5,0.0,3500,gurih,breakfast,gizi sedang/rendah
+740,Nasi Batatas Kelapa Daging Sapi,"Beras, Batatas kelapa, Daging sapi",62.0,170,5000,800,30000.0,500,21,40.0,0.6,2,29.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+741,Sate Daging Itik Ubi Jalar,"Daging itik, Ubi jalar kuning",55.0,150,6000,600,20000.0,400,15,28.0,0.4,2,15.0,0.11,0.5,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+742,Bubur Ganyong Telur Ayam,"Ganyong, Telur ayam kampung",70.0,110,3000,300,18000.0,700,13,25.0,0.3,2,13.0,0.1,0.5,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+743,Nasi Kentang Daging Kuda,"Beras, Kentang, Daging kuda",60.0,180,5500,600,30000.0,500,18,36.0,0.4,2,30.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+744,Bubur Arrowroot Telur Bebek,"Arrowroot, Telur bebek",70.0,110,4000,300,20000.0,700,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+745,Gado-Gado Daun Katuk Telur Ayam,"Daun katuk, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,8000,gurih,"dinner, lunch",vitamin C tinggi
+746,Nasi Jagung Daging Ayam,"Beras, Jagung muda rebus, Daging ayam",54.7,200,6000,700,33000.0,400,20,44.0,0.5,2,33.0,0.13,0.7,0.0,5000,gurih,"dinner, lunch",makronutrien tinggi
+747,Bubur Singkong Telur Puyuh,"Singkong, Telur burung puyuh",63.0,140,4500,500,28000.0,700,18,32.0,0.5,2,22.0,0.11,0.7,0.0,3500,gurih,breakfast,gizi sedang/rendah
+748,Sup Daun Katuk Daging Sapi,"Daun katuk, Daging sapi",75.0,90,5000,400,10000.0,1200,20,22.0,0.6,2,12.0,0.12,0.6,7.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+749,Bubur Talas Batatas Kelapa,"Talas, Batatas kelapa",70.0,100,2000,200,20000.0,700,13,24.0,0.3,2,13.0,0.1,0.5,0.0,3500,gurih,breakfast,gizi sedang/rendah
+750,Nasi Batatas Gembili Daging Sapi,"Beras, Batatas gembili, Daging sapi",62.0,170,5000,800,30000.0,500,21,40.0,0.6,2,29.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+751,Sate Daging Domba Ubi Jalar,"Daging domba, Ubi jalar kuning",55.0,150,6000,600,20000.0,400,15,28.0,0.4,2,15.0,0.11,0.5,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+752,Bubur Ganyong Telur Bebek,"Ganyong, Telur bebek",70.0,110,3000,300,18000.0,700,13,25.0,0.3,2,13.0,0.1,0.5,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+753,Nasi Kentang Daging Domba,"Beras, Kentang, Daging domba",60.0,180,5500,600,30000.0,500,18,36.0,0.4,2,30.0,0.12,0.6,0.0,5200,gurih,"dinner, lunch",gizi sedang/rendah
+754,Bubur Arrowroot Telur Puyuh,"Arrowroot, Telur burung puyuh",70.0,110,4000,300,20000.0,700,15,28.0,0.4,2,15.0,0.11,0.6,0.0,3500,gurih,breakfast,gizi sedang/rendah
+755,Gado-Gado Daun Kelor Telur Ayam,"Daun kelor, Kentang, Telur ayam",70.0,90,3000,300,13000.0,1000,25,30.0,0.8,3,18.0,0.13,0.8,10.0,8000,gurih,"dinner, lunch",vitamin C tinggi
+756,Nasi Jagung Daging Kambing,"Beras, Jagung muda rebus, Daging kambing",54.7,210,6700,700,33400.0,400,20,44.0,0.5,2,33.0,0.13,0.7,0.0,5200,gurih,"dinner, lunch",makronutrien tinggi
+757,Bubur Singkong Telur Ayam,"Singkong, Telur ayam kampung",63.0,140,4500,500,28000.0,700,18,32.0,0.5,2,22.0,0.11,0.7,0.0,3500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+758,Sup Daun Katuk Daging Kuda,"Daun katuk, Daging kuda",75.0,90,5000,400,10000.0,1200,20,22.0,0.6,2,12.0,0.12,0.6,7.0,7000,gurih,"dinner, lunch",vitamin C tinggi
+759,Nasi Jagung Kornet Sapi,"Nasi, Jagung muda rebus, Kornet sapi",54.3,203,7200,8700,23400.0,300,13,100.0,1.7,266,51.1,0.12,1.5,0.0,5300,gurih,"dinner, lunch",mineral tinggi
+760,Makaroni Daging Ayam,"Makaroni, Daging ayam",45.9,221,7400,1900,46400.0,2500,17,46.0,0.4,34,46.0,0.12,0.8,0.0,5000,gurih,"dinner, lunch",makronutrien tinggi
+761,Roti Putih Sosis Sapi,"Roti putih, Sosis daging sapi",38.8,349,11300,21800,26200.0,5500,49,78.0,1.3,647,187.8,0.11,1.3,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+762,Mi Basah Kornet Sapi,"Mi basah, Kornet sapi",66.5,189,8300,14200,7000.0,100,12,91.0,5.4,428,53.7,0.07,2.2,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+763,Bubur Tinotuan Telur Ayam,"Bubur tinotuan, Telur ayam kampung",71.4,203,9300,9800,15600.0,4100,51,135.0,1.5,244,101.0,0.2,0.5,7.5,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+764,Nasi Tim Daging Sapi,"Nasi tim, Daging sapi asap",65.5,151,17200,3200,13000.0,300,9,154.0,2.7,810,261.7,0.07,2.8,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+765,Bakwan Jagung Kornet,"Bakwan, Jagung muda rebus, Kornet sapi",44.2,243,7900,6600,36400.0,2100,74,110.0,3.7,311,55.0,0.13,1.3,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+766,Apem Kue Telur Ayam,"Apem kue, Telur ayam kampung",61.6,174,6200,2000,33900.0,1000,21,61.0,0.9,48,41.0,0.1,0.7,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+767,Bubur Tinotuan Sosis Sapi,"Bubur tinotuan, Sosis daging sapi",59.3,302,8400,21300,8900.0,4100,35,86.0,1.4,625,124.0,0.18,1.1,7.5,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+768,Mie Kering Daging Sapi,"Mi kering, Daging sapi asap",31.8,260,19000,3900,43200.0,400,23,188.0,3.5,814,261.7,0.17,3.5,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+769,Roti Putih Abon Sapi,"Roti putih, Abon sapi",32.4,303,11300,8600,47300.0,5800,87,115.0,5.0,530,91.0,0.15,1.0,0.0,8000,gurih,breakfast,mineral tinggi
+770,Mi Basah Sosis Sapi,"Mi basah, Sosis daging sapi",58.8,268,7600,22800,8200.0,100,21,37.0,3.9,414,48.2,0.09,1.1,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+771,Bubur Tinotuan Kornet Sapi,"Bubur tinotuan, Kornet sapi",67.0,222,9200,12600,10300.0,4100,26,62.0,1.2,399,82.0,0.13,0.9,7.5,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+772,Nasi Jagung Sosis Sapi,"Nasi, Jagung muda rebus, Sosis daging sapi",52.2,246,7800,21500,16000.0,400,24,65.0,1.2,530,71.0,0.13,0.9,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+773,Makaroni Kornet Sapi,"Makaroni, Kornet sapi",32.4,321,12400,12700,39400.0,2500,15,80.0,1.3,5,0.0,0.28,1.4,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+774,Roti Putih Telur Ayam,"Roti putih, Telur ayam kampung",40.0,214,13600,7200,30000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,6000,gurih,"breakfast, dinner, lunch",mineral tinggi
+775,Mi Basah Abon Sapi,"Mi basah, Abon sapi",52.4,223,7600,9700,11300.0,100,21,37.0,3.9,414,48.2,0.09,1.1,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+776,Bubur Tinotuan Telur Bebek,"Bubur tinotuan, Telur bebek",68.0,204,11200,11500,15600.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,15.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+777,Nasi Tim Kornet Sapi,"Nasi tim, Kornet sapi",62.1,204,12000,12700,16000.0,400,18,55.0,1.0,10,40.0,0.1,0.7,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+778,Bakwan Sosis Sapi,"Bakwan, Sosis daging sapi",39.1,364,11400,21300,24400.0,2500,74,110.0,3.7,311,55.0,0.13,1.3,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+779,Apem Kue Sosis Sapi,"Apem kue, Sosis daging sapi",54.2,298,8200,16400,18100.0,1000,21,61.0,0.9,48,41.0,0.1,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+780,Bubur Tinotuan Abon Sapi,"Bubur tinotuan, Abon sapi",65.2,253,8500,11100,13000.0,4100,35,86.0,1.4,625,124.0,0.18,1.1,7.5,8000,gurih,breakfast,vitamin C tinggi
+781,Mi Kering Telur Ayam,"Mi kering, Telur ayam kampung",45.3,224,10000,6700,32000.0,400,31,143.0,3.9,760,83.0,0.29,1.9,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+782,Roti Putih Kornet Sapi,"Roti putih, Kornet sapi",46.5,268,12000,13100,32000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+783,Mi Basah Telur Bebek,"Mi basah, Telur bebek",65.2,199,10300,11500,11000.0,100,21,37.0,3.9,414,48.2,0.09,1.1,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+784,Bubur Tinotuan Sosis Hati,"Bubur tinotuan, Sosis hati sapi",67.6,244,9700,11000,13000.0,4100,35,86.0,1.4,625,124.0,0.18,1.1,7.5,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+785,Nasi Jagung Abon Sapi,"Nasi, Jagung muda rebus, Abon sapi",54.7,210,7200,8700,23400.0,300,13,100.0,1.7,266,51.1,0.12,1.5,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+786,Makaroni Sosis Sapi,"Makaroni, Sosis daging sapi",45.9,321,10500,12700,39400.0,2500,15,80.0,1.3,5,0.0,0.28,1.4,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+787,Roti Putih Telur Bebek,"Roti putih, Telur bebek",40.0,214,13600,7200,30000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,6000,gurih,"breakfast, dinner, lunch",mineral tinggi
+788,Mi Basah Sosis Hati Sapi,"Mi basah, Sosis hati sapi",58.8,268,7600,22800,8200.0,100,21,37.0,3.9,414,48.2,0.09,1.1,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+789,Bubur Tinotuan Telur Puyuh,"Bubur tinotuan, Telur burung puyuh",68.0,204,11200,11500,15600.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,15.0,6000,gurih,breakfast,vitamin C tinggi
+790,Nasi Tim Abon Sapi,"Nasi tim, Abon sapi",62.1,204,12000,12700,16000.0,400,18,55.0,1.0,10,40.0,0.1,0.7,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+791,Bakwan Kornet Sapi,"Bakwan, Kornet sapi",39.1,364,11400,21300,24400.0,2500,74,110.0,3.7,311,55.0,0.13,1.3,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+792,Apem Kue Kornet Sapi,"Apem kue, Kornet sapi",54.2,298,8200,16400,18100.0,1000,21,61.0,0.9,48,41.0,0.1,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+793,Bubur Tinotuan Sosis Ayam,"Bubur tinotuan, Sosis daging ayam",65.2,253,8500,11100,13000.0,4100,35,86.0,1.4,625,124.0,0.18,1.1,7.5,8000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+794,Mi Kering Abon Sapi,"Mi kering, Abon sapi",45.3,224,10000,6700,32000.0,400,31,143.0,3.9,760,83.0,0.29,1.9,0.0,6000,gurih,"dinner, lunch",mineral tinggi
+795,Roti Putih Sosis Hati Sapi,"Roti putih, Sosis hati sapi",38.8,349,11300,21800,26200.0,5500,49,78.0,1.3,647,187.8,0.11,1.3,0.0,7000,gurih,"breakfast, dinner, lunch",mineral tinggi
+796,Mi Basah Telur Puyuh,"Mi basah, Telur burung puyuh",65.2,199,10300,11500,11000.0,100,21,37.0,3.9,414,48.2,0.09,1.1,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+797,Bubur Tinotuan Kornet Ayam,"Bubur tinotuan, Kornet ayam",67.0,222,9200,12600,10300.0,4100,26,62.0,1.2,399,82.0,0.13,0.9,7.5,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+798,Nasi Jagung Sosis Hati Sapi,"Nasi, Jagung muda rebus, Sosis hati sapi",52.2,246,7800,21500,16000.0,400,24,65.0,1.2,530,71.0,0.13,0.9,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+799,Makaroni Telur Ayam,"Makaroni, Telur ayam kampung",45.9,221,7400,1900,46400.0,2500,17,46.0,0.4,34,46.0,0.12,0.8,0.0,5000,gurih,"dinner, lunch",makronutrien tinggi
+800,Roti Putih Abon Ayam,"Roti putih, Abon ayam",32.4,303,11300,8600,47300.0,5800,87,115.0,5.0,530,91.0,0.15,1.0,0.0,8000,gurih,"breakfast, dinner, lunch",mineral tinggi
+801,Nasi Tim Jagung,"Nasi tim, Jagung muda rebus",62.1,131,3700,500,28200.0,700,4,56.0,0.6,2,24.0,0.15,0.6,0.0,3500,gurih,"dinner, lunch",gizi sedang/rendah
+802,Makaroni Jagung,"Makaroni, Jagung muda rebus",32.5,248,6900,600,54500.0,2900,13,93.0,0.6,5,12.0,0.24,1.2,0.0,4000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+803,Roti Putih Amparan Tatak,"Roti putih, Amparan tatak",49.2,219,4700,3400,46800.0,4600,10,61.0,1.0,265,65.0,0.13,0.8,0.0,4000,manis,breakfast,mineral tinggi
+804,Mi Basah Bihun Goreng,"Mi basah, Bihun goreng instan",44.5,235,3400,3600,47200.0,100,140,82.0,4.8,495,43.0,0.08,1.2,0.0,4000,gurih,"dinner, lunch",mineral tinggi
+805,Bubur Tinotuan Apem Kue,"Bubur tinotuan, Apem kue",72.0,152,2200,400,24800.0,6100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+806,Nasi Jagung Bantal,"Nasi, Jagung muda rebus, Bantal",54.1,171,3800,400,39500.0,1400,18,14.0,0.5,55,54.0,0.13,0.6,0.0,3500,gurih,"dinner, lunch",makronutrien tinggi
+807,Makaroni Apang Kukus,"Makaroni, Apang kukus",30.6,278,5900,400,62700.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+808,Roti Putih Bakwan,"Roti putih, Bakwan",39.5,264,8100,4000,44600.0,5000,107,86.0,2.9,265,65.0,0.13,0.8,0.0,4000,gurih,breakfast,mineral tinggi
+809,Mi Basah Bingka,"Mi basah, Bingka",62.2,180,2900,6900,26600.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,4000,manis,"dinner, lunch",gizi sedang/rendah
+810,Bubur Tinotuan Baruasa,"Bubur tinotuan, Baruasa",43.1,287,4400,4200,47400.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+811,Nasi Tim Bobengka,"Nasi tim, Bobengka",58.7,173,3900,1500,35600.0,500,3,7.0,0.4,0,23.9,0.1,0.4,0.0,3500,gurih,"dinner, lunch",makronutrien tinggi
+812,Makaroni Bolu Peca,"Makaroni, Bolu peca",33.7,275,6000,2500,57200.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+813,Roti Putih Brem,"Roti putih, Brem",38.7,249,5700,800,54000.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,manis,breakfast,mineral tinggi
+814,Mi Basah Cake Tape,"Mi basah, Cake tape",56.1,205,2800,7400,32100.0,800,14,13.0,6.8,63,13.5,0.06,0.4,0.0,4000,manis,"dinner, lunch",gizi sedang/rendah
+815,Bubur Tinotuan Cangkuning,"Bubur tinotuan, Cangkuning",69.2,180,2600,3800,23500.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+816,Nasi Jagung Dodol Bali,"Nasi, Jagung muda rebus, Dodol bali",45.3,240,3400,1100,45300.0,200,13,44.0,0.5,2,33.0,0.13,0.7,0.0,3500,manis,"dinner, lunch",makronutrien tinggi
+817,Makaroni Dodol Galamai,"Makaroni, Dodol galamai",22.1,350,4500,2100,77400.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,manis,"breakfast, dinner, lunch",makronutrien tinggi
+818,Roti Putih Dodol Kedondong,"Roti putih, Dodol kedondong",33.2,290,4900,4600,56900.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,manis,breakfast,mineral tinggi
+819,Mi Basah Dodol Manado,"Mi basah, Dodol manado",53.0,230,2500,8400,33900.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,4000,manis,"dinner, lunch",makronutrien tinggi
+820,Bubur Tinotuan Emping Beras,"Bubur tinotuan, Emping beras",47.3,280,6400,1200,50500.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,gurih,breakfast,vitamin C tinggi
+821,Nasi Tim Gemblong,"Nasi tim, Gemblong",54.1,202,2000,2900,45000.0,500,3,7.0,0.4,0,23.9,0.1,0.4,0.0,3500,manis,"dinner, lunch",makronutrien tinggi
+822,Makaroni Gendar Goreng,"Makaroni, Gendar goreng",21.1,380,7600,14600,60400.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+823,Roti Putih Intip Goreng,"Roti putih, Intip goreng",23.3,361,7800,10200,56200.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,gurih,breakfast,mineral tinggi
+824,Mi Basah Jagung Gerontol,"Mi basah, Jagung gerontol",70.9,124,1700,1300,23700.0,500,14,13.0,6.8,63,13.5,0.06,0.4,0.0,3500,gurih,"dinner, lunch",gizi sedang/rendah
+825,Bubur Tinotuan Jagung Titi,"Bubur tinotuan, Jagung titi",45.1,265,5900,1200,47400.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,gurih,breakfast,vitamin C tinggi
+826,Nasi Jagung Japilus,"Nasi, Jagung muda rebus, Japilus",23.8,274,2100,12700,62100.0,300,13,44.0,0.5,2,33.0,0.13,0.7,0.0,3500,gurih,"dinner, lunch",makronutrien tinggi
+827,Makaroni Kakicak,"Makaroni, Kakicak",44.1,324,6000,7700,56400.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+828,Roti Putih Kambose,"Roti putih, Kambose",50.7,204,5300,2300,47200.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,gurih,breakfast,mineral tinggi
+829,Mi Basah Kapusa,"Mi basah, Kapusa",71.8,133,2500,2200,21000.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,3500,gurih,"dinner, lunch",gizi sedang/rendah
+830,Bubur Tinotuan Keddo Bodong,"Bubur tinotuan, Keddo bodong",57.4,223,3700,3000,35400.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,gurih,breakfast,vitamin C tinggi
+831,Nasi Tim Kelepon Kue,"Nasi tim, Kelepon kue",63.8,162,2300,2000,34900.0,700,3,7.0,0.4,0,23.9,0.1,0.4,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+832,Makaroni Kereput,"Makaroni, Kereput",7.1,398,5800,7700,67700.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+833,Roti Putih Ketoprak,"Roti putih, Ketoprak",54.5,201,7900,4500,31500.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,gurih,breakfast,mineral tinggi
+834,Mi Basah Ketupat Kandangan,"Mi basah, Ketupat kandangan",79.3,97,1500,2800,15200.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,3500,gurih,"dinner, lunch",gizi sedang/rendah
+835,Bubur Tinotuan Koyabu,"Bubur tinotuan, Koyabu",62.6,201,2900,2200,38600.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+836,Nasi Jagung Kue Ali,"Nasi, Jagung muda rebus, Kue ali",24.7,344,4000,9600,63100.0,300,13,44.0,0.5,2,33.0,0.13,0.7,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+837,Makaroni Kue Bangen,"Makaroni, Kue bangen",24.2,357,5000,3500,60600.0,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,manis,breakfast,makronutrien tinggi
+838,Roti Putih Kue Gelang,"Roti putih, Kue gelang",23.6,348,6900,8800,59900.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,manis,breakfast,mineral tinggi
+839,Mi Basah Kue Jahe,"Mi basah, Kue jahe",21.9,256,1100,5900,49300.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+840,Bubur Tinotuan Kue Kelapa,"Bubur tinotuan, Kue kelapa",42.2,368,4800,21200,36600.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+841,Nasi Tim Kue Koa,"Nasi tim, Kue koa",27.8,227,3600,300,52600.0,500,3,7.0,0.4,0,23.9,0.1,0.4,0.0,3500,manis,"breakfast, dinner, lunch",makronutrien tinggi
+842,Makaroni Kue Ku Temu,"Makaroni, Kue ku temu",28.9,284,6100,300,64099.99999999999,2700,10,40.0,0.3,5,12.0,0.21,1.1,0.0,4000,manis,breakfast,makronutrien tinggi
+843,Roti Putih Kue Lumpur,"Roti putih, Kue lumpur",40.1,270,5800,6200,47100.0,4600,49,91.0,1.5,265,65.0,0.13,0.8,0.0,4000,manis,breakfast,mineral tinggi
+844,Mi Basah Kue Pelita,"Mi basah, Kue pelita",75.5,121,3500,4400,15800.0,100,14,13.0,6.8,63,13.5,0.06,0.4,0.0,3500,manis,"breakfast, dinner, lunch",gizi sedang/rendah
+845,Bubur Tinotuan Kue Putu Cangkir,"Bubur tinotuan, Kue putu cangkir",56.8,204,3700,3600,34500.0,4100,41,20.0,0.4,486,164.0,0.3,0.4,8.0,4000,manis,breakfast,vitamin C tinggi
+846,Nasi Jagung Ayam Goreng,"Nasi, Jagung muda rebus, Ayam goreng",52.3,200,8000,5000,32000.0,500,22,50.0,0.8,10,35.0,0.12,0.7,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+847,Bubur Tinotuan Telur Rebus,"Bubur tinotuan, Telur ayam kampung",76.0,170,7000,4000,16000.0,4200,45,60.0,0.8,25,50.0,0.15,0.7,8.0,6000,gurih,breakfast,vitamin C tinggi
+848,Makaroni Kornet Sapi,"Makaroni, Kornet sapi",32.4,321,12400,12700,39400.0,2500,15,80.0,1.3,5,0.0,0.28,1.4,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+849,Roti Putih Isi Abon Sapi,"Roti putih, Abon sapi",32.4,303,11300,8600,47300.0,5800,87,115.0,5.0,530,91.0,0.15,1.0,0.0,8000,gurih,breakfast,mineral tinggi
+850,Mi Basah Sosis Sapi,"Mi basah, Sosis daging sapi",58.8,268,7600,22800,8200.0,100,21,37.0,3.9,414,48.0,0.09,1.1,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+851,Bubur Kentang Ayam Suwir,"Bubur tinotuan, Kentang, Ayam goreng",75.0,160,7000,3000,18000.0,4000,40,55.0,0.7,12,40.0,0.13,0.6,7.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+852,Nasi Tim Telur Dadar,"Nasi tim, Telur dadar ayam",66.5,180,7000,6000,26000.0,500,22,40.0,0.6,5,30.0,0.12,0.7,0.0,6000,gurih,"dinner, lunch",gizi sedang/rendah
+853,Martabak Mi Kornet,"Mi basah, Kornet sapi",66.5,189,8300,14200,7000.0,100,12,91.0,5.4,428,53.0,0.07,2.2,0.0,7000,gurih,"dinner, lunch",mineral tinggi
+854,Pastel Isi Ayam,"Pastel, Ayam goreng",44.4,295,8000,13000,42000.0,500,60,100.0,2.0,150,50.0,0.1,1.0,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+855,Nasi Rames Dendeng Sapi,"Nasi rames, Dendeng sapi",45.0,240,15000,5000,29000.0,500,30,70.0,1.0,40,40.0,0.1,1.0,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+856,Lontong Sayur Labu Siam,"Lontong, Labu siam, Santan",65.0,160,3000,6000,27000.0,1200,22,40.0,0.7,10,50.0,0.12,0.5,7.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+857,Bubur Ubi Jalar Kacang Hijau,"Bubur tinotuan, Ubi jalar, Kacang hijau",80.0,150,4000,500,20000.0,3000,35,50.0,0.7,15,40.0,0.1,0.5,10.0,6000,manis,breakfast,vitamin C tinggi
+858,Roti Panggang Keju,"Roti putih, Keju",38.0,320,10000,10000,48000.0,5000,80,120.0,6.0,610,100.0,0.15,1.2,0.0,9000,gurih,breakfast,mineral tinggi
+859,Mi Goreng Telur Asin,"Mi kering, Telur asin",40.0,350,13000,8000,60000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+860,Nasi Liwet Ikan Asin,"Nasi, Ikan asin, Santan",55.0,210,7000,7000,35000.0,400,30,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+861,Bubur Sumsum Gula Merah,"Bubur sumsum, Gula merah",75.0,140,3000,1000,28000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
+862,Nasi Uduk Telur Balado,"Nasi uduk, Telur ayam kampung",60.0,220,7000,9000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+863,Makaroni Panggang Daging Sapi,"Makaroni, Daging sapi asap",30.0,250,15000,8000,32000.0,2000,25,70.0,1.2,15,40.0,0.15,0.8,0.0,9000,gurih,"dinner, lunch",makronutrien tinggi
+864,Roti Lapis Selai Kacang,"Roti putih, Selai kacang",35.0,310,8000,12000,45000.0,5000,70,100.0,2.0,60,40.0,0.1,0.8,0.0,8000,manis,breakfast,makronutrien tinggi
+865,Mi Rebus Sayur Bayam,"Mi basah, Bayam, Wortel",80.0,100,5000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+866,Bubur Ayam Kampung,"Bubur tinotuan, Ayam goreng",80.0,160,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+867,Nasi Kuning Ayam Suwir,"Nasi kuning, Ayam goreng",60.0,220,9000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+868,Roti Panggang Coklat Keju,"Roti putih, Coklat, Keju",38.0,350,8000,14000,45000.0,5000,80,120.0,6.0,610,100.0,0.15,1.2,0.0,9000,manis,breakfast,mineral tinggi
+869,Mi Goreng Bakso Sapi,"Mi kering, Bakso sapi",40.0,320,13000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+870,Bubur Kacang Hijau Roti Tawar,"Bubur kacang hijau, Roti putih",70.0,180,6000,2000,32000.0,3000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+871,Nasi Goreng Kornet Sapi,"Nasi, Kornet sapi",53.0,220,8000,8000,37000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+872,Roti Tawar Selai Stroberi,"Roti putih, Selai stroberi",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+873,Makaroni Sayur Brokoli,"Makaroni, Brokoli, Wortel",40.0,180,6000,2000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+874,Nasi Uduk Tempe Goreng,"Nasi uduk, Tempe goreng",60.0,210,8000,7000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+875,Bubur Sagu Mutiara,"Bubur sagu, Mutiara sagu",75.0,160,2000,500,36000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,makronutrien tinggi
+876,Mi Rebus Bakso Ayam,"Mi basah, Bakso ayam",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+877,Roti Panggang Sosis Sapi,"Roti putih, Sosis daging sapi",38.8,349,11300,21800,26200.0,5500,49,78.0,1.3,647,187.0,0.11,1.3,0.0,8000,gurih,"breakfast, dinner, lunch",mineral tinggi
+878,Nasi Kuning Ikan Tongkol,"Nasi kuning, Ikan tongkol",60.0,220,11000,5000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+879,Bubur Ketan Hitam Santan,"Bubur ketan hitam, Santan",75.0,180,4000,5000,32000.0,2000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+880,Mi Goreng Ayam Suwir,"Mi kering, Ayam goreng",40.0,320,13000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+881,Roti Panggang Telur Dadar,"Roti putih, Telur dadar ayam",40.0,214,13600,7200,30000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,7000,gurih,breakfast,mineral tinggi
+882,Nasi Uduk Sambal Goreng Kentang,"Nasi uduk, Sambal goreng kentang",60.0,210,5000,5000,35000.0,1000,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+883,Bubur Ayam Suwir Telur Puyuh,"Bubur tinotuan, Ayam goreng, Telur puyuh",80.0,170,9000,3000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+884,Nasi Goreng Sayur,"Nasi, Wortel, Buncis, Kol",55.0,180,5000,3000,35000.0,1500,30,60.0,1.0,10,40.0,0.13,0.7,0.0,6000,gurih,"dinner, lunch",makronutrien tinggi
+885,Roti Panggang Selai Nanas,"Roti putih, Selai nanas",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+886,Makaroni Telur Puyuh,"Makaroni, Telur burung puyuh",40.0,200,8000,4000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6500,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+887,Nasi Uduk Ayam Bakar,"Nasi uduk, Ayam bakar",60.0,230,10000,7000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7500,gurih,"dinner, lunch",makronutrien tinggi
+888,Nasi Jagung Suwir Ayam,"Nasi, Jagung muda rebus, Ayam goreng",53.0,190,7000,3500,32000.0,500,20,50.0,0.7,10,35.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+889,Bubur Kentang Telur Rebus,"Bubur tinotuan, Kentang, Telur ayam",78.0,150,6000,2500,17000.0,3800,40,55.0,0.7,12,40.0,0.12,0.6,6.0,6000,gurih,breakfast,vitamin C tinggi
+890,Makaroni Sosis Sapi,"Makaroni, Sosis daging sapi",24.7,400,11600,21300,44500.0,2500,24,71.0,1.2,385,40.0,0.17,1.2,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+891,Roti Panggang Coklat,"Roti putih, Coklat",40.0,310,6000,8000,48000.0,5000,60,100.0,2.0,60,40.0,0.1,0.8,0.0,9000,manis,breakfast,makronutrien tinggi
+892,Mi Goreng Kornet Sapi,"Mi kering, Kornet sapi",31.8,314,13000,13300,45000.0,400,21,100.0,2.0,380,50.0,0.13,1.2,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+893,Bubur Ubi Jalar Kacang Hijau,"Bubur tinotuan, Ubi jalar, Kacang hijau",80.0,150,4000,500,20000.0,3000,35,50.0,0.7,15,40.0,0.1,0.5,10.0,6000,manis,breakfast,vitamin C tinggi
+894,Nasi Uduk Telur Dadar,"Nasi uduk, Telur ayam kampung",60.0,210,6000,8000,32000.0,500,25,50.0,0.8,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+895,Martabak Mi Sosis,"Mi basah, Sosis daging sapi",58.8,268,7600,22800,8200.0,100,21,37.0,3.9,414,48.0,0.09,1.1,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+896,Pastel Isi Telur,"Pastel, Telur ayam kampung",44.4,280,7000,13000,42000.0,500,60,100.0,2.0,150,50.0,0.1,1.0,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+897,Lontong Sayur Labu Siam,"Lontong, Labu siam, Santan",65.0,160,3000,6000,27000.0,1200,22,40.0,0.7,10,50.0,0.12,0.5,7.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+898,Bubur Ayam Suwir,"Bubur tinotuan, Ayam goreng",80.0,160,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+899,Nasi Kuning Ayam Bakar,"Nasi kuning, Ayam goreng",60.0,220,9000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+900,Roti Panggang Keju,"Roti putih, Keju",38.0,320,10000,10000,48000.0,5000,80,120.0,6.0,610,100.0,0.15,1.2,0.0,9000,gurih,breakfast,mineral tinggi
+901,Mi Goreng Bakso Sapi,"Mi kering, Bakso sapi",40.0,320,13000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+902,Bubur Kacang Hijau Roti Tawar,"Bubur kacang hijau, Roti putih",70.0,180,6000,2000,32000.0,3000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+903,Nasi Goreng Kornet Sapi,"Nasi, Kornet sapi",53.0,220,8000,8000,37000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+904,Roti Tawar Selai Stroberi,"Roti putih, Selai stroberi",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+905,Makaroni Brokoli,"Makaroni, Brokoli, Wortel",40.0,180,6000,2000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+906,Nasi Uduk Tempe Goreng,"Nasi uduk, Tempe goreng",60.0,210,8000,7000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+907,Bubur Sagu Mutiara,"Bubur sagu, Mutiara sagu",75.0,160,2000,500,36000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,makronutrien tinggi
+908,Mi Rebus Bakso Ayam,"Mi basah, Bakso ayam",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+909,Roti Panggang Sosis Sapi,"Roti putih, Sosis daging sapi",38.8,349,11300,21800,26200.0,5500,49,78.0,1.3,647,187.0,0.11,1.3,0.0,8000,gurih,"breakfast, dinner, lunch",mineral tinggi
+910,Nasi Kuning Ikan Tongkol,"Nasi kuning, Ikan tongkol",60.0,220,11000,5000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+911,Bubur Ketan Hitam Santan,"Bubur ketan hitam, Santan",75.0,180,4000,5000,32000.0,2000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+912,Mi Goreng Ayam Suwir,"Mi kering, Ayam goreng",40.0,320,13000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+913,Roti Panggang Telur Dadar,"Roti putih, Telur dadar ayam",40.0,214,13600,7200,30000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,7000,gurih,breakfast,mineral tinggi
+914,Nasi Uduk Sambal Goreng Kentang,"Nasi uduk, Sambal goreng kentang",60.0,210,5000,5000,35000.0,1000,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+915,Bubur Ayam Suwir Telur Puyuh,"Bubur tinotuan, Ayam goreng, Telur puyuh",80.0,170,9000,3000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7500,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+916,Nasi Goreng Sayur,"Nasi, Wortel, Buncis, Kol",55.0,180,5000,3000,35000.0,1500,30,60.0,1.0,10,40.0,0.13,0.7,0.0,6000,gurih,"dinner, lunch",makronutrien tinggi
+917,Roti Panggang Selai Nanas,"Roti putih, Selai nanas",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+918,Makaroni Telur Puyuh,"Makaroni, Telur burung puyuh",40.0,200,8000,4000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6500,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+919,Nasi Uduk Ayam Bakar,"Nasi uduk, Ayam bakar",60.0,230,10000,7000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7500,gurih,"dinner, lunch",makronutrien tinggi
+920,Nasi Goreng Telur Asin,"Nasi, Telur asin",56.7,210,8000,5000,36000.0,400,30,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+921,Bubur Sumsum Kacang Hijau,"Bubur sumsum, Kacang hijau",75.0,150,4000,1000,28000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
+922,Mi Goreng Sosis Ayam,"Mi kering, Sosis ayam",40.0,320,11000,10000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+923,Roti Panggang Selai Kacang,"Roti putih, Selai kacang",35.0,310,8000,12000,45000.0,5000,70,100.0,2.0,60,40.0,0.1,0.8,0.0,8000,manis,breakfast,makronutrien tinggi
+924,Nasi Kuning Abon Sapi,"Nasi kuning, Abon sapi",60.0,220,10000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+925,Bubur Ayam Kacang Panjang,"Bubur tinotuan, Ayam goreng, Kacang panjang",80.0,160,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+926,Mi Rebus Tahu Bakso,"Mi basah, Tahu, Bakso sapi",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+927,Roti Panggang Telur Mata Sapi,"Roti putih, Telur ayam kampung",40.0,214,13600,7200,30000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,7000,gurih,breakfast,mineral tinggi
+928,Nasi Goreng Daging Sapi,"Nasi, Daging sapi asap",53.0,220,10000,8000,37000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+929,Bubur Kacang Merah Santan,"Bubur kacang merah, Santan",75.0,180,4000,5000,32000.0,2000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+930,Nasi Jagung Ayam Suwir,"Nasi, Jagung muda rebus, Ayam goreng",54.0,190,7000,4000,32000.0,500,20,50.0,0.7,10,35.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+931,Nasi Jagung Rendang Sapi,"Nasi, Jagung muda rebus, Daging sapi",54.5,220,8500,7000,33000.0,500,25,60.0,1.0,12,38.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+932,Bubur Tinotuan Ayam Bakar,"Bubur tinotuan, Ayam goreng",80.0,170,9000,3000,18000.0,4200,42,54.0,0.8,15,44.0,0.12,0.7,8.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+933,Makaroni Telur Dadar,"Makaroni, Telur dadar ayam",26.8,250,10000,7000,46000.0,2500,22,65.0,0.9,22,50.0,0.14,0.9,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+934,Roti Panggang Selai Kacang Coklat,"Roti putih, Selai kacang, Coklat",35.0,340,8000,14000,46000.0,5000,70,110.0,2.0,60,41.0,0.11,0.9,0.0,9000,manis,breakfast,makronutrien tinggi
+935,Mi Kering Ayam Kecap,"Mi kering, Ayam goreng, Kecap manis",28.0,330,12000,6000,55000.0,500,33,100.0,1.1,70,42.0,0.13,0.8,0.0,7500,gurih,"dinner, lunch",makronutrien tinggi
+936,Bubur Ubi Jalar Kacang Merah,"Bubur tinotuan, Ubi jalar, Kacang merah",80.0,160,4500,700,21000.0,3200,36,52.0,0.8,16,41.0,0.1,0.6,10.0,6000,manis,breakfast,vitamin C tinggi
+937,Nasi Uduk Sate Ayam,"Nasi uduk, Sate ayam goreng",60.0,230,12000,8000,32000.0,500,27,54.0,0.9,15,41.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+938,Martabak Mi Telur Puyuh,"Mi basah, Telur burung puyuh",65.0,210,9000,6000,15000.0,200,22,40.0,1.0,70,30.0,0.1,0.6,0.0,7000,gurih,"dinner, lunch",gizi sedang/rendah
+939,Pastel Isi Sosis,"Pastel, Sosis daging sapi",44.0,320,10000,16000,41000.0,500,62,110.0,2.1,155,52.0,0.11,1.1,0.0,9000,gurih,"dinner, lunch",mineral tinggi
+940,Lontong Ayam Kuning,"Lontong, Ayam goreng, Kuah kuning",65.0,170,7000,6000,28000.0,1200,23,42.0,0.8,11,51.0,0.12,0.6,7.0,7000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+941,Bubur Ayam Jamur,"Bubur tinotuan, Ayam goreng, Jamur tiram",80.0,160,8000,2000,21000.0,3100,35,51.0,0.8,13,41.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+942,Nasi Kuning Empal Sapi,"Nasi kuning, Empal goreng",60.0,240,12000,8000,34000.0,500,30,62.0,1.1,11,41.0,0.13,0.7,0.0,9000,gurih,"dinner, lunch",makronutrien tinggi
+943,Roti Panggang Pisang Coklat,"Roti putih, Pisang, Coklat",38.0,320,5000,7000,52000.0,5000,65,110.0,2.0,60,41.0,0.11,0.8,3.0,9000,manis,breakfast,vitamin C tinggi
+944,Mi Goreng Sosis Ayam,"Mi kering, Sosis ayam",40.0,320,11000,10000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+945,Bubur Ketan Hitam Kacang Merah,"Bubur ketan hitam, Kacang merah",75.0,170,5000,1000,34000.0,2000,32,52.0,0.8,16,41.0,0.1,0.6,8.0,6000,manis,breakfast,vitamin C tinggi
+946,Nasi Uduk Tahu Bacem,"Nasi uduk, Tahu bacem",60.0,210,7000,6000,33000.0,500,25,50.0,0.8,13,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+947,Makaroni Panggang Ayam Suwir,"Makaroni, Ayam goreng",30.0,240,10000,7000,44000.0,2000,22,65.0,0.9,22,50.0,0.14,0.9,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+948,Roti Lapis Selai Kacang Coklat,"Roti putih, Selai kacang, Coklat",35.0,340,8000,14000,46000.0,5000,70,110.0,2.0,60,41.0,0.11,0.9,0.0,9000,manis,breakfast,makronutrien tinggi
+949,Mi Rebus Bakso Ikan,"Mi basah, Bakso ikan",80.0,120,7000,2000,18000.0,1500,41,61.0,1.0,11,31.0,0.1,0.7,8.0,6500,gurih,"dinner, lunch",vitamin C tinggi
+950,Bubur Sagu Santan,"Bubur sagu, Santan",75.0,160,2000,4000,36000.0,700,22,44.0,0.6,12,32.0,0.1,0.5,0.0,5000,manis,breakfast,makronutrien tinggi
+951,Nasi Goreng Sosis Sapi,"Nasi, Sosis daging sapi",53.0,240,9000,10000,36000.0,400,28,60.0,1.1,11,41.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+952,Roti Tawar Selai Kacang,"Roti putih, Selai kacang",35.0,310,8000,12000,45000.0,5000,70,100.0,2.0,60,40.0,0.1,0.8,0.0,8000,manis,breakfast,makronutrien tinggi
+953,Makaroni Tumis Sawi,"Makaroni, Sawi, Wortel",40.0,180,6000,2000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+954,Nasi Uduk Telur Ceplok,"Nasi uduk, Telur ayam goreng",60.0,210,7000,8000,32000.0,500,25,50.0,0.8,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+955,Bubur Sumsum Ubi Ungu,"Bubur sumsum, Ubi jalar ungu",75.0,150,3000,1000,29000.0,700,21,41.0,0.6,11,31.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
+956,Mi Goreng Sayur Sawi,"Mi kering, Sawi, Wortel",40.0,200,7000,3000,36000.0,1000,32,61.0,1.1,11,41.0,0.13,0.7,0.0,6000,gurih,"dinner, lunch",makronutrien tinggi
+957,Roti Panggang Selai Nanas,"Roti putih, Selai nanas",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+958,Nasi Kuning Telur Balado,"Nasi kuning, Telur ayam kampung",60.0,220,9000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+959,Bubur Kacang Hijau Pisang,"Bubur kacang hijau, Pisang",70.0,190,5000,1000,34000.0,2000,32,52.0,0.8,16,41.0,0.1,0.6,8.0,6000,manis,breakfast,vitamin C tinggi
+960,Mi Rebus Tahu Goreng,"Mi basah, Tahu goreng",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+961,Roti Panggang Telur Kornet,"Roti putih, Telur ayam goreng, Kornet sapi",40.0,260,12000,10000,32000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,8000,gurih,"breakfast, dinner, lunch",mineral tinggi
+962,Nasi Goreng Ikan Asin,"Nasi, Ikan asin",53.0,210,8000,7000,36000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+963,Bubur Ayam Kacang Panjang,"Bubur tinotuan, Ayam goreng, Kacang panjang",80.0,160,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+964,Makaroni Telur Asin,"Makaroni, Telur asin",26.8,250,10000,7000,46000.0,2500,22,65.0,0.9,22,50.0,0.14,0.9,0.0,7000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+965,Nasi Uduk Empal Sapi,"Nasi uduk, Empal goreng",60.0,230,10000,8000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,9000,gurih,"dinner, lunch",makronutrien tinggi
+966,Roti Panggang Sosis Ayam,"Roti putih, Sosis ayam",38.8,340,10000,12000,45000.0,5000,70,100.0,2.0,60,40.0,0.1,0.8,0.0,8000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+967,Mi Goreng Telur Dadar,"Mi kering, Telur dadar ayam",40.0,320,13000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+968,Bubur Sumsum Kacang Merah,"Bubur sumsum, Kacang merah",75.0,150,4000,1000,28000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
+969,Nasi Kuning Sosis Sapi,"Nasi kuning, Sosis daging sapi",60.0,220,10000,8000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+970,Roti Panggang Selai Kacang Pisang,"Roti putih, Selai kacang, Pisang",35.0,320,7000,10000,48000.0,5000,70,110.0,2.0,60,41.0,0.11,0.9,3.0,9000,manis,breakfast,vitamin C tinggi
+971,Mi Rebus Sawi Telur,"Mi basah, Sawi, Telur ayam kampung",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+972,Bubur Kacang Hijau Labu Kuning,"Bubur kacang hijau, Labu kuning",70.0,180,5000,1000,34000.0,2000,32,52.0,0.8,16,41.0,0.1,0.6,8.0,6000,manis,breakfast,vitamin C tinggi
+973,Nasi Uduk Tahu Goreng,"Nasi uduk, Tahu goreng",60.0,210,7000,6000,33000.0,500,25,50.0,0.8,13,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+974,Nasi Jagung Ayam Kecap,"Nasi, Jagung muda rebus, Ayam goreng, Kecap",54.0,200,8000,4500,32000.0,500,22,50.0,0.8,12,36.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+975,Bubur Kacang Merah Santan,"Bubur kacang merah, Santan",75.0,180,4000,5000,32000.0,2000,30,50.0,0.8,15,40.0,0.1,0.7,8.0,6000,manis,breakfast,vitamin C tinggi
+976,Makaroni Tumis Jamur,"Makaroni, Jamur tiram, Wortel",40.0,170,6000,2000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6500,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+977,Roti Panggang Susu Coklat,"Roti putih, Susu, Coklat",38.0,310,7000,8000,48000.0,5000,65,105.0,2.0,60,40.0,0.1,0.8,0.0,9000,manis,breakfast,makronutrien tinggi
+978,Mi Kering Bakso Ayam,"Mi kering, Bakso ayam",40.0,320,12000,8000,54000.0,1000,40,120.0,2.0,100,60.0,0.1,1.0,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+979,Bubur Ubi Ungu Santan,"Bubur tinotuan, Ubi jalar ungu, Santan",80.0,160,4000,2500,21000.0,3000,36,52.0,0.8,16,41.0,0.1,0.6,10.0,6500,manis,breakfast,vitamin C tinggi
+980,Nasi Uduk Ayam Suwir Sambal,"Nasi uduk, Ayam goreng, Sambal",60.0,230,9000,8000,32000.0,500,27,54.0,0.9,15,41.0,0.13,0.7,2.0,8000,pedas,"dinner, lunch",vitamin C tinggi
+981,Martabak Misoa Telur Asin,"Misoa, Telur asin",30.0,260,10000,7000,46000.0,2000,22,65.0,0.9,22,50.0,0.14,0.9,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+982,Pastel Isi Kentang Wortel,"Pastel, Kentang, Wortel",44.0,270,5000,11000,41000.0,700,60,100.0,2.1,155,52.0,0.11,1.1,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+983,Lontong Sayur Kacang Panjang,"Lontong, Kacang panjang, Santan",65.0,160,4000,6000,27000.0,1200,22,40.0,0.7,10,50.0,0.12,0.5,7.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+984,Bubur Ayam Kacang Merah,"Bubur tinotuan, Ayam goreng, Kacang merah",80.0,170,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+985,Nasi Kuning Tahu Goreng,"Nasi kuning, Tahu goreng",60.0,210,7000,6000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+986,Roti Panggang Selai Kacang Pisang,"Roti putih, Selai kacang, Pisang",35.0,320,7000,10000,48000.0,5000,70,110.0,2.0,60,41.0,0.11,0.9,3.0,9000,manis,breakfast,vitamin C tinggi
+987,Mi Goreng Jamur Tiram,"Mi kering, Jamur tiram",40.0,210,7000,2000,36000.0,1000,32,61.0,1.1,11,41.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+988,Bubur Kacang Hijau Ubi Merah,"Bubur kacang hijau, Ubi jalar merah",70.0,180,5000,1000,34000.0,2000,32,52.0,0.8,16,41.0,0.1,0.6,8.0,6000,manis,breakfast,vitamin C tinggi
+989,Nasi Uduk Empal Sapi,"Nasi uduk, Empal goreng",60.0,230,10000,8000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,9000,gurih,"dinner, lunch",makronutrien tinggi
+990,Makaroni Panggang Sosis,"Makaroni, Sosis daging sapi",24.7,400,11600,21300,44500.0,2500,24,71.0,1.2,385,40.0,0.17,1.2,0.0,8000,gurih,"dinner, lunch",mineral tinggi
+991,Roti Lapis Selai Nanas,"Roti putih, Selai nanas",40.0,260,6000,2000,50000.0,5000,60,100.0,2.0,50,40.0,0.1,0.8,0.0,7000,manis,breakfast,makronutrien tinggi
+992,Mi Rebus Bayam Telur,"Mi basah, Bayam, Telur ayam kampung",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+993,Bubur Sagu Pisang,"Bubur sagu, Pisang",75.0,160,2000,500,36000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,makronutrien tinggi
+994,Nasi Goreng Teri Medan,"Nasi, Teri goreng",53.0,220,10000,8000,37000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+995,Roti Panggang Keju Coklat,"Roti putih, Keju, Coklat",38.0,340,8000,14000,45000.0,5000,80,120.0,6.0,610,100.0,0.15,1.2,0.0,9000,manis,breakfast,mineral tinggi
+996,Makaroni Tumis Sawi,"Makaroni, Sawi, Wortel",40.0,180,6000,2000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6000,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+997,Nasi Uduk Tempe Orek,"Nasi uduk, Tempe orek",60.0,210,8000,7000,32000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+998,Bubur Sumsum Gula Aren,"Bubur sumsum, Gula aren",75.0,150,3000,1000,28000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
+999,Mi Goreng Sawi Telur,"Mi kering, Sawi, Telur ayam kampung",40.0,220,8000,3000,38000.0,1000,32,61.0,1.1,11,41.0,0.13,0.7,0.0,6500,gurih,"dinner, lunch",makronutrien tinggi
+1000,Roti Panggang Selai Stroberi Keju,"Roti putih, Selai stroberi, Keju",38.0,320,8000,10000,48000.0,5000,70,110.0,2.0,60,41.0,0.11,0.9,0.0,9000,manis,breakfast,makronutrien tinggi
+1001,Nasi Kuning Ayam Serundeng,"Nasi kuning, Ayam goreng, Serundeng",60.0,230,9000,7000,34000.0,500,28,60.0,1.0,10,40.0,0.13,0.7,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+1002,Bubur Kacang Merah Ubi Ungu,"Bubur kacang merah, Ubi jalar ungu",70.0,180,5000,1000,34000.0,2000,32,52.0,0.8,16,41.0,0.1,0.6,8.0,6000,manis,breakfast,vitamin C tinggi
+1003,Mi Rebus Tahu Bakso Sapi,"Mi basah, Tahu, Bakso sapi",80.0,120,6000,2000,18000.0,1500,40,60.0,1.0,10,30.0,0.1,0.7,8.0,6000,gurih,"dinner, lunch",vitamin C tinggi
+1004,Roti Panggang Telur Kornet,"Roti putih, Telur ayam goreng, Kornet sapi",40.0,260,12000,10000,32000.0,4600,36,61.0,1.1,315,91.0,0.13,0.9,0.0,8000,gurih,"breakfast, dinner, lunch",mineral tinggi
+1005,Nasi Goreng Ayam Suwir,"Nasi, Ayam goreng, Bawang goreng",53.0,220,9000,7000,36000.0,400,28,60.0,1.0,10,40.0,0.13,0.7,0.0,7000,gurih,"dinner, lunch",makronutrien tinggi
+1006,Bubur Ayam Kacang Panjang,"Bubur tinotuan, Ayam goreng, Kacang panjang",80.0,160,8000,2000,22000.0,3000,35,50.0,0.8,12,40.0,0.13,0.7,0.0,7000,gurih,"breakfast, dinner, lunch",gizi sedang/rendah
+1007,Makaroni Telur Puyuh,"Makaroni, Telur burung puyuh",40.0,200,8000,4000,34000.0,2000,30,60.0,1.0,10,40.0,0.1,0.7,8.0,6500,gurih,"breakfast, dinner, lunch",vitamin C tinggi
+1008,Nasi Uduk Sambal Goreng Ati,"Nasi uduk, Sambal goreng ati",60.0,220,8000,8000,33000.0,500,25,50.0,0.9,12,40.0,0.13,0.6,0.0,8000,pedas,"dinner, lunch",makronutrien tinggi
+1009,Roti Panggang Sosis Telur,"Roti putih, Sosis daging sapi, Telur ayam",38.8,350,12000,13000,45000.0,5000,70,110.0,2.0,60,40.0,0.1,0.8,0.0,9000,gurih,"breakfast, dinner, lunch",makronutrien tinggi
+1010,Mi Goreng Kornet Telur,"Mi kering, Kornet sapi, Telur ayam",40.0,340,14000,10000,54000.0,1000,41,120.0,2.0,100,60.0,0.1,1.0,0.0,8000,gurih,"dinner, lunch",makronutrien tinggi
+1011,Bubur Sumsum Kacang Hijau,"Bubur sumsum, Kacang hijau",75.0,150,4000,1000,28000.0,700,20,40.0,0.6,10,30.0,0.1,0.5,0.0,5000,manis,breakfast,gizi sedang/rendah
